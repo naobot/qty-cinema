@@ -1,0 +1,14 @@
+<nav class="navbar" role="navigation" aria-label="main navigation">
+    <div class="columns is-multiline is-centered">
+      <div class="navbar-brand column is-full has-background-light">
+        <div class="navbar-item brand-content">QTY</div>
+      </div>
+      <div class="navbar-menu columns is-full is-mobile">
+      {% for item in site.data.navigation %}
+        <div class="navbar-item has-text-centered column has-background-light">
+          <a href="{{ item.link }}" class="{% if page.url == item.link %}current{% endif %}">{{ item.name }}</a>
+        </div>
+      {% endfor %}
+      </div>
+    </div>
+</nav>
