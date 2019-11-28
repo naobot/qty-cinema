@@ -1,0 +1,20 @@
+<nav class="is-centered is-block">
+  <div class="navbar-brand is-centered">
+    <div class="brand-content is-centered">
+      <a href='{{ "/" | relative_url }}'>
+        <div class="qty-square">
+          <div class="logo">QTY</div>
+        </div>
+      </a>
+    </div>
+  </div>
+</div>
+<div class="menu is-centered" role="navigation" aria-label="main navigation">
+  <div class="menu-list is-mobile">
+  {% for item in site.data.navigation %}
+    <div class="navbar-item has-text-centered column">
+      <a href="{{ item.link | relative_url }}" class="{% if page.url == item.link %}current{% endif %}">{{ item.name }}</a>
+    </div>
+  {% endfor %}
+  </div>
+</nav>

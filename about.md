@@ -1,7 +1,9 @@
 ---
-layout: default
+layout: content
 title: About
 ---
-# About page
+# we are a film company
 
-This page tells you a little bit about me.
+we are ______, ______, ______
+
+we produce films and videos

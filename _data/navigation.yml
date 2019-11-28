@@ -1,20 +1,20 @@
 - name: About
-  link: /about.html
+  link: /about
   dropdown: false
 - name: Movies
-  link: /movies.html
+  link: /movies
   dropdown: false
 - name: Criticism
-  link: /criticism.html
+  link: /criticism
   dropdown: false
 - name: Logs
-  link: /logs.html
+  link: /logs
   dropdown: false
 - name: Store
   link: /
   disabled: true
   dropdown: false
 - name: Events
-  link: /events.html
-  disabled: true
+  link: /events
+  disabled: false
   dropdown: false

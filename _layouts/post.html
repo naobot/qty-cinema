@@ -1,7 +1,10 @@
 ---
-layout: default
+layout: content
 ---
+{% assign author = site.authors | where:"short_name", page.author | first %}
 <h1>{{ page.title }}</h1>
-<p>{{ page.date | date_to_string }} - {{ page.author }}</p>
+<h4>by <a href="{{ author.url | relative_url }}">{{ author.name }}</a> ({{ page.date | date_to_string }})</h4>
 
 {{ content }}
+
+<h5 class="has-text-right"><a href="javascript:history.back()"><< back</a></h5>

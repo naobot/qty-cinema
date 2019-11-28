@@ -1,0 +1,12 @@
+---
+layout: content
+title: Criticism
+---
+
+{% for post in site.posts %}
+{% assign author = site.authors | where:"short_name", post.author | first %}
+<section class="criticism-entry">
+  <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a> <span class="author">by <a href="{{ author.url | relative_url }}">{{ post.author }}</a></span></h2>
+  <p>{{ post.excerpt | strip_html }} <a href="{{ post.url | relative_url }}" class="read-more">[Read More]</a></p>
+</section>
+{% endfor %}

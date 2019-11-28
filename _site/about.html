@@ -5,46 +5,70 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <title>QTY | About</title>
-    <link rel="stylesheet" href="/assets/css/styles.css">
+    <link rel="stylesheet" href='/priv/qty/assets/css/styles.css'>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script type="text/javascript" src='/priv/qty/assets/js/scripts.js' async></script>
   </head>
   <body>
-    <nav class="navbar" role="navigation" aria-label="main navigation">
-    <div class="columns is-multiline is-centered">
-      <div class="navbar-brand column is-full has-background-light">
-        <div class="navbar-item brand-content">QTY</div>
-      </div>
-      <div class="navbar-menu columns is-full is-mobile">
-      
-        <div class="navbar-item has-text-centered column has-background-light">
-          <a href="/about.html" class="current">About</a>
+    <nav style="position: fixed;">
+  <div class="navbar-brand">
+    <div class="brand-content">
+      <a href='/priv/qty/'>
+        <div class="qty-square">
+          <div class="logo">QTY</div>
         </div>
-      
-        <div class="navbar-item has-text-centered column has-background-light">
-          <a href="/movies.html" class="">Movies</a>
-        </div>
-      
-        <div class="navbar-item has-text-centered column has-background-light">
-          <a href="/criticism.html" class="">Criticism</a>
-        </div>
-      
-        <div class="navbar-item has-text-centered column has-background-light">
-          <a href="/logs.html" class="">Logs</a>
-        </div>
-      
-        <div class="navbar-item has-text-centered column has-background-light">
-          <a href="/" class="">Store</a>
-        </div>
-      
-        <div class="navbar-item has-text-centered column has-background-light">
-          <a href="/events.html" class="">Events</a>
-        </div>
-      
-      </div>
+      </a>
     </div>
+  </div>
+</div>
+<div class="menu" role="navigation" aria-label="main navigation">
+  <div id="main-menu" class="menu-list">
+  
+    <div class="navbar-item has-text-centered column">
+      <a href="/priv/qty/about" class="current">About</a>
+    </div>
+  
+    <div class="navbar-item has-text-centered column">
+      <a href="/priv/qty/movies" class="">Movies</a>
+    </div>
+  
+    <div class="navbar-item has-text-centered column">
+      <a href="/priv/qty/criticism" class="">Criticism</a>
+    </div>
+  
+    <div class="navbar-item has-text-centered column">
+      <a href="/priv/qty/logs" class="">Logs</a>
+    </div>
+  
+    <div class="navbar-item has-text-centered column">
+      <a href="/priv/qty/" class="">Store</a>
+    </div>
+  
+    <div class="navbar-item has-text-centered column">
+      <a href="/priv/qty/events" class="">Events</a>
+    </div>
+  
+  </div>
+  <div class="navbar-expand arrow down-arrow is-hidden-tablet">
+    <a role="button" aria-label="menu" aria-expanded="false" data-target="navbarBasicExample">
+      <div aria-hidden="true"></div>
+    </a>    
+  </div>
 </nav>
-    <h1 id="about-page">About page</h1>
+    <main class="content">
+      <div class="container">
+      <h1 id="we-are-a-film-company">we are a film company</h1>
 
-<p>This page tells you a little bit about me.</p>
+<p>we are <strong>__</strong>, <strong>__</strong>, <strong>__</strong></p>
 
+<p>we produce films and videos</p>
+
+      </div>
+    </main>
+    <footer class="footer is-full">
+  <div class="content has-text-centered">
+    &copy; QTY 2019
+  </div>
+</footer>
   </body>
 </html>

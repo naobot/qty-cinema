@@ -1,0 +1,10 @@
+<div class="logs">
+{% for log in site.data.logs %}
+<div class="a-log">
+  <div class="film-image"><a href="{{ log.link }}"><img src="{{ log.image | relative_url }}"></a></div>
+
+  <h1><a href="{{ log.link }}">{{ log.title }}</a></h1>
+  <p>{{ log.description | smartify }}</p>
+</div>
+{% endfor %}
+</div>

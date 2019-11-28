@@ -5,10 +5,12 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <title>QTY | {{ page.title }}</title>
-    <link rel="stylesheet" href="/assets/css/styles.css">
+    <link rel="stylesheet" href='{{ "/assets/css/styles.css" | relative_url }}'>
+    <!-- <script type="text/javascript" src='{{ "/assets/js/scripts.js" | relative_url }}' async></script> -->
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
   </head>
   <body>
-    {% include navigation.html %}
-    {{ content }}
+    {% include navigation-center.html %}
+    {% include footer.html %}
   </body>
 </html>

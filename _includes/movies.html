@@ -1,0 +1,13 @@
+<div class="movies">
+{% for movie in site.data.movies %}
+<div class="a-film">
+  <div class="film-image"><a href="{{ movie.link }}"><img  src="{{ movie.image | relative_url }}"></a></div>
+  <h1 class="film-title"><a href="{{ movie.link }}">{{ movie.title }}</a></h1>
+  <h2 class="film-director">{{ movie.director }}</h2>
+  <div class="synopsis">
+    <p>{{ movie.synopsis | smartify }}</p>
+  </div>
+  <h4 class="release-date">Release Date: {{ movie.release }}</h4>
+</div>
+{% endfor %}
+</div>
