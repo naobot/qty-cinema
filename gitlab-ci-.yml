@@ -1,5 +1,5 @@
-# requiring the environment of Ruby 2.6.x
-image: ruby:2.6
+# requiring the environment of Ruby 2.5.x
+image: ruby:2.5
 
 before_script:
          - bundle install
