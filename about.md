@@ -6,4 +6,4 @@ title: About
 
 we are ______, ______, ______
 
-we produce films and videos
+we produce films and videos .
