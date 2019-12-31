@@ -1,0 +1,15 @@
+# requiring the environment of Ruby 2.6.x
+image: ruby:2.6
+
+before_script:
+         - bundle install
+# the 'pages' job will deploy and build your site to the 'public' path
+pages:
+  stage: deploy
+  script:
+   - bundle exec jekyll build -d public/
+  artifacts:
+     paths:
+       - public
+  only:
+   - master # this job will affect only the 'master' branch

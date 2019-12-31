@@ -1,8 +1,15 @@
+title: qty cinema
+
 permalink: /:categories/:year/:month/:day/:title
 
 collections:
   authors:
     output: true
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
 
 defaults:
   - scope:
