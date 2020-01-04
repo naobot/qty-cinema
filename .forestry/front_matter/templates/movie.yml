@@ -1,0 +1,26 @@
+---
+label: Movie
+hide_body: true
+fields:
+- type: field_group_list
+  name: Movies
+  label: Movies
+  fields:
+  - type: text
+    name: title
+    label: title
+  - type: text
+    name: director
+    label: director
+  - type: text
+    name: link
+    label: link
+  - type: textarea
+    name: synopsis
+    label: synopsis
+  - type: text
+    name: release
+    label: release
+  - type: file
+    name: image
+    label: image
