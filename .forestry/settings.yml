@@ -10,14 +10,11 @@ sections:
 - type: jekyll-posts
   label: Posts
   create: all
-- type: directory
-  path: _data
-  label: Data
-  create: documents
+- type: document
+  path: _data/movies.yml
+  label: Movies
   match: "**/*"
-  new_doc_ext: yaml
-  templates:
-  - movie
+  read_only: false
 - type: directory
   path: _authors
   label: Authors
