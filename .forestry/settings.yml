@@ -11,6 +11,12 @@ sections:
   label: Posts
   create: all
 - type: directory
+  path: _data
+  label: Data
+  create: documents
+  match: "**/*"
+  new_doc_ext: ".yaml"
+- type: directory
   path: _authors
   label: Authors
   create: all
