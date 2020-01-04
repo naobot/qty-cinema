@@ -1,7 +1,8 @@
 image: ruby:2.4
 
 before_script:
-         - bundle install
+  - gem install bundler
+  - bundle install
 
 test:
   stage: test
