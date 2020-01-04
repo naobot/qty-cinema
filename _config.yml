@@ -1,4 +1,5 @@
 title: qty cinema
+baseurl: "/qty"
 
 permalink: /:categories/:year/:month/:day/:title
 
