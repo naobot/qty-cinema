@@ -20,7 +20,7 @@ fields:
     label: synopsis
   - type: text
     name: release
-    label: release
+    label: release date
   - type: file
     name: image
-    label: image
+    label: film image
