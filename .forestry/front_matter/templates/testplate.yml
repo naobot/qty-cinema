@@ -17,5 +17,3 @@ fields:
     schema:
       format: markdown
   label: content
-pages:
-- test-page.md
