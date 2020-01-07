@@ -14,3 +14,15 @@ fields:
   config:
     required: false
   label: title
+- name: the_author
+  type: select
+  default: []
+  config:
+    required: false
+    options: []
+    source:
+      type: pages
+      section: authors
+      file: 
+      path: 
+  label: Author
