@@ -8,13 +8,20 @@ fields:
   fields:
   - type: datetime
     name: when
-    label: when
+    label: When
+    config:
+      required: true
+    default: now
   - type: text
     name: where
-    label: where
+    label: Where
   - type: text
     name: what
-    label: what
+    label: What
+    description: Name and/or short description of event
+    config:
+      required: true
   - type: text
     name: link
-    label: link
+    label: Event Link
+    description: "(optional)"
