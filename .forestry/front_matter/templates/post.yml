@@ -23,3 +23,14 @@ fields:
       file: 
       path: 
   label: Author
+- name: publish_date
+  type: datetime
+  label: Date Published
+  description: ''
+  config:
+    required: false
+    date_format: ''
+    time_format: 
+    display_utc: false
+  hidden: true
+  default: now
