@@ -12,16 +12,6 @@ fields:
   config:
     required: false
   label: Post Title
-- name: author
-  type: select
-  default: []
-  config:
-    required: false
-    options: []
-    source:
-      type: pages
-      path: _authors
-  label: Author
 - name: publish_date
   type: datetime
   label: Date Published
@@ -33,3 +23,9 @@ fields:
     display_utc: false
   hidden: true
   default: now
+- name: author
+  type: text
+  config:
+    required: false
+  label: Author
+  description: Must match author's Display Name exactly.
