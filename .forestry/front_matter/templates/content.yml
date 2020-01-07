@@ -5,6 +5,8 @@ fields:
 - type: text
   name: layout
   label: layout
+  hidden: true
 - type: text
   name: title
-  label: title
+  label: Page Title
+  description: Shows up in tabs as "QTY | [title]"
