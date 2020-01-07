@@ -5,6 +5,12 @@ fields:
 - type: text
   name: layout
   label: layout
+  hidden: true
 - type: text
   name: author
   label: author
+- name: title
+  type: text
+  config:
+    required: false
+  label: title
