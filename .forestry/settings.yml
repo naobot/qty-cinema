@@ -13,14 +13,12 @@ sections:
 - type: document
   path: _data/logs.yaml
   label: Logs
-  match: "**/*"
 - type: document
-  path: _data/movies.yml
+  path: _data/movies.yaml
   label: Movies
 - type: document
   path: _data/events.yaml
   label: Events
-  match: "**/*"
 - type: directory
   path: _authors
   label: Authors
