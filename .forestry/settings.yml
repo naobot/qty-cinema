@@ -11,10 +11,16 @@ sections:
   label: Posts
   create: all
 - type: document
+  path: _data/logs.yaml
+  label: Logs
+  match: "**/*"
+- type: document
   path: _data/movies.yml
   label: Movies
+- type: document
+  path: _data/events.yaml
+  label: Events
   match: "**/*"
-  read_only: false
 - type: directory
   path: _authors
   label: Authors
