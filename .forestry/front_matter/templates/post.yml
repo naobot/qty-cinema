@@ -6,15 +6,12 @@ fields:
   name: layout
   label: layout
   hidden: true
-- type: text
-  name: author
-  label: author
 - name: title
   type: text
   config:
     required: false
-  label: title
-- name: the_author
+  label: Post Title
+- name: author
   type: select
   default: []
   config:
