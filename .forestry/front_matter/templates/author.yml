@@ -16,3 +16,5 @@ fields:
   name: position
   label: Position
   description: "(optional)"
+pages:
+- _authors/kelley.md
