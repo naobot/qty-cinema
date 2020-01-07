@@ -1,0 +1,20 @@
+---
+label: Event
+hide_body: true
+fields:
+- type: field_group_list
+  name: Events
+  label: Events
+  fields:
+  - type: datetime
+    name: when
+    label: when
+  - type: text
+    name: where
+    label: where
+  - type: text
+    name: what
+    label: what
+  - type: text
+    name: link
+    label: link
