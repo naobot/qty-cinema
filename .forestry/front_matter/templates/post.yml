@@ -34,3 +34,5 @@ fields:
     display_utc: false
   hidden: true
   default: now
+pages:
+- _posts/test-article.md
