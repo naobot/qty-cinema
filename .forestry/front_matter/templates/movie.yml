@@ -8,19 +8,29 @@ fields:
   fields:
   - type: text
     name: title
-    label: title
+    label: Title
+    config:
+      required: true
   - type: text
     name: director
-    label: director
+    label: Director
+    config:
+      required: true
   - type: text
     name: link
-    label: link
+    label: Link
+    description: (Don't forget to include "http://")
   - type: textarea
     name: synopsis
-    label: synopsis
+    label: Synopsis
+    config:
+      required: true
+      wysiwyg: true
+      schema:
+        format: markdown
   - type: text
     name: release
-    label: release date
+    label: Release Date
   - type: file
     name: image
-    label: film image
+    label: Preview Image
