@@ -20,9 +20,7 @@ fields:
     options: []
     source:
       type: pages
-      section: authors
-      file: 
-      path: 
+      path: _authors
   label: Author
 - name: publish_date
   type: datetime
