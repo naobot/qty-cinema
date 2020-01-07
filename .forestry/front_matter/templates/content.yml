@@ -10,3 +10,5 @@ fields:
   name: title
   label: Page Title
   description: Shows up in tabs as "QTY | [title]"
+pages:
+- about.md
