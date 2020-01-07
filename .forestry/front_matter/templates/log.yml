@@ -8,13 +8,14 @@ fields:
   fields:
   - type: text
     name: title
-    label: title
+    label: Log Title
   - type: textarea
     name: description
-    label: description
+    label: Description
   - type: text
     name: link
-    label: link
+    label: Video Link
+    description: Link to Youtube, Vimeo, etc.
   - type: file
     name: image
-    label: image
+    label: Preview Image
