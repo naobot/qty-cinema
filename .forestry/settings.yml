@@ -10,13 +10,24 @@ sections:
 - type: jekyll-posts
   label: Posts
   create: all
+- type: document
+  path: _data/logs.yaml
+  label: Logs
+  match: "**/*"
+- type: document
+  path: _data/movies.yml
+  label: Movies
+- type: document
+  path: _data/events.yaml
+  label: Events
+  match: "**/*"
 - type: directory
   path: _authors
   label: Authors
   create: all
   match: "**/*"
-upload_dir: uploads
-public_path: "/uploads"
+upload_dir: assets/uploads
+public_path: "/assets/uploads"
 front_matter_path: ''
 use_front_matter_path: false
 file_template: ":filename:"
