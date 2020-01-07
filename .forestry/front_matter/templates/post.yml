@@ -35,5 +35,3 @@ fields:
     display_utc: false
   hidden: true
   default: now
-pages:
-- _posts/2020-01-07-test-article.md
