@@ -1,3 +1,8 @@
+---
+- when: 2020-04-23 04:00:00 +0000
+  where: Montreal
+  what: "<em>88:88</em> Screening at Visions"
+  link: ''
 - when: 2019-11-04
   where: Toronto
   what: This event already happened so is greyed out
@@ -7,7 +12,10 @@
   what: Isiah Medina, "Remembering the Future" - Lecture
 - when: 2019-12-21
   where: Deptford Cinema
-  what: <i>Nanterre Personne</i> by Angelina Battais, <i>Breaking and Entering / Rained Last Night / Late Embryo / Shooting Star Summer Solstice</i> by Kelley Dong, <i>Eden is a Cave</i> by Alexandre Galmard, <i>88:88</i> by Isiah Medina
+  what: "<i>Nanterre Personne</i> by Angelina Battais, <i>Breaking and Entering /
+    Rained Last Night / Late Embryo / Shooting Star Summer Solstice</i> by Kelley
+    Dong, <i>Eden is a Cave</i> by Alexandre Galmard, <i>88:88</i> by Isiah Medina"
 - when: 2019-11-21
   where: somewhere
-  what: Events are automatically sorted by date so they can be listed out of order in the data file
+  what: Events are automatically sorted by date so they can be listed out of order
+    in the data file
