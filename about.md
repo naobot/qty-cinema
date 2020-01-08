@@ -1,10 +1,9 @@
 ---
 layout: content
 title: About
+published: false
 
 ---
 # we are a film company
 
-we are ______, ______, ______
-
-we produce films and videos .
+we make movies
