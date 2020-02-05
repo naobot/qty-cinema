@@ -1,10 +1,4 @@
 ---
-- title: Inventing the Future
-  director: Isiah Medina
-  link: ''
-  synopsis: ''
-  release: "2020"
-  image: ''
 - title: Semi-Auto Colours
   director: Isiah Medina
   link: ''
@@ -46,6 +40,12 @@
   link: ''
   synopsis: ''
   release: "2019"
+  image: ''
+- title: Inventing the Future
+  director: Isiah Medina
+  link: ''
+  synopsis: ''
+  release: "2020"
   image: ''
 - title: VIA
   director: Alexandre Galmard
