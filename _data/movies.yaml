@@ -1,27 +1,9 @@
 ---
-- title: Late Embryo
-  director: Kelley Dong
-  link: ''
-  synopsis: "2017"
-  release: ''
-  image: ''
-- title: Breaking and Entering
-  director: Kelley Dong
+- title: Inventing the Future
+  director: Isiah Medina
   link: ''
   synopsis: ''
-  release: "2017"
-  image: ''
-- title: Shooting Star Summer Solstice
-  director: Kelley Dong
-  link: ''
-  synopsis: ''
-  release: "2019"
-  image: ''
-- title: From Nine to Nine
-  director: Neil Bahadur
-  link: ''
-  synopsis: ''
-  release: "2016"
+  release: "2020"
   image: ''
 - title: Semi-Auto Colours
   director: Isiah Medina
@@ -29,11 +11,17 @@
   synopsis: ''
   release: "2010"
   image: ''
-- title: VIA
-  director: Alexandre Galmard
+- title: 88:88
+  director: Isiah Medina
   link: ''
   synopsis: ''
-  release: ''
+  release: "2015"
+  image: ''
+- title: From Nine to Nine
+  director: Neil Bahadur
+  link: ''
+  synopsis: ''
+  release: "2016"
   image: ''
 - title: Idizwadidiz
   director: Isiah Medina
@@ -41,11 +29,29 @@
   synopsis: ''
   release: "2017"
   image: ''
-- title: 88:88
-  director: Isiah Medina
+- title: Breaking and Entering
+  director: Kelley Dong
   link: ''
   synopsis: ''
-  release: "2015"
+  release: "2017"
+  image: ''
+- title: Late Embryo
+  director: Kelley Dong
+  link: ''
+  synopsis: "2017"
+  release: ''
+  image: ''
+- title: Shooting Star Summer Solstice
+  director: Kelley Dong
+  link: ''
+  synopsis: ''
+  release: "2019"
+  image: ''
+- title: VIA
+  director: Alexandre Galmard
+  link: ''
+  synopsis: ''
+  release: ''
   image: ''
 - title: Movie Name that is Very Long and May Extend Past a Single Line
   director: Director Name
