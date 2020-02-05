@@ -17,5 +17,6 @@ fields:
   label: Position
   description: "(optional)"
 pages:
+- _authors/angelina.md
 - _authors/isiah.md
 - _authors/kelley.md
