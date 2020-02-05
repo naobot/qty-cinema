@@ -1,10 +1,4 @@
 ---
-- title: Nanterre Personne (Do not bury anyone)
-  director: Angelina Battais
-  link: ''
-  synopsis: ''
-  release: "2019"
-  image: ''
 - title: Semi-Auto Colours
   director: Isiah Medina
   link: ''
@@ -40,6 +34,12 @@
   link: ''
   synopsis: "2017"
   release: ''
+  image: ''
+- title: Nanterre Personne (Do not bury anyone)
+  director: Angelina Battais
+  link: ''
+  synopsis: ''
+  release: "2019"
   image: ''
 - title: Shooting Star Summer Solstice
   director: Kelley Dong
