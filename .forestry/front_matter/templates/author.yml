@@ -18,6 +18,7 @@ fields:
   description: "(optional)"
 pages:
 - _authors/angelina.md
+- _authors/erik.md
 - _authors/geoff.md
 - _authors/isaac.md
 - _authors/isiah.md
