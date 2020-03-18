@@ -118,9 +118,3 @@
   synopsis: ''
   release: ''
   image: ''
-- title: Movie Name that is Very Long and May Extend Past a Single Line
-  director: Director Name
-  link: http://www.google.com
-  synopsis: Synopsis stuff goes here.
-  image: https://via.placeholder.com/400x280
-  release: release date here
