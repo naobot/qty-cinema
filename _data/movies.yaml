@@ -1,44 +1,15 @@
 ---
-- title: Semi-Auto Colours
+- title: VIA
+  director: Alexandre Galmard
+  link: ''
+  synopsis: ''
+  release: ''
+  image: ''
+- title: Inventing the Future
   director: Isiah Medina
   link: ''
   synopsis: ''
-  release: "2010"
-  image: ''
-- title: 88:88
-  director: Isiah Medina
-  link: ''
-  synopsis: ''
-  release: "2015"
-  image: ''
-- title: From Nine to Nine
-  director: Neil Bahadur
-  link: ''
-  synopsis: There is a dead body sitting outside of a library which an unnamed young
-    man is arrested for. He escapes, and wanders an unnamed city – spaces take on
-    different meanings in handcuffs.
-  release: "2016"
-  image: ''
-- title: Idizwadidiz
-  director: Isiah Medina
-  link: ''
-  synopsis: ''
-  release: "2017"
-  image: ''
-- title: Breaking and Entering
-  director: Kelley Dong
-  link: ''
-  synopsis: The impossible childhood home, it cannot be reached and it is not the
-    same.
-  release: "2017"
-  image: ''
-- title: Late Embryo
-  director: Kelley Dong
-  link: ''
-  synopsis: 300 frames of 56 photographs taken over 20 days compressed into the span
-    of the time it takes for you to answer my call as I pull up into the driveway
-    and wait by the phone.
-  release: "2017"
+  release: "2020"
   image: ''
 - title: Nanterre Personne (Do not bury anyone)
   director: Angelina Battais
@@ -100,21 +71,50 @@
     Eu que creio que no me
   release: "2019"
   image: ''
+- title: Breaking and Entering
+  director: Kelley Dong
+  link: ''
+  synopsis: The impossible childhood home, it cannot be reached and it is not the
+    same.
+  release: "2017"
+  image: ''
+- title: Late Embryo
+  director: Kelley Dong
+  link: ''
+  synopsis: 300 frames of 56 photographs taken over 20 days compressed into the span
+    of the time it takes for you to answer my call as I pull up into the driveway
+    and wait by the phone.
+  release: "2017"
+  image: ''
 - title: Shooting Star Summer Solstice
   director: Kelley Dong
   link: ''
   synopsis: 'Alexander von Humboldt climbs a volcano. A parade comes to town. '
   release: "2019"
   image: ''
-- title: Inventing the Future
+- title: Idizwadidiz
   director: Isiah Medina
   link: ''
   synopsis: ''
-  release: "2020"
+  release: "2017"
   image: ''
-- title: VIA
-  director: Alexandre Galmard
+- title: From Nine to Nine
+  director: Neil Bahadur
+  link: ''
+  synopsis: There is a dead body sitting outside of a library which an unnamed young
+    man is arrested for. He escapes, and wanders an unnamed city – spaces take on
+    different meanings in handcuffs.
+  release: "2016"
+  image: ''
+- title: 88:88
+  director: Isiah Medina
   link: ''
   synopsis: ''
-  release: ''
+  release: "2015"
+  image: ''
+- title: Semi-Auto Colours
+  director: Isiah Medina
+  link: ''
+  synopsis: ''
+  release: "2010"
   image: ''
