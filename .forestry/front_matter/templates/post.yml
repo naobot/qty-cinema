@@ -29,5 +29,3 @@ fields:
     required: false
   label: Author
   description: Must match author's Display Name exactly.
-pages:
-- _posts/itf.md
