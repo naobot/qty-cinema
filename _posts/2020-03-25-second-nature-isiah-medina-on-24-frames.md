@@ -5,13 +5,11 @@ title: 'Second Nature: Isiah Medina on "24 Frames"'
 author: Isiah Medina
 
 ---
-[images-w1400.jpg?1517589784](https://assets.mubicdn.net/images/notebook/post_images/25267/images-w1400.jpg?1517589784 "images-w1400.jpg?1517589784")
-
 **1**
 
 > I will simply invert Rodin’s remark (he was, in fact, speaking of Muybridge’s work) to read thus: “It is the photograph which is truthful, and the artist who lies, for in reality time does stop.”
 
-—Hollis Frampton
+— Hollis Frampton
 
 After the release of Abbas Kiarostami’s _Life and Nothing More_ (1992), Jean-Luc Godard famously claimed that “Cinema begins with Griffith and ends with Kiarostami”. While the initial statement was made in 1992, we could not know where “cinema ends” until Kiarostami made his final movie. In 2017, his final movie premiered at the Cannes Film Festival, completed posthumously. The title: _24 Frames_. Like any truly great critic, Godard’s claims were not only for the present, but for the future of cinema, and its risk was in not knowing how Kiarostami’s oeuvre would end. Now we know how it ends, and we can think what this ending means.
 
