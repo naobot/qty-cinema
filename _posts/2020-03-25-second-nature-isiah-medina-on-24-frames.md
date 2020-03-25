@@ -5,6 +5,8 @@ title: 'Second Nature: Isiah Medina on "24 Frames"'
 author: Isiah Medina
 
 ---
+[images-w1400.jpg?1517589784](https://assets.mubicdn.net/images/notebook/post_images/25267/images-w1400.jpg?1517589784 "images-w1400.jpg?1517589784")
+
 **1**
 
 > I will simply invert Rodin’s remark (he was, in fact, speaking of Muybridge’s work) to read thus: “It is the photograph which is truthful, and the artist who lies, for in reality time does stop.”
