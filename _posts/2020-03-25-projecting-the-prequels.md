@@ -5,27 +5,9 @@ title: Projecting the Prequels
 author: Isiah Medina
 
 ---
-<p class="has-text-centered"> <img src="![](https://66.media.tumblr.com/100dd814e20f6ee2c3016d6f1f0e2e1e/tumblr_inline_ooo14pEplH1rv6ngb_500.png)"> </p>
-
 > The primary expression here is puzzlement, some indication that Ethan does not know his own mind and suddenly realizes he does not know his own mind… — Robert Pippin, _Hollywood Westerns and American Myth: The Importance of Howard Hawks and John Ford for Political Philosophy_
 
 I have some friendships that began online simply because they placed two frames from two different films side by side, or one below the other, with perhaps not even a name or a title, and I liked it. Through 0s and 1s I would see the infinite play of identity and difference. In the context of years of comparing frames to other frames, for the minimal and maximal differences and identities, of finding, in its rub of fragments, new counter-histories, accomplishments, and signs of a future cinema waiting to be plucked out anew, it should have been clear that at one point we would bump into the prequels again, as the prequels, in their form, are the essence of film criticism for those with a tumblr. Bill Krohn commented that _Star Wars_ is nothing but the continual reversal of signs, and what better form than the comparative screen capture to understand this series. Like all comparisons without writing, either you see the connection, you see the lineage or you don’t. If the comparison is trivial, the connection too loose, we may see that we are not in a thinking of montage but simply a sequence of shots. But all the comparisons work in a thinking of montage that turns the images into something both prequel and fraternal. Every true work of art re-invents the tradition it belongs to, opens up what came before it, and is the condition of what is old to persist as still new. A true work turns its predecessors into unexpected prequels.
-
-<p class="has-text-centered"> <img src="![](https://66.media.tumblr.com/41f22883541e049f5c9bc9e841dcf1cc/tumblr_inline_ooo14pA0HF1rv6ngb_500.png)"> </p>
-
-<p class="has-text-centered"> <img src="![](https://66.media.tumblr.com/253c73f18c06d61a570d205b9b922ff6/tumblr_inline_ooo14qOXfR1rv6ngb_500.png)"> </p>
-
-<p class="has-text-centered"> <img src="![](https://66.media.tumblr.com/90fda235be95f64e7e5fc1e67f55dafb/tumblr_inline_ooo14qG7ue1rv6ngb_500.png)"> </p>
-
-<p class="has-text-centered"> <img src="![](https://66.media.tumblr.com/0cb17182ca6b52e19e5524fc5af24823/tumblr_inline_ooo14rguAR1rv6ngb_500.png)"> </p>
-
-<p class="has-text-centered"> <img src="![](https://66.media.tumblr.com/21b2ac4586ac394a0e023dead0b4f917/tumblr_inline_ooo14stWtV1rv6ngb_500.png)"> </p>
-
-<p class="has-text-centered"> <img src="![](https://66.media.tumblr.com/22f3775ce98ac09f49ee92bd8c5c9999/tumblr_inline_ooo14s9BKR1rv6ngb_500.png)"> </p>
-
-<p class="has-text-centered"> <img src="![](https://66.media.tumblr.com/0e0aa4782b76613ad40e529c45daba77/tumblr_inline_ooo14t0BoT1rv6ngb_500.png)"> </p>
-
-<p class="has-text-centered"> <img src="![](https://66.media.tumblr.com/da6110c45d4c456ac5fc610a09119bd2/tumblr_inline_ooo14tDQ7Z1rv6ngb_500.png)"> </p>
 
 **1.**
 
