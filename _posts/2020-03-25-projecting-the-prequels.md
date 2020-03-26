@@ -25,6 +25,8 @@ I have some friendships that began online simply because they placed two frames 
 
 <p class="has-text-centered"> <img src="![](https://66.media.tumblr.com/0e0aa4782b76613ad40e529c45daba77/tumblr_inline_ooo14t0BoT1rv6ngb_500.png)"> </p>
 
+<p class="has-text-centered"> <img src="![](https://66.media.tumblr.com/da6110c45d4c456ac5fc610a09119bd2/tumblr_inline_ooo14tDQ7Z1rv6ngb_500.png)"> </p>
+
 **1.**
 
 The transitions between scenes, the different wipes that go diagonally, turn the screen into blinds, into squares, a minute hand on the clock, become more and more pronounced as the prequels succeed one another. Indeed the prequels are a question of transition, of succession of one form of government to another. It becomes most clear in _Episode II: Attack Of The Clones_, as Neil Bahadur pointed out, the very colour of the political world changes. All I would add is it appears like a diagonal wipe that is often seen across the films, except here there is no wipe at all, the world itself is in transition, no need for the subjective jump of the actualized wipe.
