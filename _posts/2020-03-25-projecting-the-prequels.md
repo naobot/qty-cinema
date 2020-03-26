@@ -31,6 +31,10 @@ I have some friendships that began online simply because they placed two frames 
 
 The transitions between scenes, the different wipes that go diagonally, turn the screen into blinds, into squares, a minute hand on the clock, become more and more pronounced as the prequels succeed one another. Indeed the prequels are a question of transition, of succession of one form of government to another. It becomes most clear in _Episode II: Attack Of The Clones_, as Neil Bahadur pointed out, the very colour of the political world changes. All I would add is it appears like a diagonal wipe that is often seen across the films, except here there is no wipe at all, the world itself is in transition, no need for the subjective jump of the actualized wipe.
 
+<p class="has-text-centered"> <img src="![](https://66.media.tumblr.com/8541f6aa3456d862ef142ca300f23661/tumblr_inline_ooo14u6qbr1rv6ngb_500.png)"> </p>
+
+<p class="has-text-centered"> <img src="![](https://66.media.tumblr.com/0a4ca72a7def776e89d63087549315cd/tumblr_inline_ooo14vfl5I1rv6ngb_500.png)"> </p>
+
 The lack of the wipe, of the transition, does not mean there is no transition occurring. In fact, the lightsaber duel between Darth Tyranus and Anakin manifests the actuality of transition within the battles themselves: in close-up the lightsabers act like the transitioning wipes, opening or closing down the frame, the blue or the red floating atop the faces, in the heat of battle political realignment can occur. Each attack on the other is a transitional wipe that only returns one to themselves. Even the sound during this sequence emphasizes the moving of the sabers about themselves rather than the actual hitting of two sabers. Via over-anticipation of the coming hit, we touch air, a pure rotation -
 
 _die Zuschauer sich drehen,_ rotating around itself, like a Kuleshov effect that returns to Darth Vader again and again as he looks at Skywalker, and the Emperor.
