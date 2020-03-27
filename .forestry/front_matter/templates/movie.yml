@@ -23,8 +23,10 @@ fields:
   - type: textarea
     name: synopsis
     label: Synopsis
+    description: Provide a movie synopsis
+    hidden: false
+    default: ""
     config:
-      required: true
       wysiwyg: true
       schema:
         format: markdown
