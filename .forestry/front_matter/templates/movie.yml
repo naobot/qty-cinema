@@ -1,6 +1,6 @@
 ---
 label: Movie
-hide_body: true
+hide_body: false
 fields:
 - type: field_group_list
   name: Movies
