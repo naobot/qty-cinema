@@ -8,6 +8,7 @@ collections:
       output: true
   - movies:
       output: true
+      permalink: /:name
 
 exclude:
   - Gemfile
