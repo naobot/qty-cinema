@@ -11,8 +11,8 @@
   link: /logs
   dropdown: false
 - name: Store
-  link: /
-  disabled: true
+  link: /store
+  disabled: false
   dropdown: false
 - name: Events
   link: /events
