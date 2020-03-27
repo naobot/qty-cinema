@@ -25,7 +25,7 @@ fields:
     label: Synopsis
     description: Provide a movie synopsis
     hidden: false
-    default: ""
+    default: Synopsis here!
     config:
       wysiwyg: true
       schema:
