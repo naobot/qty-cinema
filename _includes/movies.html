@@ -1,13 +1,5 @@
 <div class="movies">
 {% for movie in site.movies %}
-<div class="a-film">
-  {% if movie.image and movie.image != '' %}<div class="film-image"><a href="{{ movie.url | relative_url }}"><img  src="{{ movie.image | relative_url }}"></a></div>{% endif %}
-  <h1 class="film-title"><a href="{{ movie.url | relative_url }}">{{ movie.title }}</a></h1>
-  <h2 class="film-director">{{ movie.director }}</h2>
-  <div class="synopsis">
-    <p>{{ movie.synopsis | smartify }}</p>
-  </div>
-  {% if movie.release and movie.release != '' %}<h4 class="release-date">Release Date: {{ movie.release }}</h4>{% endif %}
-</div>
+movie
 {% endfor %}
 </div>
