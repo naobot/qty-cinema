@@ -36,3 +36,5 @@ fields:
   - type: file
     name: image
     label: Preview Image
+pages:
+- _data/movies.yaml
