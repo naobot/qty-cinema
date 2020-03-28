@@ -1,5 +1,5 @@
 <div class="movies">
-{% for movie in site.data.movies %}
+{% for movie in site.movies %}
 <div class="a-film">
   {% if movie.image and movie.image != '' %}<div class="film-image">{% if movie.link and movie.link != '' %}<a href="{{ movie.link | relative_url }}"><img  src="{{ movie.image | relative_url }}"></a>{% else %}<img  src="{{ movie.image | relative_url }}">{% endif %}</div>{% endif %}
 
@@ -8,7 +8,7 @@
       <h1 class="film-title">{% if movie.link and movie.link != '' %}<a href="{{ movie.link | relative_url }}">{{ movie.title }}</a>{% else %}{{ movie.title }}{% endif %}</h1>
       <h2 class="film-director">{{ movie.director }}</h2>
     </div>
-    {% if movie.watch %}<div class="watch-button">
+    {% if movie.watch and movie.watch != '' %}<div class="watch-button">
       <a href="{{ movie.watch | relative_url }}">[view]</a>
     </div>{% endif %}
   </div>
