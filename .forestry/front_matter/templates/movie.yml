@@ -12,6 +12,12 @@ fields:
   label: Director
   config:
     required: true
+- name: link
+  type: text
+  config:
+    required: true
+  label: Link Name
+  description: How the film page appears in the URL (e.g. film-title)
 - type: text
   name: watch
   label: Watch Link
