@@ -1,6 +1,6 @@
 ---
 layout: post
-publish_date: 2020-03-25 02:34:02 +0000
+publish_date: 2017-06-20 02:34:02 +0000
 title: On "Demolition of a Wall"
 author: Isiah Medina
 
