@@ -6,6 +6,5 @@ link: wrong-link-name
 watch: ''
 release: ''
 image: ''
-published: false
 
 ---
