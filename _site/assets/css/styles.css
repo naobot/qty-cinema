@@ -3756,7 +3756,13 @@ a.panel-block:hover, label.panel-block:hover { background-color: #EBEBD3; }
 
 .log-name { margin-top: 0 !important; }
 
+.film-heading { display: flex; align-items: flex-start; }
+
 .film-image { width: 100%; text-align: center; }
+
+.film-info { width: 80%; }
+
+.watch-button { text-align: right; width: 20%; padding: 20px; }
 
 h1.film-title { font-family: "Lora", "Georgia", "Century", serif; color: #0a0a0a; line-height: 1em; margin: 0.5em 0 0.2rem !important; }
 

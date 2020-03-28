@@ -73,9 +73,24 @@ $link-active-border: $secondary-accent;
   margin-top: 0 !important;
 }
 
+.film-heading {
+  display: flex;
+  align-items: flex-start;
+}
+
 .film-image {
   width: 100%;
   text-align: center;
+}
+
+.film-info {
+    width: 80%;
+}
+
+.watch-button {
+    text-align: right;
+    width: 20%;
+    padding: 20px;
 }
 
 h1.film-title {

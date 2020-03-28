@@ -5,11 +5,11 @@
 
   <div class="film-heading">
     <div class="film-info">
-      <h1 class="film-title"><a href="{{ movie.link | relative_url }}">{{ movie.title }}</a></h1>
+      <h1 class="film-title">{% if movie.link and movie.link != '' %}<a href="{{ movie.link | relative_url }}">{{ movie.title }}</a>{% else %}{{ movie.title }}{% endif %}</h1>
       <h2 class="film-director">{{ movie.director }}</h2>
     </div>
     {% if movie.watch %}<div class="watch-button">
-      [view]
+      <a href="{{ movie.watch | relative_url }}">[view]</a>
     </div>{% endif %}
   </div>
   
