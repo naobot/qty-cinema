@@ -2,6 +2,11 @@
 label: Movie
 hide_body: false
 fields:
+- name: link
+  type: boolean
+  label: Link
+  description: Link to individual film page
+  default: true
 - type: text
   name: title
   label: Title
@@ -12,12 +17,6 @@ fields:
   label: Director
   config:
     required: true
-- name: link
-  type: text
-  config:
-    required: true
-  label: Link Name
-  description: How the film page appears in the URL (e.g. film-title)
 - type: text
   name: watch
   label: Watch Link
