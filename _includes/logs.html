@@ -1,9 +1,9 @@
 <div class="logs">
 {% for log in site.data.logs %}
 <div class="a-log">
-  {% if log.image and log.image != '' %}<div class="film-image"><a href="{{ log.link }}"><img src="{{ log.image | relative_url }}"></a></div>{% endif %}
+  {% if log.image and log.image != '' %}<div class="film-image">{% if log.link and log.link != '' %}<a href="{{ log.link }}"><img src="{{ log.image | relative_url }}"></a>{% else %} <img src="{{ log.image | relative_url }}">{% endif %}</div>{% endif %}
 
-  <h1 class="log-name"><a href="{{ log.link }}">{{ log.title }}</a></h1>
+  <h1 class="log-name">{% if log.link and log.link != '' %}<a href="{{ log.link }}">{{ log.title }}</a>{% else %}{{ log.title }}{% endif %}</h1>
   <p>{{ log.description | smartify }}</p>
 </div>
 {% endfor %}
