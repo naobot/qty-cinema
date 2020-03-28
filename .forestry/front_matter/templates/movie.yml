@@ -44,5 +44,3 @@ fields:
   label: Layout
   hidden: true
   default: movie
-pages:
-- _movies/random-movie.md
