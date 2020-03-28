@@ -16,9 +16,22 @@ fields:
     label: Director
     config:
       required: true
-  - type: text
-    name: link
+  - name: link
+    type: select
+    default: []
+    config:
+      required: false
+      options: []
+      source:
+        type: pages
+        section: movie-pages
+        file: 
+        path: 
     label: Link
+    description: Link to individual film page
+  - type: text
+    name: watch
+    label: Watch Link
     description: (Don't forget to include "http://")
   - type: textarea
     name: synopsis
