@@ -6,4 +6,5 @@
   release: "2019"
   image: ''
   watch: ''
+  layout: movie
 ---

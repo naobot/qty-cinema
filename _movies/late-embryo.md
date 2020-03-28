@@ -8,4 +8,5 @@
   release: "2017"
   image: assets/uploads/Movies_KD_LateEmbryo.png
   watch: ''
+  layout: movie
 ---
