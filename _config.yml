@@ -9,7 +9,7 @@ collections:
     permalink: /:name
   movies:
     output: true
-    permalink: /movies/:name
+    permalink: /:name
 
 exclude:
   - Gemfile
