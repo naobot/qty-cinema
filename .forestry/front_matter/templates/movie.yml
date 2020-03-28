@@ -2,46 +2,33 @@
 label: Movie
 hide_body: false
 fields:
-  - type: text
-    name: title
-    label: Title
-    config:
-      required: true
-  - type: text
-    name: director
-    label: Director
-    config:
-      required: true
-  - name: link
-    type: select
-    default: []
-    config:
-      required: false
-      options: []
-      source:
-        type: pages
-        section: movie-pages
-        file: 
-        path: 
-    label: Link
-    description: Link to individual film page
-  - type: text
-    name: watch
-    label: Watch Link
-    description: (Don't forget to include "http://")
-  - type: textarea
-    name: synopsis
-    label: Synopsis
-    description: Provide a movie synopsis
-    hidden: false
-    default: Synopsis here!
-    config:
-      wysiwyg: true
-      schema:
-        format: markdown
-  - type: text
-    name: release
-    label: Release Date
-  - type: file
-    name: image
-    label: Preview Image
+- type: text
+  name: title
+  label: Title
+  config:
+    required: true
+- type: text
+  name: director
+  label: Director
+  config:
+    required: true
+- type: text
+  name: watch
+  label: Watch Link
+  description: (Don't forget to include "http://")
+- type: textarea
+  name: synopsis
+  label: Synopsis
+  description: Provide a movie synopsis
+  hidden: false
+  default: Synopsis here!
+  config:
+    wysiwyg: true
+    schema:
+      format: markdown
+- type: text
+  name: release
+  label: Release Date
+- type: file
+  name: image
+  label: Preview Image
