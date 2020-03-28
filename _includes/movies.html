@@ -9,7 +9,7 @@
       <h2 class="film-director">{{ movie.director }}</h2>
     </div>
     {% if movie.watch and movie.watch != '' %}<div class="watch-button">
-      <a href="{{ movie.watch | relative_url }}">[view online]</a>
+      <a href="{{ movie.watch | relative_url }}" target="_blank">[view online]</a>
     </div>{% endif %}
   </div>
   

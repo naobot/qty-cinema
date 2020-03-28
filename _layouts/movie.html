@@ -2,12 +2,21 @@
 layout: content
 ---
 
-{% if page.image and page.image != '' %}<img src="{{ page.image | relative_url }}">{% endif %}
+{% if page.image and page.image != '' %}<div class="film-image"><img  src="{{ page.image | relative_url }}"></div>{% endif %}
 
-<h2>{{ page.title }}</h2>
-<h4>{{ page.director }}</h4>
+<div class="film-heading">
+  <div class="film-info">
+    <h1 class="film-title">{{ page.title }}</h1>
+    <h2 class="film-director">{{ page.director }}</h2>
+  </div>
+  {% if page.watch and page.watch != '' %}<div class="watch-button">
+    <a href="{{ page.watch | relative_url }}" target="_blank">[view online]</a>
+  </div>{% endif %}
+</div>
 
-{{ page.synopsis }}
+<div class="synopsis">
+  <p>{{ page.synopsis | smartify }}</p>
+</div>
 
 {{ content }}
 
