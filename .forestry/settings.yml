@@ -8,15 +8,8 @@ sections:
   path: about.md
   label: About
 - type: document
-  path: _data/movies.yaml
-  label: Movies
-- type: directory
   path: _movies
-  label: Movie Pages
-  create: all
-  match: "**/*"
-  templates:
-  - content
+  label: Movies
 - type: jekyll-posts
   label: Criticism
   create: documents
