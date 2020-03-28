@@ -1,6 +1,6 @@
 ---
 layout: post
-publish_date: 2020-03-25 02:35:10 +0000
+publish_date: 2018-02-06 03:35:10 +0000
 title: 'Second Nature: On "24 Frames"'
 author: Isiah Medina
 
