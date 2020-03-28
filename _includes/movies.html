@@ -1,15 +1,15 @@
 <div class="movies">
 {% for movie in site.movies %}
 <div class="a-film">
-  {% if movie.image and movie.image != '' %}<div class="film-image"><a href="{{ movie.url | relative_url }}"><img  src="{{ movie.image | relative_url }}"></a></div>{% endif %}
+  {% if movie.image and movie.image != '' %}<div class="film-image">{% if movie.link %}<a href="{{ movie.url | relative_url }}"><img  src="{{ movie.image | relative_url }}"></a>{% else %}<img  src="{{ movie.image | relative_url }}">{% endif %}</div>{% endif %}
 
   <div class="film-heading">
     <div class="film-info">
-      <h1 class="film-title"><a href="{{ movie.url | relative_url }}">{{ movie.title }}</a></h1>
+      <h1 class="film-title">{% if movie.link %}<a href="{{ movie.url | relative_url }}">{{ movie.title }}</a>{% else %}{{ movie.title }}{% endif %}</h1>
       <h2 class="film-director">{{ movie.director }}</h2>
     </div>
     {% if movie.watch and movie.watch != '' %}<div class="watch-button">
-      <a href="{{ movie.watch | relative_url }}">[view]</a>
+      <a href="{{ movie.watch | relative_url }}">[view online]</a>
     </div>{% endif %}
   </div>
   

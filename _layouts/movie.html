@@ -1,7 +1,13 @@
 ---
 layout: content
 ---
+
+{% if page.image and page.image != '' %}<img src="{{ page.image | relative_url }}">{% endif %}
+
 <h2>{{ page.title }}</h2>
+<h4>{{ page.director }}</h4>
+
+{{ page.synopsis }}
 
 {{ content }}
 
