@@ -46,5 +46,6 @@ fields:
   default: movie
 pages:
 - _movies/berg-s-fatalism.md
+- _movies/may-and-december-2.md
 - _movies/nm.md
 - _movies/république.md
