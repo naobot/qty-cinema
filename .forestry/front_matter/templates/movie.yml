@@ -38,5 +38,12 @@ fields:
 - type: file
   name: image
   label: Preview Image
+- name: layout
+  type: text
+  config:
+    required: false
+  label: Layout
+  hidden: true
+  default: movie
 pages:
 - _movies/random-movie.md
