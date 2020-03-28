@@ -45,4 +45,5 @@ fields:
   hidden: true
   default: movie
 pages:
+- _movies/berg-s-fatalism.md
 - _movies/république.md
