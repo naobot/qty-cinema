@@ -3,4 +3,6 @@ layout: content
 title: About
 
 ---
-# Quantity Cinema
+# About
+
+Quantity Cinema produces movies and criticism. 
