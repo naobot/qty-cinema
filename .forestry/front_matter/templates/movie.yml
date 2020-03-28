@@ -38,3 +38,5 @@ fields:
 - type: file
   name: image
   label: Preview Image
+pages:
+- _movies/random-movie.md
