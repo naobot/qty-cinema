@@ -1,8 +1,4 @@
 ---
-- title: log 0
-  description: ''
-  link: ''
-  image: assets/uploads/Logs_IM_Log0.png
 - title: log 1 (Partitions)
   description: ''
   link: ''
@@ -11,5 +7,3 @@
   description: ''
   link: https://www.youtube.com/watch?v=VWd7llH1iRM
   image: assets/uploads/Logs_IM_Log2.png
-- title: log 3
-  image: assets/uploads/Logs_IM_Log3.png
