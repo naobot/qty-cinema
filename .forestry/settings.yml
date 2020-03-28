@@ -7,9 +7,13 @@ sections:
 - type: document
   path: about.md
   label: About
-- type: document
+- type: directory
   path: _movies
   label: Movies
+  create: all
+  match: "**/*"
+  templates:
+  - movie
 - type: jekyll-posts
   label: Criticism
   create: documents
