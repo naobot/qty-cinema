@@ -1,5 +1,22 @@
 <div class="movies">
-{% for movie in site.movies %}
-movie
+{% for movie in site.data.movies %}
+<div class="a-film">
+  {% if movie.image and movie.image != '' %}<div class="film-image">{% if movie.link and movie.link != '' %}<a href="{{ movie.link | relative_url }}"><img  src="{{ movie.image | relative_url }}"></a>{% else %}<img  src="{{ movie.image | relative_url }}">{% endif %}</div>{% endif %}
+
+  <div class="film-heading">
+    <div class="film-info">
+      <h1 class="film-title"><a href="{{ movie.link | relative_url }}">{{ movie.title }}</a></h1>
+      <h2 class="film-director">{{ movie.director }}</h2>
+    </div>
+    {% if movie.watch %}<div class="watch-button">
+      [view]
+    </div>{% endif %}
+  </div>
+  
+  <div class="synopsis">
+    <p>{{ movie.synopsis | smartify }}</p>
+  </div>
+  {% if movie.release and movie.release != '' %}<h4 class="release-date">Release Date: {{ movie.release }}</h4>{% endif %}
+</div>
 {% endfor %}
 </div>

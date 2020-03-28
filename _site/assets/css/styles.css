@@ -3754,6 +3754,8 @@ a.panel-block:hover, label.panel-block:hover { background-color: #EBEBD3; }
 
 .a-film, .a-log { margin-bottom: 80px; }
 
+.log-name { margin-top: 0 !important; }
+
 .film-image { width: 100%; text-align: center; }
 
 h1.film-title { font-family: "Lora", "Georgia", "Century", serif; color: #0a0a0a; line-height: 1em; margin: 0.5em 0 0.2rem !important; }

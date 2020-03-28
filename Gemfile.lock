@@ -61,10 +61,10 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  jekyll
+  jekyll (= 4.0.0)
 
 RUBY VERSION
-   ruby 2.4.1p111
+   ruby 2.4.9p362
 
 BUNDLED WITH
    2.1.2

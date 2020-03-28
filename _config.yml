@@ -4,11 +4,12 @@ baseurl: "/qty"
 permalink: /:categories/:year/:month/:day/:title
 
 collections:
-  - authors:
-      output: true
-  - movies:
-      output: true
-      permalink: /:name
+  authors:
+    output: true
+    permalink: /:name
+  movies:
+    output: true
+    permalink: /movies/:name
 
 exclude:
   - Gemfile
