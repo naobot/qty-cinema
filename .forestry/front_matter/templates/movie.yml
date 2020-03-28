@@ -2,10 +2,6 @@
 label: Movie
 hide_body: false
 fields:
-- type: field_group_list
-  name: Movies
-  label: Movies
-  fields:
   - type: text
     name: title
     label: Title
