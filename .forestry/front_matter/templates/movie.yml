@@ -31,8 +31,20 @@ fields:
     wysiwyg: true
     schema:
       format: markdown
+- name: release
+  type: datetime
+  description: Only the year will appear, but day and month are taken into consideration
+    for display order. (Ordered by most recent at the top.)
+  config:
+    required: false
+    date_format: YYYY
+    time_format: 
+    display_utc: false
+    export_format: YYYYMMDD
+  label: Release Date
+  default: now
 - type: text
-  name: release
+  name: release1
   label: Release Date
 - type: file
   name: image
