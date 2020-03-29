@@ -1,5 +1,6 @@
 <div class="movies">
-{% for movie in site.movies %}
+{% assign sorted = (site.movies | sort: 'release' | reverse ) %}
+{% for movie in sorted %}
 <div class="a-film">
   {% if movie.image and movie.image != '' %}<div class="film-image">{% if movie.link %}<a href="{{ movie.url | relative_url }}"><img  src="{{ movie.image | relative_url }}"></a>{% else %}<img  src="{{ movie.image | relative_url }}">{% endif %}</div>{% endif %}
 
