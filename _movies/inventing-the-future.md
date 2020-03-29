@@ -14,6 +14,6 @@ layout: movie
 
 _Demand full automation, demand a reduced work week, demand universal basic income, destroy the work ethic._
 
-Watch Isiah Medina's adaptation of _Inventing the Future_ by Nick Srnicek and Alex William here.
+Watch Isiah Medina's adaptation of _Inventing the Future_ by Nick Srnicek and Alex William [here](https://youtu.be/LY44I9P_QZU).
 
 * Download link for _Inventing the Future_ (H264)
