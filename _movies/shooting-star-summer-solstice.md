@@ -9,7 +9,7 @@ image: assets/uploads/Movies_KD_ShootingStar.png
 layout: movie
 
 ---
-This is additional extra movie.
+This is additional extra movie information.
 
 ## Related Links
 
