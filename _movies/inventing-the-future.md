@@ -2,7 +2,8 @@
 title: Inventing the Future
 director: Isiah Medina
 link: inventing-the-future
-synopsis: ''
+synopsis: 'Take back control over our future and foster the ambition for a world more
+  modern than capitalism. '
 release: March 30 2020
 image: "/assets/uploads/Movies_IM_InventingtheFuture2.png"
 watch: https://youtu.be/LY44I9P_QZU
