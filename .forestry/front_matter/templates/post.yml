@@ -30,7 +30,6 @@ fields:
   label: Author
   description: Must match author's Display Name exactly.
 pages:
-- _posts/2020-03-25-on-demolition-of-a-wall.md
 - _posts/2020-03-25-projecting-the-prequels.md
 - _posts/2020-03-25-second-nature-isiah-medina-on-24-frames.md
 - _posts/2020-03-28-confessions-of-a-mask-john-lone-in-m-butterfly.md
