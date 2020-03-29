@@ -37,7 +37,7 @@ fields:
     for display order. (Ordered by most recent at the top.)
   config:
     required: false
-    date_format: YYYY
+    date_format: YYYY-MM-DD
     time_format: 
     display_utc: false
     export_format: YYYYMMDD
