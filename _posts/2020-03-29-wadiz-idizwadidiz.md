@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Alexandre Galmard
-title: wadiz:idizwadidiz?
+title: On "idizwadidiz"
 publish_date: 2018-08-27T04:00:00.000+00:00
 
 ---
