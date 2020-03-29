@@ -10,7 +10,7 @@ watch: https://youtu.be/LY44I9P_QZU
 layout: movie
 
 ---
-\[Poster\]
+![](/assets/uploads/Movies_IM_InventingTheFuture.png)
 
 Demand full automation, demand a reduced work week, demand universal basic income, destroy the work ethic.
 
