@@ -1,6 +1,6 @@
 ---
 layout: post
-publish_date: 2019-07-02 02:05:49 +0000
+publish_date: 2019-07-02T02:05:49.000+00:00
 title: 'Confessions of a Mask: John Lone in "M Butterfly"'
 author: Kelley Dong
 
