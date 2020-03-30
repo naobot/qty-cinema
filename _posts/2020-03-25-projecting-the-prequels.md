@@ -59,7 +59,7 @@ _Episode III_ ends in elation as we know what happens in the later episodes. At 
 
 He failed where others succeeded, he succeeded where others failed: he took control of the universe. Anakin turns the world into a green screen, destroying and creating the conditions to love unconditionally.
 
-![](assets/uploads/Criticism_IM_Prequels16.png)
+![](/assets/uploads/Criticism_IM_Prequels16.png)
 
 To choose one, or choose zero, is the question of the digital. The genius of _Episode II: Attack of the Clones_, a landmark in digital cinema, is that it poses the question of the form of the digital against a critique of democracy. Yes (1), the form of digital offers a true choice, No (0) democracy does not offer true choices. Schelling saw that evil is more directly spiritual than the good in its cold abstract hatred of reality. The unrepentant joys of CGI are evil in this formal sense, and beautiful for the same reason. In showing the rise of evil, we need the digital imagination unfettered by the studio interference, democratic test-screenings, and the care of making a movie ‘for the fans’, the majority. In _Les trois désastres_, Jean-Luc Godard claimed that digital will be a dictatorship. If celluloid long takes were democratic in its manipulation, then the case is not that of democracy vs. dictatorship, but that dictatorship is the truth of democracy’s purely _formal_ manipulations. The democratization of the digital cinema, in terms of criticism and filmmaking, must be coupled with the digitization of democracy, the shift in making transparent all the points, decisions, zero and one, that show its formal identity to dictatorship.
 
@@ -71,17 +71,15 @@ Thus when Anakin makes the choice, the same choice of love, in _Episode III_ and
 
 The logic of the digital continues as when Obi-Wan tells Anakin that only a Sith deals in absolutes, only to later say “Senator Palpatine is evil” to which Anakin replies “In my point of view, the Jedi are evil”. Exhausted, Obi-Wan yells “then you are lost!” Of course many commentators on this and other popular films will claim that the ideology is always inconsistent, and designed that way to attract the largest possible market. However the issue is not inconsistency itself, but _which_ inconsistency? Only the greatest philosophers and artists contradict themselves, since they approach a real point of tension that cannot be easily dissolved into the morality of their time. A true artist will create the precise contours of ideological inconsistency, and situate us at various points of impasse. Any film without this tension is perhaps neutered and of interest only for patting one self on the back for being on the right side of history. Instead, working in these tension spaces, we find that not only is the future open, but so is the past itself. After all, that is the creative struggle in creating a prequel.
 
-![](assets/uploads/Criticism_IM_Prequels17.png)
+![](/assets/uploads/Criticism_IM_Prequels17.png)
 
-![](assets/uploads/Criticism_IM_Prequels18.png)
+![](/assets/uploads/Criticism_IM_Prequels19.png)
 
-![](assets/uploads/Criticism_IM_Prequels19.png)
+![](/assets/uploads/Criticism_IM_Prequels20.png)
 
-![](assets/uploads/Criticism_IM_Prequels20.png)
+![](/assets/uploads/Criticism_IM_Prequels21.png)
 
-![](assets/uploads/Criticism_IM_Prequels21.png)
-
-![](assets/uploads/Criticism_IM_Prequels22.png)
+![](/assets/uploads/Criticism_IM_Prequels22.png)
 
 If Lucas’ _Star Wars_ writes the transition of one frame to another, there must be something shared to register the change from one to the other, a part of change that itself does not change. That is, we must assume an invariance that is discovered by the back and forth between one era to another. This is projection. As Daniel Morgan writes that for Godard: 1917 _is_ 1789, and so is 1848, and Weimar in 1945 is Weimar in 1806, and finally Berlin of 1944 is Nosferatu’s village of 1922, as seen by Godard in the 1950s at the Cinémathèque Française. Pedro Costa makes a similar remark when he says “There will be someone from Finland who’ll ask about Fontainhas. Fontainhas is Russia in ‘17, it’s Hollywood in ‘34. It’s not more or less than that.” Neil Bahadur, commenting on Straub-Huillet’s _Fortini/Cani_: “street scenes take on multiple meanings: 1976 Rome serves both as stand-in for 1940’s Germany, Italy, and France, reminding us how easily citizens accepted fascism \[…\], then also as 1976 Rome in relation to history - \[…\] democratic systems try to design us to ‘forget’ the past, and spaces which haven’t changed at all.” Lucas makes a similar projection. The original Star Wars was inspired by the Vietnam War, and many commentators related _Episode II_ to the Iraq War, Anakin kills the ‘sand people’, and slaughters the men, women and children, “like animals” because “they are animals” (to which Padmé comforts with a link of humanism to the justification of terror: “to be angry is to be human”). Lucas in 2005: “The parallels between what we did in Vietnam and what we’re doing in Iraq now are unbelievable.” To track the invariance of democracy becoming itself, i.e. a dictatorship, the projections of studying history become strikingly compressed into what is called a “\[fleecing\] and plunder” by Jonathan Rosenbaum: “various planets recycle the stereotypical settings, costumes, hair styles, and accents of Renaissance Venice, Africa, India, China, and the Middle East.” What is a street scene in Straub-Huillet becomes an abstraction of stereotypes of entire planets, and the legend of stereo continues where democracy projects dictatorship. Or to put it like Pedro Costa speaking on Rossellini, the degree of abstraction gets higher and higher as the prequels progress. And what is key here is that we are truly in a deadlock, and its a deadlock that is in our past, a long time ago, in a galaxy far, far away. The relation and reversibility of democracy and dictatorship is a true problem not to be solved simply by choosing one over the other as they are the same. It is democratic to have to choose one or the other, which is to say, it is a false choice, and at the same time, it is a forced choice, dictated to us. Like Stalin speaking on left and right deviations, he claims that they are both worse. Anakin finds that both the Jedi and Sith are both worse, opening the space for another possibility. I don’t see Luke as a Jedi, as both Obi-Wan and Yoda claimed that he must kill/confront Vader to become one, and thus both the legacies of the Sith and Jedi die with Anakin. What we are left with, in the final shot, are a set of different species with the false forced choices of Jedi and Sith no longer operative, just a generic set with in an open space of perhaps new decisions, where even the Jedi who show up as immortal ghosts are ambiguous in their consequences, as it is a desire of the Sith to be immortal.
 
@@ -97,7 +95,7 @@ Self-abolishment would be the true solution, a world without either Sith nor Jed
 
 …that is, there is no true difference. That the original _Star Wars_ could present these judgments in a register of realism, points to the dead end of realism as a register of thinking the present of choosing good or evil. In realism, there is no difference, and perhaps to see where the line between the two lines up, we need a different form.
 
-![](assets/uploads/Criticism_IM_Prequels23.png)
+![](/assets/uploads/Criticism_IM_Prequels23.png)
 
 **5.**
 
@@ -105,7 +103,7 @@ Beginning with _Episode II: Attack of the Clones_ Lucas placed a primacy on the 
 
 For what is the prison in _THX 1138?_ In Neil Bahadur’s reading, THX and SEN are placed in prison when logic and emotion are discovered. As punishment, they are in a white space without any orientation. In this space, conventional cutting and framing is _manipulating_. But perhaps we should instead see that the coherent representation of the space allows for determination and orientation, and it is _indeterminacy_ that is imprisoning. THX and SEN are unfree by fleeing from determination, the prisoners are all the more determined, unable to make a coherent space to track their own movements and exit. As any artist knows, it is the blank canvas that is ultimately imprisoning, and the first act of freedom is making a mark to orient oneself in it. Ultimately THX escapes and sees the sun. Bahadur claims that Lucas retrieves the world back from the deception of images. I would only add that by Monday, June 26, 2000, after seeing the sun, Lucas envelopes himself back in the prison, except this time it is all blue instead of all white.
 
-![](assets/uploads/Criticism_IM_Prequels24.png)
+![](/assets/uploads/Criticism_IM_Prequels24.png)
 
 For the battle is to be fought here: there are no images, no world to reclaim that would be without _mediation._ What was a scene of disorientation in _THX 1138_ becomes the ground of orientation, of infinite possibilities, in the making of _Episode II._ The only escape from alienation is its redoubling.
 
@@ -117,16 +115,16 @@ After finally escaping the studio Lucas then faced the demands of the People, th
 
 What is worth sticking to, what is worth keeping? Even in a digital world, hair still moves in the wind, like Griffith’s wind in the trees, a minimal index that these actors are in the world that we see while also pointing elsewhere. Yet we stay here. In fact, it is staying in the present that is Anakin’s most difficult task, for he can see the future. At the close of _Revenge of the Sith_, we are also tempted to look into the future, since we know how it all ends, what happens in the other films made in the past but presenting a future, and we rush to make connections before they happen. We are, for once, within the subjectivity of Anakin. The temptation of those chosen is to know how things end and act with this knowledge. The bliss of the final iris to space is to know what it is like to be tempted by the truths of the future, and the future of truths – gladly acting according to what will have been, while changing those very coordinates in the same motion.
 
-![](assets/uploads/Criticism_IM_Prequels25.png)
+![](/assets/uploads/Criticism_IM_Prequels25.png)
 
-![](assets/uploads/Criticism_IM_Prequels26.png)
+![](/assets/uploads/Criticism_IM_Prequels26.png)
 
-![](assets/uploads/Criticism_IM_Prequels27.png)
+![](/assets/uploads/Criticism_IM_Prequels27.png)
 
-![](assets/uploads/Criticism_IM_Prequels28.png)
+![](/assets/uploads/Criticism_IM_Prequels28.png)
 
-![](assets/uploads/Criticism_IM_Prequels29.png)
+![](/assets/uploads/Criticism_IM_Prequels29.png)
 
-![](assets/uploads/Criticism_IM_Prequels30.png)
+![](/assets/uploads/Criticism_IM_Prequels30.png)
 
-![](assets/uploads/Criticism_IM_Prequels31.png)
+![](/assets/uploads/Criticism_IM_Prequels31.png)
