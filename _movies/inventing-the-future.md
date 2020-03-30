@@ -13,6 +13,6 @@ layout: movie
 ---
 ![](assets/uploads/Movies_IM_InventingTheFuture3-1.png)
 
-Watch Isiah Medina's adaptation of _Inventing the Future_ by Nick Srnicek and Alex Williams [here](https://youtu.be/LY44I9P_QZU).
+Watch Isiah Medina's adaptation of _Inventing the Future_ by Nick Srnicek and Alex Williams [here](https://youtu.be/LY44I9P_QZU). 
 
 * [Download link](https://drive.google.com/open?id=1uIK0IWWp4qpb-1XIECM6KfDCHPW-UAiG) for _Inventing the Future_ (H264, 9GB)
