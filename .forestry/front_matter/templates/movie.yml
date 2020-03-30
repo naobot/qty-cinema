@@ -54,6 +54,7 @@ fields:
   hidden: true
   default: movie
 pages:
+- _movies/berg-s-fatalism-2.md
 - _movies/berg-s-fatalism.md
 - _movies/eden-is-a-cave.md
 - _movies/fado.md
