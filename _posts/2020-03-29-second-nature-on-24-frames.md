@@ -5,7 +5,7 @@ title: 'Second Nature: On "24 Frames"'
 author: Isiah Medina
 
 ---
-![](assets/uploads/Criticism_IM_24Frames.jpg)
+![](/assets/uploads/Criticism_IM_24Frames.jpg)
 
 **1**
 
