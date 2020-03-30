@@ -5,6 +5,14 @@ title: 'Confessions of a Mask: John Lone in "M Butterfly"'
 author: Kelley Dong
 
 ---
+![](assets/uploads/Criticism_KD_JohnLone1.png)
+
+![](assets/uploads/Criticism_KD_JohnLone2.png)
+
+![](assets/uploads/Criticism_KD_JohnLone3.png)
+
+![](assets/uploads/Criticism_KD_JohnLone4.png)
+
 Whatever happened to John Lone? Lone, curtained by mystique since his days as a youth member of the Peking Opera, has left behind very little hints. Though he receded from the public eye after his role in Philip G. Atwell’s _War_ (2007), he did not formally announce his retirement, nor did he provide any personal or professional reasons for vanishing. (Chinese news outlets, and fan-operated social media accounts, report that he has since moved to Canada.) But the actor had never revealed much about himself to start, at times denying even his age and refusing to disclose where he lived. These fastidious efforts to maintain his privacy extended to a vehement refusal of any racial categories projected upon him as an Asian performer, whether Charlie Chan or Fu Manchu, Chinese-American (he asked in 1987, “Does anyone call \[Meryl Streep\] an English-American actress?”) or Chinese.
 
 Lone’s insistence that he does not play racist archetypes appears incongruous when one notes how often his characters were positioned as agents of Yellow Peril or decorated with the trimmings of Orientalism. The development of Lone’s curious persona was a gradual becoming, a response to both the Hollywood racism and the identity politics of the Asian-American theater that Lone encountered after leaving Hong Kong at 19. Early television and film parts (including a person named “Chinese” in 1979’s _Americathon_) reduced him to a blur of the Orient. Within Hollywood, Lone’s flirtations with racist archetypes, such as in Michael Cimino’s _Year of the Dragon_, crossed a dangerous threshold. At once, he could be a fearful prop for Hollywood xenophobia and still exude a dignified charisma that belied the political wrongness latent in the narratives in which he partook. Dragon’s character Joey Tai, for instance, suggests that all supposedly Asian features, whether positive or negative, are false constructs that may be manipulated for self-advancement. Swarmed by a storm of journalists, Joey Tai declares that it is they who have chained him to a “sinister Charlie Chan image.” By the contrary, he’d rather claim to be a model minority, though even this is another deception. Lone’s process of inverting racist stereotypes resembles what Arif Dirlik defines as “self-orientalism,” wherein the Asian participates in the construction of Orientalism. For Lone, however, self-orientalism was also a gamble of indeterminable risk: to what degree could the Asian subject voluntarily wear the stereotype imposed upon him without losing ownership of his autonomy?
