@@ -6,7 +6,7 @@ layout: movie
 title: Worlds (TBA)
 director: Isaac Goes
 watch: ''
-image: ''
+image: assets/uploads/Movies_IG_Worlds.png
 published: false
 
 ---
