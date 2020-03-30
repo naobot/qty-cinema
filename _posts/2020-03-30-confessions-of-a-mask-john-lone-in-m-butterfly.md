@@ -1,17 +1,13 @@
 ---
 layout: post
-publish_date: 2019-06-02 01:46:01 +0000
+publish_date: 2019-06-02T01:46:01.000+00:00
 title: 'Confessions of a Mask: John Lone in "M Butterfly"'
 author: Kelley Dong
 
 ---
-![](assets/uploads/Criticism_KD_JohnLone1.png)
+![](/assets/uploads/Criticism_KD_JohnLone1.png)
 
-![](assets/uploads/Criticism_KD_JohnLone2.png)
-
-![](assets/uploads/Criticism_KD_JohnLone3.png)
-
-![](assets/uploads/Criticism_KD_JohnLone4.png)
+![](/assets/uploads/Criticism_KD_JohnLone2.png)
 
 Whatever happened to John Lone? Lone, curtained by mystique since his days as a youth member of the Peking Opera, has left behind very little hints. Though he receded from the public eye after his role in Philip G. Atwell’s _War_ (2007), he did not formally announce his retirement, nor did he provide any personal or professional reasons for vanishing. (Chinese news outlets, and fan-operated social media accounts, report that he has since moved to Canada.) But the actor had never revealed much about himself to start, at times denying even his age and refusing to disclose where he lived. These fastidious efforts to maintain his privacy extended to a vehement refusal of any racial categories projected upon him as an Asian performer, whether Charlie Chan or Fu Manchu, Chinese-American (he asked in 1987, “Does anyone call \[Meryl Streep\] an English-American actress?”) or Chinese.
 
@@ -28,3 +24,7 @@ In his afterword of _M. Butterfly_, Hwang describes his initial idea for the pla
 The extent of Song’s attachment to Rene only emerges when the French embassy finally discovers Rene’s wrongdoings and summons Song to testify in court. Until then, Song evades honesty beneath Butterfly’s exaggerations. The camera dollies into the doorway as Song enters the room in a fitted suit, his hair cropped short. Here, Lone replaces his usual arrogance with stiff fatigue, shyly turning to look into Rene’s eyes. Cronenberg cuts to a repulsed Rene, glaring. When asked whether Rene knew he was a man, the spy responds: “I never asked.” The collar of his shirt tightens against his tense neck. But he only removes his masculine garb in private, when a van escorts the two away from the court. Confined to a caged section of the car, Song strips. In the play, this as an act of cruel provocation, wherein Song mocks Rene—how could you not know? But Lone’s exposure is instead an invitation, asking, would you like to know? Lone unclenches his jaw and softens his stare. He kneels before the white man and kisses his pallid hand. Song can still play the game, if only Rene wishes. In Lone’s voluntary vulnerability, we witness the crossing of the self-Orientalist line between self-protection and self-destruction. Song’s faith that the white man might love him, even as an ordinary Chinese male opera performer, is a futile effort. “You’re nothing,” Rene says, reeling at the sight of him. This is the only moment that Rene sees Song for who he is, as nothing—fluid and free from the fetish, only a pure being as slippery as the shadowy figure of Lone himself.
 
 Because to be nothing is to be neither Butterfly nor Song Liling, the remark delivers a blow of devastation. Bowling over, Song digs his fingers into his naked flesh, which Rene had always wished to see, as if to tear it apart. But something—a flash of consciousness, perhaps—stops him from piercing through. And so among the disemboweled, imploding stomachs of the Cronenbergian oeuvre, Lone’s vessel remains tightly sealed. Song returns to China; he weeps on the plane, inhibited by attachment but forced to leave love. But what is separation for Song is liberation for Lone. He exits our frame of vision with his mask still on, holding to the nothing of his true self.
+
+![](/assets/uploads/Criticism_KD_JohnLone3.png)
+
+![](/assets/uploads/Criticism_KD_JohnLone4.png)
