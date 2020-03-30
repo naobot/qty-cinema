@@ -6,7 +6,7 @@ layout: movie
 title: Nanterre Personne (Do not bury anyone)
 director: Angelina Battais
 watch: ''
-image: ''
+image: assets/uploads/Movies_AB_NanterrePersonne.jpg
 published: false
 
 ---
