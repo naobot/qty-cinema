@@ -1,7 +1,7 @@
 ---
 link: true
 synopsis: ''
-release: 2019-04-01
+release: 2020-04-10
 layout: movie
 title: Nanterre Personne (Do not bury anyone)
 director: Angelina Battais
