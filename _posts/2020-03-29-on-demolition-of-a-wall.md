@@ -1,10 +1,16 @@
 ---
 layout: post
-publish_date: 2017-06-19 17:39:25 +0000
+publish_date: 2017-06-19T17:39:25.000+00:00
 title: On "Demolition of a Wall"
 author: Isiah Medina
 
 ---
+![](/assets/uploads/Criticism_IMDemolition1.png)
+
+![](/assets/uploads/Criticism_IMDemolition2.png)
+
+![](/assets/uploads/Criticism_IMDemolition3.png)
+
 **1. THE REVERSE**
 
 a.
