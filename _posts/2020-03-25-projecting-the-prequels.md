@@ -13,7 +13,19 @@ author: Isiah Medina
 
 ![](/assets/uploads/Criticism_IM_Prequels2.png)
 
-![](/assets/uploads/Criticism_IM_Prequels3.png)![](/assets/uploads/Criticism_IM_Prequels4.png)![](/assets/uploads/Criticism_IM_Prequels5.png)![](/assets/uploads/Criticism_IM_Prequels6.png)![](/assets/uploads/Criticism_IM_Prequels7.png)![](/assets/uploads/Criticism_IM_Prequels8.png)![](/assets/uploads/Criticism_IM_Prequels9.png)
+![](/assets/uploads/Criticism_IM_Prequels3.png)
+
+![](/assets/uploads/Criticism_IM_Prequels4.png)
+
+![](/assets/uploads/Criticism_IM_Prequels5.png)
+
+![](/assets/uploads/Criticism_IM_Prequels6.png)
+
+![](/assets/uploads/Criticism_IM_Prequels7.png)
+
+![](/assets/uploads/Criticism_IM_Prequels8.png)
+
+![](/assets/uploads/Criticism_IM_Prequels9.png)
 
 I have some friendships that began online simply because they placed two frames from two different films side by side, or one below the other, with perhaps not even a name or a title, and I liked it. Through 0s and 1s I would see the infinite play of identity and difference. In the context of years of comparing frames to other frames, for the minimal and maximal differences and identities, of finding, in its rub of fragments, new counter-histories, accomplishments, and signs of a future cinema waiting to be plucked out anew, it should have been clear that at one point we would bump into the prequels again, as the prequels, in their form, are the essence of film criticism for those with a tumblr. Bill Krohn commented that _Star Wars_ is nothing but the continual reversal of signs, and what better form than the comparative screen capture to understand this series. Like all comparisons without writing, either you see the connection, you see the lineage or you don’t. If the comparison is trivial, the connection too loose, we may see that we are not in a thinking of montage but simply a sequence of shots. But all the comparisons work in a thinking of montage that turns the images into something both prequel and fraternal. Every true work of art re-invents the tradition it belongs to, opens up what came before it, and is the condition of what is old to persist as still new. A true work turns its predecessors into unexpected prequels.
 
@@ -21,19 +33,19 @@ I have some friendships that began online simply because they placed two frames 
 
 The transitions between scenes, the different wipes that go diagonally, turn the screen into blinds, into squares, a minute hand on the clock, become more and more pronounced as the prequels succeed one another. Indeed the prequels are a question of transition, of succession of one form of government to another. It becomes most clear in _Episode II: Attack Of The Clones_, as Neil Bahadur pointed out, the very colour of the political world changes. All I would add is it appears like a diagonal wipe that is often seen across the films, except here there is no wipe at all, the world itself is in transition, no need for the subjective jump of the actualized wipe.
 
-![](assets/uploads/Criticism_IM_Prequels10.png)
+![](/assets/uploads/Criticism_IM_Prequels10.png)
 
-![](assets/uploads/Criticism_IM_Prequels11.png)
+![](/assets/uploads/Criticism_IM_Prequels11.png)
 
 The lack of the wipe, of the transition, does not mean there is no transition occurring. In fact, the lightsaber duel between Darth Tyranus and Anakin manifests the actuality of transition within the battles themselves: in close-up the lightsabers act like the transitioning wipes, opening or closing down the frame, the blue or the red floating atop the faces, in the heat of battle political realignment can occur. Each attack on the other is a transitional wipe that only returns one to themselves. Even the sound during this sequence emphasizes the moving of the sabers about themselves rather than the actual hitting of two sabers. Via over-anticipation of the coming hit, we touch air, a pure rotation —
 
-![](assets/uploads/Criticism_IM_Prequels12.png)
+![](/assets/uploads/Criticism_IM_Prequels12.png)
 
-![](assets/uploads/Criticism_IM_Prequels13.png)
+![](/assets/uploads/Criticism_IM_Prequels13.png)
 
-![](assets/uploads/Criticism_IM_Prequels14.png)
+![](/assets/uploads/Criticism_IM_Prequels14.png)
 
-![](assets/uploads/Criticism_IM_Prequels15.png)
+![](/assets/uploads/Criticism_IM_Prequels15.png)
 
 _die Zuschauer sich drehen,_ rotating around itself, like a Kuleshov effect that returns to Darth Vader again and again as he looks at Skywalker, and the Emperor.
 
