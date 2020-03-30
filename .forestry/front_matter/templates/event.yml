@@ -6,6 +6,12 @@ fields:
   name: Events
   label: Events
   fields:
+  - type: text
+    name: what
+    label: What
+    description: Name and/or short description of event
+    config:
+      required: true
   - type: datetime
     name: when
     label: When
@@ -15,12 +21,6 @@ fields:
   - type: text
     name: where
     label: Where
-  - type: text
-    name: what
-    label: What
-    description: Name and/or short description of event
-    config:
-      required: true
   - type: text
     name: link
     label: Event Link
