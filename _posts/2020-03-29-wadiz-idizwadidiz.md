@@ -23,7 +23,7 @@ An empty screen appears. A ‘compulsion to repeat’ chops the opening shot, be
 
 This is closely followed by the appearance of another form of nothingness, a projection, a ‘shadowy double’, which plays the pre-roll countdown. This is at once the countdown of the beginning of the roll, and the reference that we already have begun to count. The two unaligned empty squares marks the difference of A’s voided being and A’s appointed there. The out-of-jointness from frame to screen, from picture to movie, as seen throughout, disrupts their identification with one another.
 
-Once the logical projection meets the ‘ontological ground’, at this stopping point to the adjustment of the two, the co-incidence, the moment they superpose each other, the non-excluded middle, becomes the intersection of a union, a mark of their conflation, giving the shared part a space of its own (which will in turn burst into solid colors). This third term is at once the Two’s representative and its disordering into a blind spot, the passage from ‘there is no relationship’ to ‘there is a non-relationship’, its very own display.
+Once the logical projection meets the ‘ontological ground’, at this stopping point to the adjustment of the two, the co-incidence, the moment they superpose each other, the non-excluded middle, becomes the intersection of a union, a mark of their conflation, giving the shared part a space of its own (which will in turn burst into solid colours). This third term is at once the Two’s representative and its disordering into a blind spot, the passage from ‘there is no relationship’ to ‘there is a non-relationship’, its very own display.
 
 **(1)**
 
