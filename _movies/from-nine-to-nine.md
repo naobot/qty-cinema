@@ -7,7 +7,7 @@ synopsis: There is a dead body sitting outside of a library which an unnamed you
   meanings in handcuffs.
 release: 2017-07-15
 image: assets/uploads/Movies_NB_FromNinetoNine.png
-watch: ''
+watch: https://www.youtube.com/watch?v=ZgnSbWTMR94
 layout: movie
 
 ---
