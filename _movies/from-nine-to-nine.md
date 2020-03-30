@@ -2,9 +2,7 @@
 title: From Nine to Nine
 director: Neil Bahadur
 link: true
-synopsis: There is a dead body sitting outside of a library which an unnamed young
-  man is arrested for. He escapes, and wanders an unnamed city – spaces take on different
-  meanings in handcuffs.
+synopsis: A young man is handcuffed and explores spaces around a universal city.
 release: 2017-07-15
 image: assets/uploads/Movies_NB_FromNinetoNine.png
 watch: https://www.youtube.com/watch?v=ZgnSbWTMR94
