@@ -95,11 +95,15 @@ Self-abolishment would be the true solution, a world without either Sith nor Jed
 
 …that is, there is no true difference. That the original _Star Wars_ could present these judgments in a register of realism, points to the dead end of realism as a register of thinking the present of choosing good or evil. In realism, there is no difference, and perhaps to see where the line between the two lines up, we need a different form.
 
+![](assets/uploads/Criticism_IM_Prequels23.png)
+
 **5.**
 
 Beginning with _Episode II: Attack of the Clones_ Lucas placed a primacy on the computer generated imagery, the use of blue and green screen, and the least amount of physical sets possible. On the first day of shooting, Ian McDiarmid would address crosses and markers while on a podium in an elevated pod. Brian Jay Jones wrote that many of the actors felt _anxiety_ when performing within the blue screen - crucial to note, as it is only anxiety and enthusiasm that do not lie. If anxiety, as relation to the real, appears when actors are surrounded by a blue screen, perhaps the filling of the blue can be called [_courage_](http://quacinema.tumblr.com/post/159034154769/kenotype-some-ideas-after-listening-to-franks). As Slavoj Žižek comments on Leslie Kaplan’s essay-poem _L’excès-usine,_ it’s not only that factory life is alienating as a self-enclosed universe, but the fact that this space is cut off has its own emancipatory actuality.
 
 For what is the prison in _THX 1138?_ In Neil Bahadur’s reading, THX and SEN are placed in prison when logic and emotion are discovered. As punishment, they are in a white space without any orientation. In this space, conventional cutting and framing is _manipulating_. But perhaps we should instead see that the coherent representation of the space allows for determination and orientation, and it is _indeterminacy_ that is imprisoning. THX and SEN are unfree by fleeing from determination, the prisoners are all the more determined, unable to make a coherent space to track their own movements and exit. As any artist knows, it is the blank canvas that is ultimately imprisoning, and the first act of freedom is making a mark to orient oneself in it. Ultimately THX escapes and sees the sun. Bahadur claims that Lucas retrieves the world back from the deception of images. I would only add that by Monday, June 26, 2000, after seeing the sun, Lucas envelopes himself back in the prison, except this time it is all blue instead of all white.
+
+![](assets/uploads/Criticism_IM_Prequels24.png)
 
 For the battle is to be fought here: there are no images, no world to reclaim that would be without _mediation._ What was a scene of disorientation in _THX 1138_ becomes the ground of orientation, of infinite possibilities, in the making of _Episode II._ The only escape from alienation is its redoubling.
 
@@ -110,3 +114,17 @@ Where Lucas praises the freedoms of Soviet artists as opposed to his own freedom
 After finally escaping the studio Lucas then faced the demands of the People, the mass audience, as an external measure of what he should do; this is one of the most bitter reversal of signs in the history of cinema, the reverse of the State and the Mass. His escape was a victory, but a bitter victory, as bitter as Darth Vader being born as Padmé dies. I was always struck by the beauty of the moment where Padmé “for reasons we can’t explain, is losing the desire to live,” - naming the children, she willingly dies, for Mother is not the destiny of woman, and children are not reason enough. The sheer heat in which these decisions are made is dizzying - before dying, with knowledge that Anakin has killed younglings, she _still_ tries to restart their love. It is this _stuckness_ to the real by the Skywalker family that forces history into _motion_. Which is to say no artist will ever escape external obstacles altogether but the problem is how to choose, how to choose our measurement and distance from the obstacle, which itself is a form of sticking to it.
 
 What is worth sticking to, what is worth keeping? Even in a digital world, hair still moves in the wind, like Griffith’s wind in the trees, a minimal index that these actors are in the world that we see while also pointing elsewhere. Yet we stay here. In fact, it is staying in the present that is Anakin’s most difficult task, for he can see the future. At the close of _Revenge of the Sith_, we are also tempted to look into the future, since we know how it all ends, what happens in the other films made in the past but presenting a future, and we rush to make connections before they happen. We are, for once, within the subjectivity of Anakin. The temptation of those chosen is to know how things end and act with this knowledge. The bliss of the final iris to space is to know what it is like to be tempted by the truths of the future, and the future of truths – gladly acting according to what will have been, while changing those very coordinates in the same motion.
+
+![](assets/uploads/Criticism_IM_Prequels25.png)
+
+![](assets/uploads/Criticism_IM_Prequels26.png)
+
+![](assets/uploads/Criticism_IM_Prequels27.png)
+
+![](assets/uploads/Criticism_IM_Prequels28.png)
+
+![](assets/uploads/Criticism_IM_Prequels29.png)
+
+![](assets/uploads/Criticism_IM_Prequels30.png)
+
+![](assets/uploads/Criticism_IM_Prequels31.png)
