@@ -2,6 +2,6 @@
 
 source "https://rubygems.org"
 
-ruby '2.4.9'
+ruby '2.4.10'
 
 gem "jekyll", "4.0.0"
