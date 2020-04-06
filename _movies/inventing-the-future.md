@@ -17,4 +17,4 @@ Watch [Isiah Medina's adaptation of _Inventing the Future_](https://youtu.be/LY4
 
 * [Download link](https://fil.email/tbsfXORb) for _Inventing the Future_ (H264, 9GB)
 * Subtitles
-  * [English]() (.srt)
+  * [English](https://www.filemail.com/d/hnzfevxnthdfele) (.srt)
