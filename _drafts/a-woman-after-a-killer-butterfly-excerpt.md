@@ -1,7 +1,7 @@
 ---
 layout: post
 publish_date: 2019-10-25 17:07:22 +0000
-title: '"A Woman After a Killer Butterfly" (Excerpt)'
+title: 'On "A Woman After a Killer Butterfly" '
 author: ''
 
 ---
