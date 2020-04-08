@@ -1,0 +1,78 @@
+---
+layout: post
+publish_date: 2019-10-25 17:07:22 +0000
+title: '"A Woman After a Killer Butterfly" (Excerpt)'
+author: ''
+
+---
+(Originally appeared in the limited edition of Mondo Macabro's blu-ray restoration of _Woman Chasing The Butterfly of Death._)
+
+Just as Charles Darwin voyaged from island to island to catalog mating patterns across species, the late filmmaker Kim Ki-Young was a keen-eyed documentarian of sea changes in behavior. Kim, however, did not travel far to find the subjects of his case studies. Instead, he submerged into the seedier corners of the country—derelict hilltop shacks on impoverished islands, alleyways and bars, opulent estates—searching for experiences of confusion, ecstasy, pleasure, and pain. His perspective was always multi-tiered; every explosive personal interaction emerged from a political domino effect.
+
+The exemplar of Kim’s oeuvre, _The Housemaid_ (1960), possesses a near-unsurpassable influence on contemporary Korean filmmaking. In his essay on the film for the World Cinema Foundation, Kyu-Hyun Kim points out that the filmmakers who pushed for the recovery of the film in the nineties (like Park Chan-wook and Bong Joon-ho) went on to “become synonymous with the international South Korean cinema renaissance of the twenty-first century.” _The Housemaid_ outlines a collision course of class warfare between two magnets—a housemaid whose only means of survival is to seduce and sabotage the patriarch of a middle class nuclear family, and a patriarch whose only means of security is to assert dominance over the maid. Yet in its sticky web, one encountered the sobering and clarifying revelation of a dog-eat-dog world.
+
+_The Housemaid_’s meticulous critique of bourgeois complacency, as well as its popularity in Korean theaters, exemplified the creative flourishing that filmmakers experienced during Korean cinema’s golden age in the sixties. That peak of artistic agency, however, dissolved into years of turbulence. Following Park Chung-hee’s coup d’état in 1961, the Park regime established the Motion Picture Law (1962) and the Korean Motion Picture Promotion Corporation (KMPPC) (formed in 1973), which enforced a domestic quota and a standard of anti-communist, pro-state political correctness for all domestic pictures. Some refer to this era, by comparison to its predecessor, as the “dark age” of Korean cinema. Subsequently, as Seung-hyun Park writes, many film companies were closed because of an inability to meet the criteria for state registration, solidifying the “cultural control” of the centralized government. 
+
+Faced with the restrictions of martial law, Kim Ki-Young lost ownership of his studio, where he had directed, produced, written, and edited his earliest films. He proceeded to work with state-licensed companies within the constraints of reduced shooting schedules and budgets, under immense pressure of multi-phase censorship viewings. But although Kim’s audacity was certainly circumscribed by circumstance, the sharp consistency of his ideas during this era did not falter. Instead, he merely adjusted his approach. Researcher Molly Hyo Kim points out that the rigidity of state censorship replaced films with sociopolitical concerns with “apolitical, escapist genre films.” What makes Kim Ki-Young’s _A Woman After A Killer Butterfly_ (1978) such a formally cunning and, at times, totally baffling film is its insistence on being neither the former nor the latter.
+
+Though its title suggests a linear chase by one person after another, _A Woman After A Killer Butterfly_ is a loop consisting of multiple pursuits involving university student Yong-Gul (Kim Jeong-Cheol) and his petrifying fear of death. The film divides Yong-Gul’s spiritual pilgrimage into three chapters, defined by his encounter with three women: a girl in the park, an ancient skeleton seductress (Lee Hwa-Si), and the virginal daughter (Kim Ja-Ok) of a shifty scientist. In the span of Yong-Gul’s nightmare, even familiar surroundings lose their fixed meaning. The women make bizarre demands that the boy cannot satisfy, his job as a research assistant leads him to graveyards and morgues, and it seems that all of his tasks and troubles may have to do with a skull thief dressed like a black butterfly.
+
+Like Shakespeare’s Prince Hamlet, Yong-Gul is not only plagued by nihilism, but he is cripplingly indecisive towards whether to die or to live. Others offer advice for his young soul, but the dissonance between their opinions only confuses him further. The unnamed woman in the park attempts to orchestrate their double suicide, but Yong-Gul wills himself to stay alive. But when a book vendor urges Yong-Gul to read about free will and choose life, he becomes so infuriated that he murders the man. Kim Ki-Young does not hesitate to poke fun at Yong-Gul’s impassioned immaturity: Every night, he furiously stomps about the derelict shack he calls home, then cooks a pot of instant ramen. He ties a noose and stares into the empty circle, slowly inserting his head. But then, Kim turns our gaze from the rope to the book vendor, who returns from the dead to yell at Yong-Gul about willpower once more. It does not help, to say the least. The piling on of these impotent proclamations extends Yong-Gul’s individual hopelessness to an entire society of hopeless people, each trying and failing to formulate a response of their own. The book vendor holds to his philosophical readings; scientists and classmates turn to research. Whether or not Yong-Gul makes up his mind, he can never escape the voices that drown his own, and they only continue to multiply.
+
+Rather than mark turning points in Yong-Gul’s development, _Killer Butterfly_’s three chapters, or episodes, function as a means of cross-comparison between Yong-Gul and the women who act as foils to him and to one another in their differing forms of existentialism. Though it is the first woman who catalyzes Yong-Gul’s plunge into the underworld, Kim devotes much attention to the second and third—the skeleton woman from the Silla dynasty, who rebels against an arranged marriage; and the scientist’s daughter, an art student seeking emancipation from her father’s house. Though Yong-Gul’s relation to these women is limited to a spark of romance, the characters emanate far more than what their archetypal templates seem to offer. Kim’s dichotomies of women typically fall into the binary of past and present, one clinging to outmoded tradition and the other moving into newness. Both sects, however, are defined by desperation and a strained relationship to men, who are not protectors but oppressors who must be defeated. Early in the film, the skeleton woman insists that to live, she must eat Yong-Gul’s liver. There can only be one person standing, and togetherness is a mere utopic fantasy.
+
+The disorientation plaguing Yong-Gul cannot only be attributed to ghost women and a troublesome part-time job but also a political state of disillusionment. Overhead and wide shots of youth walking through the city start and conclude the film, as if signifying the beginning and end of a class lecture. Though whether the film is wholly resulted from Kim’s compliance to censorship can be disputed, _Killer Butterfly_ is decorated with an excessive amount of B-movie tokens—evil scientists, spoiled heiresses dressed in white, a sexy ghost from a long-past dynasty, and an ongoing murder investigation. Traces of subtext are craftily buried beneath murky greens and persimmon reds, masking messages like the wall of Kyung-Mi’s room, covered in cubist portraits of anonymous faces. Rather than distract our senses, this aesthetic of abstraction (intended more to mimic the abstract rather than to be abstract) enhances the susceptibility of the recurring patterns seen throughout. The
+
+visitation from a Silla Dynasty woman, the stolen bones of Korean bodies, and Dr. Lee’s
+
+investigation of Korea’s Mongolian ancestry, suggests that the true object of the film’s study is
+
+something intangible—a stabilized and unified Korean identity. Unable to do this, we see Yong-
+
+Gul and the rest of the film’s ensemble of paranoid pilgrims stumbling after whatever they can
+
+find, headed towards the edge of a cliff.
+
+Returning to The Housemaid, one may notice that Kim Ki-Young’s cinema resembles a cat’s
+
+cradle: A thread held by two players, a man and a woman intertwined. The pair’s hands
+
+entangle and draw closer as their wrestle escalates into mutual destruction. But to the end, they
+
+cannot let go of the string of fate, forever bound to a national narrative of colonization and
+
+capitalism, modernization and military rule. To endure in such a world, one has little choice but
+
+to compete. And without cruelty and cunning, those in power can lose power as quickly as it
+
+was gained. Though this model is emblematic of several titles like The Housemaid, Ieoh Island
+
+(1970), or Beasts of Prey (1985), the much knottier—and sillier—Killer Butterfly does not focus
+
+on competing so much as it does on losing and being endlessly lost when winning is out of
+
+reach. Jarring transitions between facetious jabs at Yong-Gul’s naivety and instances of
+
+devastation contain a contagious feeling of confusion. We, too, become stunned when a man
+
+wearing a black cape, flapping about in the night sky, appears to chop off someone’s head.
+
+Although that incident is later deemed an alcohol-fueled hallucination, Killer Butterfly’s lack of
+
+stylistic distinction between the real and the unreal eagerly elicits its audience’s frustration, just
+
+as Yong-Gul’s grasp of mortality unravels.
+
+In his summation of the film, Film Comment’s Grady Hendrix concluded with something like
+
+surrender: “Maybe I’m just kidding myself—there might be no deeper meaning at all.” To a
+
+degree, Hendrix is correct. Arriving in a period of artistic compromise and political disarray, Killer
+
+Butterfly depicts how people of all social classes must reckon, often involuntarily, with a
+
+creeping loss of meaning in everyday life. Death shines as an alluring and feasible means of
+
+freedom, especially when it seems no different than living. To follow after the butterfly, then, was
+
+never about capturing the creature, but stealing its wings so that humanity may fly far away.
