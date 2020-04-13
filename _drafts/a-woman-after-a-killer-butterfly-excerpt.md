@@ -2,7 +2,7 @@
 layout: post
 publish_date: 2019-10-25 17:07:22 +0000
 title: On "A Woman After a Killer Butterfly" (Excerpt)
-author: ''
+author: Kelley Dong
 
 ---
 ![](/assets/uploads/Criticism_KD_KillerButterfly.png)
