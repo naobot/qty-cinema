@@ -15,6 +15,6 @@ layout: movie
 
 Watch [Isiah Medina's adaptation of _Inventing the Future_](https://youtu.be/LY44I9P_QZU) by Nick Srnicek and Alex Williams.
 
-* [Download link](https://fil.email/tbsfXORb) for _Inventing the Future_ (H264, 9GB)
+* [Download link](https://fil.email/1COIstaB) for _Inventing the Future_ (H264, 9GB)
 * Subtitles
   * [English](https://fil.email/FsY5ghfn) (.srt)
