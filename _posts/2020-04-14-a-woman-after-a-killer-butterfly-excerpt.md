@@ -7,7 +7,7 @@ author: Kelley Dong
 ---
 ![](/assets/uploads/Criticism_KD_KillerButterfly.png)
 
-(Originally appeared in the limited edition of Mondo Macabro's [blu-ray restoration](https://mondomacabro.bigcartel.com/product/woman-chasing-the-butterfly-of-death-retail-edition) of _Woman Chasing The Butterfly of Death._)
+(Originally appeared in the limited edition of Mondo Macabro's [blu-ray restoration](https://www.mondo-macabro.com/woman-chasing-the-butterfly-of-death.html) of _Woman Chasing The Butterfly of Death._)
 
 Just as Charles Darwin voyaged from island to island to catalog mating patterns across species, the late filmmaker Kim Ki-Young was a keen-eyed documentarian of sea changes in behavior. Kim, however, did not travel far to find the subjects of his case studies; instead, he submerged into the seedier corners of the country—impoverished islands, alleyways and bars, opulent estates—searching for experiences of confusion, ecstasy, pleasure, and pain. His perspective was always multi-tiered; every explosive personal interaction emerged from a political domino effect.
 
