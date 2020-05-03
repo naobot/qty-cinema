@@ -9,4 +9,4 @@ watch: https://www.youtube.com/watch?v=OP_Ld6iHwqs
 image: "/assets/uploads/Movies_KD_Pears.png"
 
 ---
-* [Download link](https://drive.google.com/open?id=1rNTwptMOoP-tQMJ_Jr2ga8m1RPdMzrfH) for _Pears_ (.mov, 27MB)
+* [Download link](https://drive.google.com/drive/u/0/folders/10bfjBM4ZbJOhXLkz1R32wXtKSEJo5PdS) for _Pears_ (.mov, 27MB)
