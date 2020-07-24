@@ -11,6 +11,7 @@ watch: https://youtu.be/LY44I9P_QZU
 layout: movie
 
 ---
+![](/assets/uploads/movies_im_inventingthefuture1.png)
 
 Watch [Isiah Medina's adaptation of _Inventing the Future_](https://youtu.be/LY44I9P_QZU) by Nick Srnicek and Alex Williams.
 
