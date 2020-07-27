@@ -9,3 +9,4 @@ image: assets/uploads/Movies_KD_ShootingStar.png
 layout: movie
 
 ---
+* [Download link](https://drive.google.com/open?id=1ApfRqdSPy8q6--8aX_4WC3nFbsXKdB_b) for _Shooting Star Summer Solstice_ (.mov, 244MB)
