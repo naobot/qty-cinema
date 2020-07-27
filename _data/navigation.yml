@@ -7,13 +7,13 @@
 - name: Criticism
   link: /criticism
   dropdown: false
-- name: Logs
-  link: /logs
-  dropdown: false
-- name: Store
-  link: /store
-  disabled: false
-  dropdown: false
+# - name: Logs
+#   link: /logs
+#   dropdown: false
+# - name: Store
+#   link: /store
+#   disabled: false
+#   dropdown: false
 - name: Events
   link: /events
   disabled: false
