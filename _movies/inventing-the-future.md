@@ -6,7 +6,7 @@ synopsis: Take back control over our future and foster the ambition for a world 
   modern than capitalism. Demand full automation, demand a reduced work week, demand
   universal basic income, destroy the work ethic.
 release: 2020-03-30
-image: "/assets/uploads/Movies_IM_InventingtheFuture2.png"
+image: "/assets/uploads/movies_im_itf.png"
 watch: https://youtu.be/LY44I9P_QZU
 layout: movie
 
