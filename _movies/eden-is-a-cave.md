@@ -4,8 +4,8 @@ synopsis: ''
 layout: movie
 title: Eden is a Cave
 director: Alexandre Galmard
-watch: http://vimeo.com/330350620
-release: 2019-04-14
+watch: https://youtu.be/DY2ZfXsNZpc
+release: 2018-08-11
 image: "/assets/uploads/Movies_AG_Eden is a cave.jpg"
 
 ---
