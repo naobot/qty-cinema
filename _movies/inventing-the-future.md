@@ -13,7 +13,7 @@ layout: movie
 ---
 ![](/assets/uploads/movies_im_inventingthefuture1.png)
 
-Watch [Isiah Medina's adaptation of _Inventing the Future_](https://youtu.be/LY44I9P_QZU) by Nick Srnicek and Alex Williams.
+Poster design by Avery Medina
 
 * [Download link](https://drive.google.com/file/d/1uIK0IWWp4qpb-1XIECM6KfDCHPW-UAiG/view?usp=sharing) for _Inventing the Future_ (H264, 9GB)
 * Subtitles
