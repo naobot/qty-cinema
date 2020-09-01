@@ -1,7 +1,10 @@
 ---
 - when: 2020-09-06 20:30:00 +0000
-  where: ''
-  what: ''
+  where: Garage Museum of Contemporary Art (Moscow)
+  what: Inventing the Future screening + discussion with film critic Alexey Artamonov,
+    art historian Boris Klyushnikov, and philosopher Nikita Sazonov on the problems
+    of transferring philosophical texts to the screen, the ideas of left-wing accelerationism,
+    and the aesthetics of Isiah Medina.
 - when: 2020-04-11T22:30:00.000+00:00
   where: Twitch
   what: Isiah Medina, Masterclass for Berlin Revolution
