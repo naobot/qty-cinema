@@ -18,4 +18,4 @@ Poster design by Avery Medina
 * [Download link](https://drive.google.com/file/d/1uIK0IWWp4qpb-1XIECM6KfDCHPW-UAiG/view?usp=sharing) for _Inventing the Future_ (H264, 9GB)
 * Subtitles
   * [English](https://drive.google.com/file/d/132HIa4ghITA4EfTaXiZj8AAdE4-enOop/view?usp=sharing) (.srt)
-  * [Russian](https://drive.google.com/file/d/1dXdq0Tubwei9Uj4yGzU2xVbAqDqXG_9h/view?usp=sharing) (.srt)
+  * [Russian](https://drive.google.com/file/d/1dXdq0Tubwei9Uj4yGzU2xVbAqDqXG_9h/view?usp=sharing) (.srt) by Nikita Sazonov
