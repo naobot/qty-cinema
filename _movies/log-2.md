@@ -7,6 +7,5 @@ title: Log 2
 director: Isiah Medina
 watch: https://youtu.be/VWd7llH1iRM
 image: "/assets/uploads/Logs_IM_Log2.png"
-published: false
 
 ---
