@@ -1,6 +1,6 @@
 ---
 link: true
-synopsis: Synopsis here!
+synopsis: ''
 release: 2020-03-11
 layout: movie
 title: log 2
