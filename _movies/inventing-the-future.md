@@ -11,10 +11,7 @@ watch: https://youtu.be/LY44I9P_QZU
 layout: movie
 
 ---
-![](/assets/uploads/movies_im_inventingthefuture1.png)
-
-![](/assets/uploads/tumblr_68469e70d95aaea29c09efdada89058f_d3629e13_2048.jpg)  
-  
+![](/assets/uploads/movies_im_inventingthefuture1.png)  
 Poster design by Avery Medina
 
 * [Download link](https://drive.google.com/file/d/1uIK0IWWp4qpb-1XIECM6KfDCHPW-UAiG/view?usp=sharing) for _Inventing the Future_ (H264, 9GB)
