@@ -1,4 +1,7 @@
 ---
+- when: 2021-06-03 17:00:00 +0000
+  where: 'Ruskin Screenings '
+  what: '"Towards a Theory of Film Production" a lecture by Isiah Medina '
 - when: 2021-02-27 23:45:00 +0000
   where: Cineteca Madrid
   what: "<i>Inventing the Future</i> screening"
