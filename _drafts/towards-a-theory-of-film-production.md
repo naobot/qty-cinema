@@ -13,6 +13,7 @@ Before I begin, as I have 90 minutes to speak, it’s clear that I won’t be ab
 
 Writing  
 by Zbigniew Herbert  
+  
 when I mount a chair  
 to capture the table  
 and raise a finger  
