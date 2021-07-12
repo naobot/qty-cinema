@@ -5,6 +5,7 @@ title: 'Time Enough, and Worlds: Interview with Isaac Goes'
 author: Isiah Medina, Kelley Dong
 
 ---
+![](/assets/uploads/ig_worlds_4.jpg)
 
 **IM: What is a world, and why is there more than one?**
 
@@ -74,7 +75,7 @@ We are lured into seeing cinematic images not as a scattering of pixels or splot
 
 The goal of turning these features into purely aesthetic objects of inquiry then is as Goodman puts it, is to “make a genuine contribution to knowledge”, to take something we are familiar with but don’t understand and turn it into something which we now understand but with which we are no longer familiar. My discoveries consist in the details of the dialectical relationship between celluloid and digitality, the fact that certain qualities only come to light in relation to their counterpart among others. But of course there is much more to this than material, whether its cutting every single frame to make explicit that the illusion of motion is nothing but a rapid succession of still images, or by disconnecting history and events from the linearity we ascribe to them, there are many different aspects of the cinematic apparatus being turned against themselves. This reflexivity serves a somewhat didactic role, imparting the viewer with an enriched understanding of the construction of the cinematic images they have become so used to.
 
-**KD: In your essay on the **[**_Journals_ Series**](https://mubi.com/notebook/posts/journal-6-6-16-1-10-17) **you refer to the process of building your “home out of shots from movies.” Now with _Worlds,_ you’re building multiple worlds, not only out of shots (which you’ve filmed yourself) but shots-of-shots (which are scanned and laid out flatly). Could you relay your process of moving from constructing homes made up of others’ material to worlds of your own making?**
+\**KD: In your essay on the **[**_Journals_ Series**](https://mubi.com/notebook/posts/journal-6-6-16-1-10-17) **you refer to the process of building your “home out of shots from movies.” Now with _Worlds,_ you’re building multiple worlds, not only out of shots (which you’ve filmed yourself) but shots-of-shots (which are scanned and laid out flatly). Could you relay your process of moving from constructing homes made up of others’ material to worlds of your own making?**
 
 IG: It ties in to what I said earlier regarding film history as a network of ideas that the internet puts readily at one’s disposal. When making my _Journal_ films, this idea was fleshed out in a very direct way. Rather than thinking of worlds and all the specific intricacies of representation, I was honed in more directly to this relation between film history and my own artistic impulses, the impact the intricacies of constructing a cannon had on my artistic worldview. If the _Journals_ were an investigation of the relationship between cinema and myself, the narrativization of my journey studying the form and the narrative of my own life, _Worlds_ is an echo of this relationship a few degrees removed. It is no longer just myself in relation to cinema I am concerned with but both cognition in relation to our world and cinema in relation to cognition - though of course my personal relationship with cinema cannot be escaped.
 
