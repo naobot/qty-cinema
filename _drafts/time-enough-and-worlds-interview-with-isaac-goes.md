@@ -34,6 +34,8 @@ Most of the picture was shot on 16mm film with probably about 10% being iPhone f
 
 It is also noteworthy that in this process images that begin as physical material lose this form in the telecine process and all that remains as evidence of this transit are the oft lauded markings of the physical texture of celluloid (grain, certain colors, etc) but none of its substance. These once given features of motion picture production are turned into purely aesthetic objects of inquiry entirely divorced from their normal function.
 
+![](/assets/uploads/ig_worlds_3.jpg)
+
 **IM: What is the relation between this “loss of substance” (i.e. aesthetic properties of film appearing in a digital image) and the representation of a world?**
 
 IG: In this loss of substance we lose the very quality which distinguishes celluloid from digital but preserve a representation of it. In the digital reproduction of the film grain the ontological distinction between the two mediums becomes represented. If we are to be looking into how we go about representing our world it then follows that we must represent our methods of representation, a process in which this sublation is a quite straightforward first step.
@@ -61,8 +63,6 @@ Throughout the course of these transformations you are faced with many decisions
 **IM: I know you’ve built a computer to do the montage of this film, which is to say you had to customize the equipment of montage. But in what sense can we speak of a “montage of equipment” which results in a “camera”? Here I mean there is an “ununified array” of the computer, the Bolex, the iPhone, and together they become a machine of making images. So what would you say was your camera, and how do you characterize the difference between “camera” and “edit”?**
 
 IG: My camera can be viewed in a twofold sense. On one hand there is the physical camera and its aforementioned workings, but also the virtual camera which refilms the images in programs like After Effects and Premiere. For instance there are moments in the film where I’ve internally refilmed the computer screen, in one segment I make a sort of flipbook by scrolling through hundreds of images quickly in iMessage. There are also instances where I’ve chopped up previously filmed images and zoomed around and through them using the virtual camera in After Effects, which was what required me to build the computer in the first place. So every element of this machine is interrelated, the lines distinguishing them somewhat blurred. At times the computer is primarily an instrument of montage, at others it becomes a camera. There are even some segments in which I would leave in-camera Bolex cuts untouched, where the camera itself is an instrument of montage. So we can see that the difference between camera and edit is not as sharply defined as it would first seem, that the temporal aspects of cinema and the image itself cannot be so simply separated.
-
-![](/assets/uploads/ig_worlds_3.jpg)
 
 **IM: You speak of “turning these given features of motion picture production into purely aesthetic objects of inquiry divorced from their normal function”: in this inquiry called _Worlds_, what was discovered?**
 
