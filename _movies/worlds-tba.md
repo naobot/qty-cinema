@@ -1,12 +1,12 @@
 ---
 link: true
 synopsis: Synopsis here!
-release: 
+release: 2021-07-20
 layout: movie
 title: 'Worlds '
 director: Isaac Goes
 watch: ''
-image: assets/uploads/Movies_IG_Worlds.png
+image: "/assets/uploads/ig_worlds_1.jpg"
 published: false
 
 ---
