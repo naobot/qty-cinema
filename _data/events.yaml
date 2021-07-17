@@ -1,4 +1,7 @@
 ---
+- when: 2021-07-17 00:00:00 +0000
+  where: Spectacle Theatre
+  what: "<i>Worlds</i> theatrical premiere"
 - when: 2021-07-23 00:00:00 +0000
   where: Typography Centre For Contemporary Art, Russia
   what: "<i>Inventing the Future</i> screening"
