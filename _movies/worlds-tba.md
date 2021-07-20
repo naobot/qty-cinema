@@ -1,6 +1,6 @@
 ---
 link: true
-synopsis: _From this world to the next_
+synopsis: From this world to the next
 release: 2021-07-20
 layout: movie
 title: 'Worlds '
