@@ -2,7 +2,7 @@
 layout: post
 publish_date: 2021-07-20 16:00:51 +0000
 title: 'Time Enough, and Worlds: Interview with Isaac Goes'
-author: Isiah Medina, Kelley Dong
+author: Isiah Medina and Kelley Dong
 
 ---
 ![](/assets/uploads/ig_worlds_4.jpg)
