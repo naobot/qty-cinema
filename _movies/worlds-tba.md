@@ -6,7 +6,7 @@ layout: movie
 title: 'Worlds '
 director: Isaac Goes
 watch: https://www.youtube.com/watch?v=EfkQR-4E5kU
-image: ''
+image: "/assets/uploads/ig_worlds_5.png"
 
 ---
 ![](/assets/uploads/ig_worlds_poster.png)
