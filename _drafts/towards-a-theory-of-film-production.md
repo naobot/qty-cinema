@@ -5,7 +5,7 @@ title: 'Towards a Theory of Film Production '
 author: Isiah Medina
 
 ---
-_The following is a transcript of the lecture"Towards a Theory of Film Production" given at Ruskin Screenings, organized by Charles de Agustin, via the The Ruskin School of Art, University of Oxford._
+_The following is a transcript of the lecture"Towards a Theory of Film Production" given at Ruskin Screenings, organized by Charles de Agustin, via the The Ruskin School of Art, University of Oxford. Two sections of the talk have been excised and are to be expanded on in the near future._ 
 
 **0**
 
@@ -204,57 +204,19 @@ A good example is four people watch a film, and they each have their own respons
 
 When we are argued out of our experience of the film, of course this has its own validity, but is happening at the level of discourse, not in the experience of watching. One can rewatch the film, with these reasons in mind. But if one has to recall the reasons each time one sees the film, then cultivation of taste does not happen. There is just a recall of the reasons which refer to the other three people you saw the movie with, rather than with your own experience of it. It is akin to taking a school test and trying to memorize the formulae, rather than truly understanding the relationship between the terms in question.
 
-And I think this is so important because taste is not just having an imaginary museum in your head. You know when you are discussing a film and someone has a wild reading of it, flipping the film on its head so to speak, and it’s all very flashy and exciting, reasoning about reasons…This is all fine. But not on set. You have to have your taste cultivated on set, so you can make decisions. All the flipping of a film, radical re-interpretation, that’s for editing. But don’t confuse the two. If you focus too much on flipping, I really doubt you’ll end up on set. You can’t flip anything on set, because the set is objects and not discourse.
+And I think this is so important because taste is not just having an imaginary museum in your head. You know when you are discussing a film and someone has a wild reading of it, flipping the film on its head so to speak, and it’s all very flashy and exciting, reasoning about reasons…This is all fine. But not on set. You have to have your taste cultivated on set, so you can make decisions. All the flipping of a film, radical re-interpretation, that’s for editing. But don’t confuse the two. If you focus too much on flipping, I doubt one can even end up on set; you can’t flip anything on set, because the set is objects and not discourse.
 
-And if we focus on flipping, you will see a lot of cinephiles defending other cinephiles turned filmmakers and the standards just get aggressively lower and lower because we flipped things on set, then flipping it for the review, etc.
-
-Nabokov:
-
-The inspiration of genius adds a third ingredient: it is the past and the present and the future (your book) that come together in a sudden flash; thus the entire circle of time is perceived, which is another way of saying that time ceases to exist.
-
-\[...\] But in one way or another the process may still be reduced to the most natural form of creative thrill—a sudden live image constructed in a flash out of dissimilar units which are apprehended all at once in a stellar explosion of the mind.
-
-\[...\] The pages are still blank, but there is a miraculous feeling of the words all being there, written in invisible ink and clamoring to become visible. You might if you choose develop any part of the picture, for the idea of sequence does not really exist as far as the author is concerned. Sequence arises only because words have to be written one after the other on consecutive pages, just as the reader's mind must have time to go through the book, at least the first time he reads it. Time and sequence cannot exist in the author's mind because no time element and no space element had ruled the initial vision. If the mind were constructed on optional lines and if a book could be read in the same way as a painting is taken in by the eye, that is without the bother of working from left to right and without the absurdity of beginnings and ends, this would be the ideal way of appreciating a novel, for thus the author saw it at the moment of its conception.
-
-QUESTION: The artist’s assimilation of the best art of his time, what is added to that? You said that character gets into this. What Do you mean by character?
-
-GREENBERG: Well, it’s my stab at naming something, though when I say character I feel sure. And it’s connected with inspiration. What is inspiration? I can’t define it. \[…\] Don’t misunderstand me as saying that if you assimilate the best new art in the time just before your own and add your own, then you’re all set to make art. I said that was a necessary, but not a sufficient condition. Inspiration is next. You. You yourself. That’s indispensable, that’s all there is to it.
-
-\[There’s both a transformation of object, a disappearance of the object.  
-There’s no measurement without measure. Measure is the unity of quality and quantity. KIBBLE\]
-
-Maintaining the standard of ever changing standards, is in fact stabilizes this standardization. How do we standardize?
-
-The course of developing taste is in order to intuit the inexistence of time. It may be profitable to imagine the process of uncovering this inexistence as to that of the shape of a Borromean knot, with rings named past, present, future, and time is at the centre, inexisting but marked out by the connection of the rings. But this may take us too far afield — instead I only want to highlight the intuition of the totality is what allows the marking out of time’s inexistence. But each time that time is discovered to cease, it is not the same time, in the same way each end of history is not the same end. There’s a history of ends of history. This is what a cultivated taste can discover. It is what is meant when one recognizes the immediate as a result.
-
-\[Kant, pleasure without concept, but a new concept of form\]
-
-The critical study of the film, as film, rather than cinema, allows for a phantom of the general concept of the film to play as if it were beside the cinema of sheer impression. This intuition can be marked out as a cut which may or may not coincide with the cutting of the film, but as a mark of its possibility, is a reminder of the site of development. The development of intuition which can only develop through second, third, and continuous viewings of the work. This is not because the categories in which to receive the work are given by the work, but the re-encounter allows for the development of the categories which one uses through free play, thus sharpening the possibility of synchronizing the senses.
-
-Greenberg writes how modernism is not simply the inheritance of particular styles from the past, but the maintenance of the past’s standards, its measure of quality. The objectivity of taste is linked to this measure of quality. What is a standard?
-
-When we look at the history of standards, we can look at the history of the second, the multiple realizability of a unit, the de-idealization of the second.
-
-\[cesium\]
-
-How do we apply the concept of Coordinated Universal Time (CUT) to a particular film? The standard of the critic fixes a link between the definition of the quantity being standardized and each of its multiple realizations. There is a modeling of major works which are equivalent to primary frequency standards, and the minor works, the many secondary standards. The terrestrial time of cinema is not coordinated to one concrete film but a canonical hierarchy of models.
-
-This is another way of asking, how does each artist and critic, see the cut? There is the cut of the film, the cinema, and the viewer. The reception of the cut is based on the CUT that each viewer constructs for themselves. Let’s call the realization of a cinema as a film taken in all at once, a character. Of course, we rewatch films, and after a period of time, we return to the film, and the film appears to be different, because our CUT has changed. But the question of characterization enters if we hypothesize a viewing experience where, after the film is over, we watch it again. And we watch it again. We watch it so many times that the initial impressions start to calcify, and because we have not left the film , there’s a point where, like endless takes, there is no difference between viewings. As in directing a picture, we can do take 75 but there hasn’t been a difference between takes 69-74. We can rewatch the film, but there won’t be any major differences between watches 10-13. This is the moment the given film and the taken shot become characters. It's when the differential change ceases and we are left with pure iteration which is linked to the the possibility of reiteration. Here, intuition develops to the point of reiteration without end. This reiteration without end is crucial in thinking the logical possibility of character, as seen in logical signs.
-
-“If intuition is our mental instrument, the camera is our physical instrument.” Bergman
-
-**6**
-
-This next part is a bit closer to a sketch, some ideas regarding the work of Artavazd Pelechian. I won't have time to go too deep into it but I think we can draw out some paths for future criticism.   
+And if we focus on flipping, you will see a lot of cinephiles defending other cinephiles turned filmmakers and the standards just get aggressively lower and lower because we flipped things on set, then flipping it for the review.  
   
-What are the limits of _montage-at-a-distance_ as developed by Pelechian? The idea that there is a harmony in nature that is under threat, which is clearly linked to the idea, that he shares with Godard, of the time before the Tower of Babel’s division of language, keeps the form from being ‘more modern’ than Eisenstein and Vertov. This is not to deny the advances made, but to understand exactly how far he traveled, and how far we can still go.
+To draw this out a little further I want to share a lengthy quote by Nabokov followed by an excerpt from an interview with Greenberg.   
+  
+Nabokov:  
+ The inspiration of genius adds a third ingredient: it is the past and the present and the future (your book) that come together in a sudden flash; thus the entire circle of time is perceived, which is another way of saying that time ceases to exist.  
+ \[...\] But in one way or another the process may still be reduced to the most natural form of creative thrill—a sudden live image constructed in a flash out of dissimilar units which are apprehended all at once in a stellar explosion of the mind.  
+ \[...\] The pages are still blank, but there is a miraculous feeling of the words all being there, written in invisible ink and clamoring to become visible. You might if you choose develop any part of the picture, for the idea of sequence does not really exist as far as the author is concerned. Sequence arises only because words have to be written one after the other on consecutive pages, just as the reader's mind must have time to go through the book, at least the first time he reads it. Time and sequence cannot exist in the author's mind because no time element and no space element had ruled the initial vision. If the mind were constructed on optional lines and if a book could be read in the same way as a painting is taken in by the eye, that is without the bother of working from left to right and without the absurdity of beginnings and ends, this would be the ideal way of appreciating a novel, for thus the author saw it at the moment of its conception.
 
-For Pelechian, cinema comes after the arts, but “in its nature” precedes them. Godard adds that cinema was “a language before Babel, which everyone understood without needing to learn it.” So we have a regression into a form of the myth of the given: not even the grandeur of presuming the world has a categorical structure, imposing itself on the mind as a seal imposes an image on melted wax, but film having a categorical structure that has a prelapsarian harmony with the mind before the imposition of language.
-
-Let’s make it clear: the natural harmony, the language before Babel, this is the ultimate hallucination and absent image, a projection that is only conceptualized after the experiencing the division we find ourselves in, an absent image that persists only because Pelechian and Godard _talk about it._ The fantasy of oneness is a _linguistic one_ as the image’s condition of possibility is the cut’s division, whether constituted chemically or by zeroes and ones.
-
-This is linked to Pelechian retaining the outdated idea of the whole. He writes, “to rebuild one part means rebuilding the whole”, but each change of one will already have adjusted the whole, so the question is, does he have access to the whole as a separate phantom entity that is not linked the existence of ones, or is the whole again another absent image, as much a false projection as language before Babel.
-
-In fact, because he operates only with A, B, and arrows, without a localization or indexation of A and B, plus a localization of A and B with the possibility of being without any localization, we are left with an impossibility of change. At the very least, because of Eisenstein’s commitment to collision that changes the place of the collision, we can have a theory of change. But with A and B and arrows, completely unplaced, perhaps floating in the void, we have a pure rotation without the possibility of change. And thus we have circularity, but not periodization. Which is to say we lose history.
-
-\[indexation, example with what will disappear, cold war, our century, etc\]
+QUESTION: The artist’s assimilation of the best art of his time, what is added to that? You said that character gets into this. What Do you mean by character?  
+   
+ GREENBERG: Well, it’s my stab at naming something, though when I say character I feel sure. And it’s connected with inspiration. What is inspiration? I can’t define it. \[…\] Don’t misunderstand me as saying that if you assimilate the best new art in the time just before your own and add your own, then you’re all set to make art. I said that was a necessary, but not a sufficient condition. Inspiration is next. You. You yourself. That’s indispensable, that’s all there is to it.  
+  
+Despite attempts towards the systematic, which, I don't disavow at all, I do want to make space for what can be intuited in the moment, in the act of creation. I am moved by the fact that Hitchcock's storyboards were made after the fact as publicity materials, but that does not make his invention of form any less systematic. That it can be then broken down and shown to have a unity speaks to this truth. The order in which we go, whether it all comes to us at once in creation or we create a system whereby we can at one point make the correct move, today I am more intrigued by the pure invention at the snap of a finger. Anyone can sit and think and theorize and make a perfect work after 10 years but to do it at a snap of a finger improvising with the sun is something else. Whether you're Picasso or Ingres you will make a good picture, but I'm interested in the speed at which one can do it, as if it's as simple as breathing, which it should be. I don't like works when you can see the struggle. But for now this is personal preference in relation to the reality of the workflow before me, the economic freedom and constraints that I work with, and I'd rather breathe with my work than be an accountant about it. 
