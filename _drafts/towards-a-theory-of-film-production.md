@@ -244,3 +244,17 @@ This is another way of asking, how does each artist and critic, see the cut? The
 “If intuition is our mental instrument, the camera is our physical instrument.” Bergman
 
 **6**
+
+This next part is a bit closer to a sketch, some ideas regarding the work of Artavazd Pelechian. I won't have time to go too deep into it but I think we can draw out some paths for future criticism.   
+  
+What are the limits of _montage-at-a-distance_ as developed by Pelechian? The idea that there is a harmony in nature that is under threat, which is clearly linked to the idea, that he shares with Godard, of the time before the Tower of Babel’s division of language, keeps the form from being ‘more modern’ than Eisenstein and Vertov. This is not to deny the advances made, but to understand exactly how far he traveled, and how far we can still go.
+
+For Pelechian, cinema comes after the arts, but “in its nature” precedes them. Godard adds that cinema was “a language before Babel, which everyone understood without needing to learn it.” So we have a regression into a form of the myth of the given: not even the grandeur of presuming the world has a categorical structure, imposing itself on the mind as a seal imposes an image on melted wax, but film having a categorical structure that has a prelapsarian harmony with the mind before the imposition of language.
+
+Let’s make it clear: the natural harmony, the language before Babel, this is the ultimate hallucination and absent image, a projection that is only conceptualized after the experiencing the division we find ourselves in, an absent image that persists only because Pelechian and Godard _talk about it._ The fantasy of oneness is a _linguistic one_ as the image’s condition of possibility is the cut’s division, whether constituted chemically or by zeroes and ones.
+
+This is linked to Pelechian retaining the outdated idea of the whole. He writes, “to rebuild one part means rebuilding the whole”, but each change of one will already have adjusted the whole, so the question is, does he have access to the whole as a separate phantom entity that is not linked the existence of ones, or is the whole again another absent image, as much a false projection as language before Babel.
+
+In fact, because he operates only with A, B, and arrows, without a localization or indexation of A and B, plus a localization of A and B with the possibility of being without any localization, we are left with an impossibility of change. At the very least, because of Eisenstein’s commitment to collision that changes the place of the collision, we can have a theory of change. But with A and B and arrows, completely unplaced, perhaps floating in the void, we have a pure rotation without the possibility of change. And thus we have circularity, but not periodization. Which is to say we lose history.
+
+\[indexation, example with what will disappear, cold war, our century, etc\]
