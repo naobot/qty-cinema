@@ -1,4 +1,8 @@
 ---
+- when: 2021-09-28 04:00:00 +0000
+  where: Massachussetts College of Art and Design
+  what: Isiah Medina in dialogue with the MassArt Ciné-Culture audience about his
+    work
 - when: 2021-07-12 00:00:00 +0000
   where: Museum of Modern Art of Odessa, Ukraine
   what: "<i>Inventing the Future </i> screening, via Muzeon Experimental Centre"
