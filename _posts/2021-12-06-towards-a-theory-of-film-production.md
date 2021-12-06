@@ -1,6 +1,6 @@
 ---
 layout: post
-publish_date: 
+publish_date: 2021-12-06 05:00:00 +0000
 title: 'Towards a Theory of Film Production: Part 1'
 author: Isiah Medina
 
