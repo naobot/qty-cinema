@@ -5,7 +5,7 @@ title: 'Towards a Theory of Film Production '
 author: Isiah Medina
 
 ---
-_The following is a transcript of the lecture"Towards a Theory of Film Production" given at Ruskin Screenings, organized by Charles de Agustin, via the The Ruskin School of Art, University of Oxford. This is part 1 of 2._
+_The following is a lightly revised transcript of the lecture"Towards a Theory of Film Production" given at a Ruskin Screenings event organized by Charles de Agustin, via the The Ruskin School of Art, University of Oxford. This is part 1 of 2._
 
 **0**
 
