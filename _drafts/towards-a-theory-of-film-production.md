@@ -157,7 +157,9 @@ So does the honeybee produce a hexagon _as_ a hexagon? A sensation of the hexago
 
 For Sellars, we might say that the sensation of a filmic hexagonal thing may in some way be isomorphic with an external cause in order to make knowledge of the physical world possible, and that the fact of its film-ness and hexagonal qualities must somehow be involved in the act of sensing, I do think if this is to be the case we have to be able to think this as a crosscut, maybe a biunivocal correspondence, but think it outside of time. To enter its logic we have to subtract time, and this particular index. I’ll stop here for now, this will be the intermission.
 
-\[...\]
+\[...\]  
+  
+**5**
 
 In theatre the intermission is the moment of choice, if you want to stay or if you want to go. It extracts the People from the people. Another example of the disconnection of the mass, the necessity of division, against the whole, and this constitutes what the masses are, in the sense of the theatre. Anyway, let’s continue.
 
@@ -189,7 +191,7 @@ The human can be different, perhaps rather than count with our fingers we should
 
 You can hold the image of a film’s world-line then imagine it to have the shape of an accordion that could changes after each compression and expansion of its bellows. And in that very movement our experience of its sounds, our ability to hear its motion, changes.
 
-**5**
+**6**
 
 ![](/assets/uploads/criticism_imtheory127-intuition.jpg)
 
