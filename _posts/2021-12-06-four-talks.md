@@ -1,6 +1,6 @@
 ---
 layout: post
-publish_date: 2021-04-12 16:00:00 +0000
+publish_date: 2021-04-13 16:00:00 +0000
 title: Four Talks
 author: Isiah Medina
 
