@@ -1,7 +1,7 @@
 ---
 layout: post
 publish_date: 
-title: 'Towards a Theory of Film Production '
+title: 'Towards a Theory of Film Production: Part 1'
 author: Isiah Medina
 
 ---
