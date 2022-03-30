@@ -81,6 +81,9 @@ $link-active-border: $secondary-accent;
 .film-image {
   width: 100%;
   text-align: center;
+  img {
+    width: 100%
+  }
 }
 
 .film-info {

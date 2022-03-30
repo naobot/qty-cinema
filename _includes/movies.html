@@ -2,7 +2,12 @@
 {% assign sorted = (site.movies | sort: 'release' | reverse ) %}
 {% for movie in sorted %}
 <div class="a-film">
-  {% if movie.image and movie.image != '' %}<div class="film-image">{% if movie.link %}<a href="{{ movie.url | relative_url }}"><img  src="{{ movie.image | relative_url }}"></a>{% else %}<img  src="{{ movie.image | relative_url }}">{% endif %}</div>{% endif %}
+  {% if movie.image and movie.image != '' %}
+  {% capture image_path %}{{ movie.image }}{% endcapture %}
+  {% capture sm_image_path %}{{ image_path | resize: '1600x1600>' }}{% endcapture %}
+  {% capture lq_image_path %}{{ image_path | resize: '100x100>' }}{% endcapture %}
+  <div class="film-image">{% if movie.link %}<a href="{{ movie.url | relative_url }}">{% include lazyload.html image_src=sm_image_path lq_image_src=lq_image_path %}</a>{% else %}{% include lazyload.html image_src=sm_image_path lq_image_src=lq_image_path %}{% endif %}</div>
+  {% endif %}
 
   <div class="film-heading">
     <div class="film-info">
