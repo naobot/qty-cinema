@@ -9,7 +9,7 @@ layout: movie
 title: Night is Limpid
 director: Isiah Medina
 watch: https://youtu.be/mxIhCq4XPyc
-image: ''
+image: "/assets/uploads/movies_im_nightislimpid.jpg"
 published: false
 
 ---
