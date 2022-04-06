@@ -9,3 +9,4 @@ watch: https://youtu.be/VWd7llH1iRM
 image: "/assets/uploads/Logs_IM_Log2.png"
 
 ---
+From Winnipeg to Paris, from Montreal to the Philippines, the dash between "Filipino-Canadian" becomes a minus.
