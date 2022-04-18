@@ -1,4 +1,7 @@
 ---
+- when: 2022-05-01 15:00:00 +0000
+  where: Jeonju International Film Festival
+  what: "<i>Night is Limpid</i> World Premiere + Q&A"
 - when: 2022-03-25 15:00:00 +0000
   where: NSCAD University
   what: '"The Object of Cinema is Names", lecture by Isiah Medina '
