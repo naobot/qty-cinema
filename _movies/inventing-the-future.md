@@ -12,7 +12,7 @@ layout: movie
 
 ---
 ![](/assets/uploads/movies_im_inventingthefuture1.png)  
-Poster design by Avery Medina
+Poster design by [Avery Medina](https://averymedina.com/)
 
 * [Download link](https://drive.google.com/file/d/1uIK0IWWp4qpb-1XIECM6KfDCHPW-UAiG/view?usp=sharing) for _Inventing the Future_ (2K H264, 9GB)
 * Subtitles
