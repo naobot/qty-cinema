@@ -31,7 +31,7 @@ Thinking in cuts and making thought-cuts visible – _88:88_ is cutting edge –
 
 is
 
-∞∞ . . ∞∞
+### ∞∞ . . ∞∞
 
 Jacques Lacan addressed the Möbius strip relationship of consciousness and the unconscious as that of an inner eight and thereby indicated how suspension and structure (of consciousness) leads us into the zone of constitutive disorientation. What if we had to eight-y-fy the (revolutionary subject’s to come) inner eight to think something other than capitalism?
 
