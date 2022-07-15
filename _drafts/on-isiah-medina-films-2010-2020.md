@@ -84,9 +84,8 @@ The conclusion the film reaches is one of many possible futures. Though it is ea
 
 _Sam Bodrojan is a freelance critic living in Chicago. Her work has appeared in Reverse Shot, Little White Lies, Filmmaker Mag, and elsewhere._
 
-Phil Coldiron
-
-**Excerpt: Movies for Robots. Isiah Medina's _Inventing the Future_**
+**Phil Coldiron  
+Excerpt: Movies for Robots. Isiah Medina's _Inventing the Future_**
 
 In an essay published last year in _Cultural Politics_, Sarah Hamblin argues that the political capacity of montage-based filmmaking has been decisively exhausted in a world of finance capital, a world in which “the active spectator of 1960s radical cinema becomes the pattern hunter of the twenty-first-century derivatives market.” She goes on to argue that “montage obscures the historically constructed nature of subjectivity and replaces it with the neoliberal fantasy of complete self-determination in which choices are made freely and in full consciousness.” Though her concluding call for a return to a kind of (neo)realism seems to me unconvincing as a way out of this political-aesthetic dead end, her critique of montage nonetheless affords a useful route into the most difficult areas of _Inventing the Future_.
 
@@ -104,15 +103,14 @@ Does this then mean that Medina is only creating so many artificial hells, local
 
 Taken as a toy model, the film frames our relationship to making meaning of sense experience, and ultimately intelligence as such, in a way that demands reflection on the forms our thinking takes, rather than occluding its conditions. In my own case: why is it that I have decided that the film’s density and surface demand slowing down in order to access their surplus signification? Why do I desire to attach language to image, or more broadly, why do I approach the experience of being audience to art as primarily one of producing language? What else could watching _Inventing the Future_ be?
 
-**_Phil Coldiron is a writer living in New York._**
+_Phil Coldiron is a writer living in New York._
 
-**_Published in Cinema Scope, Issue #84 (Fall 2020)._**
+_Published in Cinema Scope, Issue #84 (Fall 2020)._
 
-Steffanie Ling
+**Steffanie Ling  
+Excerpt: Infinity Factory. On Isiah Medina's _Inventing the Future_ (2020)**
 
-\**Excerpt: Infinity Factory. On Isiah Medina's _Inventing the Future_ (2020)
-
-\**On March 30, 2020, as the pandemic was in its early phases, Canadian filmmaker Isiah Medina premiered his second feature film, _Inventing the Future_, an adaptation of Nick Srnicek and Alex Williams’s 2015 post-work manifesto of the same title. The film was uploaded to YouTube accompanied by a free download link through Quantity Cinema, a production platform operated by Medina and a few other filmmakers. _Inventing the Future_ contends that the emancipation of our time would entail the implementation of a universal basic income to supplement the welfare state and automation as means to achieve a shorter work week. These demands offer a strategic answer to the broad desire to consolidate power among all spheres of the working class by liberating time, but also invokes aspects of State control and oppressive apparatuses emblematic of previous failed utopian experiments.
+On March 30, 2020, as the pandemic was in its early phases, Canadian filmmaker Isiah Medina premiered his second feature film, _Inventing the Future_, an adaptation of Nick Srnicek and Alex Williams’s 2015 post-work manifesto of the same title. The film was uploaded to YouTube accompanied by a free download link through Quantity Cinema, a production platform operated by Medina and a few other filmmakers. _Inventing the Future_ contends that the emancipation of our time would entail the implementation of a universal basic income to supplement the welfare state and automation as means to achieve a shorter work week. These demands offer a strategic answer to the broad desire to consolidate power among all spheres of the working class by liberating time, but also invokes aspects of State control and oppressive apparatuses emblematic of previous failed utopian experiments.
 
 \[...\] In Canada, the release of Medina’s film aligned with a brief sampling of the kind of post-work society that _Inventing the Future_ outlines. The Liberal Party suspended student loan debt payments, implemented provisional rent subsidy programs, and issued an initial $81.64 billion through the Canada Emergency Relief Benefit (CERB). In September, this program was bifurcated into two streams of taxable relief, the Canada Recovery Benefit (CRB) for contract workers and a revised Employment Insurance program with broader eligibility for waged employees. In the absence of a revolutionary process, the Canadian state revealed that it already contains syndicated mechanisms embedded within its neoliberal corpus to issue rent subsidies through property management companies, debt forgiveness facilitated through the National Student Loan Service Centre, and later the implementation of a universal basic income model.
 
@@ -128,8 +126,8 @@ Time-based media and the Left share a future-oriented ontology. As long as capit
 
 Experimentation is a movement adjacent to, but which strives to go beyond, a condition. Experimentation is inherently time-consuming. The lack of immediacy practiced in Medina’s mode of inquiry and the structure of his cinematic language provokes a confrontation with the chronic scarcity of time to grapple with the complexities of global capitalism and neoliberal hegemony. Being unable to know our condition effectively hinders our political motivation to move beyond the provisional forms of justice we can manifest through a folk political common sense, a politics of immediacy. Medina’s _Inventing the Future_ operates in the aesthetic regime as an embodied future-tense – the recuperation of time from the duress of work.
 
-**_Steffanie Ling is a writer, cultural worker and guest living on the unceded territories of the xwməθkwəy̓əm (Musqueam), Skwxwú7mesh (Squamish), and Səl̓ílwətaʔ/Selilwitulh (Tsleil-Waututh) First Nations._**
+_Steffanie Ling is a writer, cultural worker and guest living on the unceded territories of the xwməθkwəy̓əm (Musqueam), Skwxwú7mesh (Squamish), and Səl̓ílwətaʔ/Selilwitulh (Tsleil-Waututh) First Nations._
 
-**_She is currently a graduate student at Simon Fraser University in the department of Sociology and Anthropology, focusing on cultural labor’s economic and social relationship to land dispossession._**
+_She is currently a graduate student at Simon Fraser University in the department of Sociology and Anthropology, focusing on cultural labor’s economic and social relationship to land dispossession._
 
-**_Published in MARCH, February 2021._**
+_Published in MARCH, February 2021._
