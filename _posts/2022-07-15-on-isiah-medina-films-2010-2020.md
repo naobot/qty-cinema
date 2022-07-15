@@ -35,12 +35,9 @@ is
 
 Jacques Lacan addressed the Möbius strip relationship of consciousness and the unconscious as that of an inner eight and thereby indicated how suspension and structure (of consciousness) leads us into the zone of constitutive disorientation. What if we had to eight-y-fy the (revolutionary subject’s to come) inner eight to think something other than capitalism?
 
-_  
-Frank Ruda is Senior Lecturer in Philosophy at the University of Dundee and Professor of Philosophy at the European Graduate School. He is the author of multiple books, most recently of Reading Hegel (with Slavoj Žižek and Agon Hamza)._
+_Frank Ruda is Senior Lecturer in Philosophy at the University of Dundee and Professor of Philosophy at the European Graduate School. He is the author of multiple books, most recently of Reading Hegel (with Slavoj Žižek and Agon Hamza)._
 
-**  
-  
-Kurt Walker**  
+**Kurt Walker**  
 **Youth Mosaic. On Isiah Medina's _Semi-Auto Colours_ (2010)**
 
 I first saw Isiah Medina’s _Semi-Auto Colours_ when it appeared on my Tumblr feed in 2012, back at a time when the platform was briefly host to a loose movement of experimental filmmaking. In this encounter with the film I was struck by two extremes: at once greatly moved yet considerably confounded by the work. What was this movie which dovetails traces of narrative with a structure that ruptures, blossoms, and incinerates? Who was this filmmaker that so confidently and cogently weaves text messages with the daily lives of deeply resonant yet uncharacterized figures? The array of questions made at least one thing clear: this was, or at least was at the precipice of being, something entirely new to this medium.
@@ -51,12 +48,9 @@ In 2012 most formalizations of text messaging were about to become visual cliche
 
 Medina would later ardently formalize and confront these matters on more radical tapestries, yet here–like the most indelible of first films–the technique expresses with an immediacy perhaps only the unfettered proximity to youth can bear. In Summer 2013, _Semi-Auto Colours_ screened with work from this aforementioned group of Tumblr born filmmakers (of which I was proudly part of) at Anthology Film Archives to an empty theatre. I trust that this retrospective will correct this wrong and introduce (or reintroduce) this film, for in its immediacy is a wellspring of inspiration to move forward and make images.
 
-_  
-Kurt Walker is an experimental filmmaker from Vancouver, Canada. He makes movies concerned with place, experience, and connection._
+_Kurt Walker is an experimental filmmaker from Vancouver, Canada. He makes movies concerned with place, experience, and connection._
 
-**  
-  
-Kelley Dong  
+**Kelley Dong  
 This Side of Paradise: Short Films by Isiah Medina (2010-2020)**
 
 Directed between the ages of 18 and 28, the short films of Isiah Medina (approximately 40 in total, 7 of which will be presented at Spectacle) form a Bildungsroman unlatched from the tradition of narrative. This violent separation occurs in the very first minute of Medina's _Semi-auto Colours_ (2010): Offscreen, a baby cries. A child falls into the shot from above, fully formed and without an umbilical cord. Medina denaturalizes the assumption that we are born attached to narrative—to parents, to names. For some the void of aloneness—not loneliness—that Medina continues to uncover is a plane upon which to project myopic, polluted fictions. A description of _Semi-auto Colours_ by the Regent Park Film Festival states that in the film, "disenfranchised youth in Winnipeg's West End \[...\] dream of being gangstas and rappers." But in Medina's films, there are no dreams. There are only thoughts, or thoughts-as-actions. This is why _Semi-auto Colours_ concludes with a shot of a question mark sent via text message: a cogito, ergo sum of the 21st century.
