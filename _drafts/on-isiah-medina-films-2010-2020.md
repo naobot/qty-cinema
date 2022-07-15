@@ -33,9 +33,10 @@ is
 
 ∞∞ . . ∞∞
 
-Jacques Lacan addressed the Möbius strip relationship of consciousness and the unconscious as that of an inner eight and thereby indicated how suspension and structure (of consciousness) leads us into the zone of constitutive disorientation. What if we had to eight-y-fy the (revolutionary subject’s to come) inner eight to think something other than capitalism?  
-  
-_Frank Ruda is Senior Lecturer in Philosophy at the University of Dundee and Professor of Philosophy at the European Graduate School. He is the author of multiple books, most recently of Reading Hegel (with Slavoj Žižek and Agon Hamza)._
+Jacques Lacan addressed the Möbius strip relationship of consciousness and the unconscious as that of an inner eight and thereby indicated how suspension and structure (of consciousness) leads us into the zone of constitutive disorientation. What if we had to eight-y-fy the (revolutionary subject’s to come) inner eight to think something other than capitalism?
+
+_  
+Frank Ruda is Senior Lecturer in Philosophy at the University of Dundee and Professor of Philosophy at the European Graduate School. He is the author of multiple books, most recently of Reading Hegel (with Slavoj Žižek and Agon Hamza)._
 
 **  
   
@@ -50,7 +51,8 @@ In 2012 most formalizations of text messaging were about to become visual cliche
 
 Medina would later ardently formalize and confront these matters on more radical tapestries, yet here–like the most indelible of first films–the technique expresses with an immediacy perhaps only the unfettered proximity to youth can bear. In Summer 2013, _Semi-Auto Colours_ screened with work from this aforementioned group of Tumblr born filmmakers (of which I was proudly part of) at Anthology Film Archives to an empty theatre. I trust that this retrospective will correct this wrong and introduce (or reintroduce) this film, for in its immediacy is a wellspring of inspiration to move forward and make images.
 
-_Kurt Walker is an experimental filmmaker from Vancouver, Canada. He makes movies concerned with place, experience, and connection._
+_  
+Kurt Walker is an experimental filmmaker from Vancouver, Canada. He makes movies concerned with place, experience, and connection._
 
 **  
   
@@ -74,7 +76,7 @@ DEMAND CINEMA**
 
 Filmmaking has had a labor problem for as long as it has had a history. Shooting schedules are a stretch of 18 hour days, non-union VFX houses are increasingly the backbone of productions, film distribution and production models crumbling under the hegemony of Disney. Movies are work, and divorced from capital they could be such valuable work, full of real discovery. Isiah Medina’s iconoclastic feature _Inventing the Future_ was released for free on Youtube, two weeks into the initial shutdown of the COVID-19 pandemic in North America. The systems of commerce, supply chains, and moviegoing have only grown bleaker in the two years since the film’s release, standing in stark contrast to the picture’s exhilarating optimism for new ways of extrapolating upon collective vision-making.
 
-In their book of the same name, Snricek and Williams posit that modern-day technology has the capacity to create a world of universal basic income and reduced work, that technological innovation could offer an escape from capitalism into a more ambitious, freer future. _Inventing The Future_ takes its eponymous source material through a cacophony of dense audiovisual semiotics, reapplying it to the medium of cinema. Medina’s signature intimacies coalesce behind a rallying cry for less work.
+In their book of the same name, Srnicek and Williams posit that modern-day technology has the capacity to create a world of universal basic income and reduced work, that technological innovation could offer an escape from capitalism into a more ambitious, freer future. _Inventing The Future_ takes its eponymous source material through a cacophony of dense audiovisual semiotics, reapplying it to the medium of cinema. Medina’s signature intimacies coalesce behind a rallying cry for less work.
 
 Medina’s editing is intuitively pleasurable and polyrhythmic, and his mise en scene is compositionally unrivaled in the contemporary avant-garde sphere. A shot of two people holding hands is superimposed against a CGI shot of an impossibly circular city, the lighting matched to suggest all manufactured imagery can exist on the same plane and thrive on the same beauty. The text is spoken, both on-screen and in voiceover, by a chorus of Medina’s friends and community, faces that he’s been capturing since _Semi-auto Colours_ (2010). _Inventing the Future_ wears its narration like a well-loved loose garment, integrating it into a convincing simulacrum of reading theory—on the way to work, while cleaning the house, in between conversations with friends—and how it seeps into every piece of stimuli. An early scene captures a meeting of the UK think tank Autonomy, who we see talking into microphones, drinking coffee, and scrolling through PDFs on their phone. Other scenes depict people reading to the camera, to their lovers, off their phone, placed against the backdrop of and in juxtaposition with minimalist computer-generated backgrounds and the liminal spaces of Toronto’s architecture.
 
@@ -114,7 +116,7 @@ On March 30, 2020, as the pandemic was in its early phases, Canadian filmmaker I
 
 \[...\] In Canada, the release of Medina’s film aligned with a brief sampling of the kind of post-work society that _Inventing the Future_ outlines. The Liberal Party suspended student loan debt payments, implemented provisional rent subsidy programs, and issued an initial $81.64 billion through the Canada Emergency Relief Benefit (CERB). In September, this program was bifurcated into two streams of taxable relief, the Canada Recovery Benefit (CRB) for contract workers and a revised Employment Insurance program with broader eligibility for waged employees. In the absence of a revolutionary process, the Canadian state revealed that it already contains syndicated mechanisms embedded within its neoliberal corpus to issue rent subsidies through property management companies, debt forgiveness facilitated through the National Student Loan Service Centre, and later the implementation of a universal basic income model.
 
-When the aforementioned influx of benefits intersected with the mass unemployment of non-essential workers, it created a precedent for state-mandated free time. Given this context, and in principle with its socialized means of production (a combination of State arts council grants and crowdfunding), Medina’s film arrived in a sociopolitical landscape already oriented towards the future it describes.****
+When the aforementioned influx of benefits intersected with the mass unemployment of non-essential workers, it created a precedent for state-mandated free time. Given this context, and in principle with its socialized means of production (a combination of State arts council grants and crowdfunding), Medina’s film arrived in a sociopolitical landscape already oriented towards the future it describes.
 
 \[...\] Medina, who has amassed a broad and youthful fan base by sharing his earlier films free online, has never undermined the intellect of his public. Following the release of _88:88_ (2015), it was apparent that Medina’s ethos was not compatible with present industry conventions designed to manufacture and uphold a film’s scarcity and to power neoliberal economies of labor; for example, by cultivating competition between freelance writers who pitch to precariously financed (and often niche) press outlets in exchange for exploitative, but broadly accepted, rates of pay. In other words, filmmakers also participate in the successful application of an effectively scaled and planned neoliberal marketplace that presents the ritual of meritocracy.
 
