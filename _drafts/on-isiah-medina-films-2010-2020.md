@@ -33,11 +33,13 @@ is
 
 ∞∞ . . ∞∞
 
-Jacques Lacan addressed the Möbius strip relationship of consciousness and the unconscious as that of an inner eight and thereby indicated how suspension and structure (of consciousness) leads us into the zone of constitutive disorientation. What if we had to eight-y-fy the (revolutionary subject’s to come) inner eight to think something other than capitalism?
-
+Jacques Lacan addressed the Möbius strip relationship of consciousness and the unconscious as that of an inner eight and thereby indicated how suspension and structure (of consciousness) leads us into the zone of constitutive disorientation. What if we had to eight-y-fy the (revolutionary subject’s to come) inner eight to think something other than capitalism?  
+  
 _Frank Ruda is Senior Lecturer in Philosophy at the University of Dundee and Professor of Philosophy at the European Graduate School. He is the author of multiple books, most recently of Reading Hegel (with Slavoj Žižek and Agon Hamza)._
 
-**Kurt Walker**  
+**  
+  
+Kurt Walker**  
 **Youth Mosaic. On Isiah Medina's _Semi-Auto Colours_ (2010)**
 
 I first saw Isiah Medina’s _Semi-Auto Colours_ when it appeared on my Tumblr feed in 2012, back at a time when the platform was briefly host to a loose movement of experimental filmmaking. In this encounter with the film I was struck by two extremes: at once greatly moved yet considerably confounded by the work. What was this movie which dovetails traces of narrative with a structure that ruptures, blossoms, and incinerates? Who was this filmmaker that so confidently and cogently weaves text messages with the daily lives of deeply resonant yet uncharacterized figures? The array of questions made at least one thing clear: this was, or at least was at the precipice of being, something entirely new to this medium.
@@ -50,7 +52,9 @@ Medina would later ardently formalize and confront these matters on more radical
 
 _Kurt Walker is an experimental filmmaker from Vancouver, Canada. He makes movies concerned with place, experience, and connection._
 
-**Kelley Dong  
+**  
+  
+Kelley Dong  
 This Side of Paradise: Short Films by Isiah Medina (2010-2020)**
 
 Directed between the ages of 18 and 28, the short films of Isiah Medina (approximately 40 in total, 7 of which will be presented at Spectacle) form a Bildungsroman unlatched from the tradition of narrative. This violent separation occurs in the very first minute of Medina's _Semi-auto Colours_ (2010): Offscreen, a baby cries. A child falls into the shot from above, fully formed and without an umbilical cord. Medina denaturalizes the assumption that we are born attached to narrative—to parents, to names. For some the void of aloneness—not loneliness—that Medina continues to uncover is a plane upon which to project myopic, polluted fictions. A description of _Semi-auto Colours_ by the Regent Park Film Festival states that in the film, "disenfranchised youth in Winnipeg's West End \[...\] dream of being gangstas and rappers." But in Medina's films, one observes that there are no dreams. There are only thoughts, or thoughts-as-actions. This is why _Semi-auto Colours_ concludes with a shot of a question mark sent via text message: a cogito, ergo sum of the 21st century.
@@ -63,11 +67,10 @@ The playful turn towards metareflexivity that occurs in Medina's Toronto-set _Id
 
 The precursor to _Inventing the Future_ (2020), _Log 2_ (2020) was released on Medina's 29th birthday. In juxtaposition with footage of museums and family gatherings in the Philippines, the film includes scenes from Medina's youth. Medina has made few onscreen appearances throughout his filmography, and because he has never explicitly announced these appearances many continually fail to locate him. But by linking the personal archive to self-portraiture, _Log 2_ asserts the omnipresence of the artist as separate from a corporeal form or from any divulgence of autobiographical detail. Additionally this expression of mastery can only be exerted if the artist owns their work, the significance of which Medina invokes by intercutting the Lumière Brothers' _Demolition of a Wall_ (1896) with a close-up of the ancient Filipino script Baybayin. Thus Medina concludes the first decade of his oeuvre by placing it within a history of first words and nascent languages.
 
-**_Kelley Dong is a Toronto-based writer, producer, and filmmaker._**
+_Kelley Dong is a Toronto-based writer, producer, and filmmaker._
 
-Sam Bodrojan
-
-**DEMAND CINEMA**
+**Sam Bodrojan  
+DEMAND CINEMA**
 
 Filmmaking has had a labor problem for as long as it has had a history. Shooting schedules are a stretch of 18 hour days, non-union VFX houses are increasingly the backbone of productions, film distribution and production models crumbling under the hegemony of Disney. Movies are work, and divorced from capital they could be such valuable work, full of real discovery. Isiah Medina’s iconoclastic feature _Inventing the Future_ was released for free on Youtube, two weeks into the initial shutdown of the COVID-19 pandemic in North America. The systems of commerce, supply chains, and moviegoing have only grown bleaker in the two years since the film’s release, standing in stark contrast to the picture’s exhilarating optimism for new ways of extrapolating upon collective vision-making.
 
@@ -79,7 +82,7 @@ _Inventing the Future_ weaponizes and synchronizes its images across genres—do
 
 The conclusion the film reaches is one of many possible futures. Though it is easy to devolve into disagreements about the film’s particulars, Medina’s images have given me hope and inspired me since I was a kid, showing me a potentiality for how I could transmogrify sound and color to reflect lived experience and theory in harmony. A better cinema is possible, no matter what happens tomorrow. I’m grateful Medina’s work will be a part of it.
 
-**_Sam Bodrojan is a freelance critic living in Chicago. Her work has appeared in Reverse Shot, Little White Lies, Filmmaker Mag, and elsewhere._**
+_Sam Bodrojan is a freelance critic living in Chicago. Her work has appeared in Reverse Shot, Little White Lies, Filmmaker Mag, and elsewhere._
 
 Phil Coldiron
 
@@ -107,9 +110,9 @@ Taken as a toy model, the film frames our relationship to making meaning of sens
 
 Steffanie Ling
 
-**Excerpt: Infinity Factory. On Isiah Medina's _Inventing the Future_ (2020)  
-   
- **On March 30, 2020, as the pandemic was in its early phases, Canadian filmmaker Isiah Medina premiered his second feature film, _Inventing the Future_, an adaptation of Nick Srnicek and Alex Williams’s 2015 post-work manifesto of the same title. The film was uploaded to YouTube accompanied by a free download link through Quantity Cinema, a production platform operated by Medina and a few other filmmakers. _Inventing the Future_ contends that the emancipation of our time would entail the implementation of a universal basic income to supplement the welfare state and automation as means to achieve a shorter work week. These demands offer a strategic answer to the broad desire to consolidate power among all spheres of the working class by liberating time, but also invokes aspects of State control and oppressive apparatuses emblematic of previous failed utopian experiments.
+\**Excerpt: Infinity Factory. On Isiah Medina's _Inventing the Future_ (2020)
+
+\**On March 30, 2020, as the pandemic was in its early phases, Canadian filmmaker Isiah Medina premiered his second feature film, _Inventing the Future_, an adaptation of Nick Srnicek and Alex Williams’s 2015 post-work manifesto of the same title. The film was uploaded to YouTube accompanied by a free download link through Quantity Cinema, a production platform operated by Medina and a few other filmmakers. _Inventing the Future_ contends that the emancipation of our time would entail the implementation of a universal basic income to supplement the welfare state and automation as means to achieve a shorter work week. These demands offer a strategic answer to the broad desire to consolidate power among all spheres of the working class by liberating time, but also invokes aspects of State control and oppressive apparatuses emblematic of previous failed utopian experiments.
 
 \[...\] In Canada, the release of Medina’s film aligned with a brief sampling of the kind of post-work society that _Inventing the Future_ outlines. The Liberal Party suspended student loan debt payments, implemented provisional rent subsidy programs, and issued an initial $81.64 billion through the Canada Emergency Relief Benefit (CERB). In September, this program was bifurcated into two streams of taxable relief, the Canada Recovery Benefit (CRB) for contract workers and a revised Employment Insurance program with broader eligibility for waged employees. In the absence of a revolutionary process, the Canadian state revealed that it already contains syndicated mechanisms embedded within its neoliberal corpus to issue rent subsidies through property management companies, debt forgiveness facilitated through the National Student Loan Service Centre, and later the implementation of a universal basic income model.
 
