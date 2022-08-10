@@ -67,13 +67,13 @@ I have no idea about anything regarding festivals. I just made movies. I was ver
 
 **SM:** And that didn’t happen.
 
-**IM:** Here and there. But mostly it’d be festival to festival, traveling, but no payment at all. There might be a hotel or a flight, sometimes a meal. I’m not going to lie, I thought if I made a masterpiece then we’d have a bit more money in our lives, but the money didn’t come. But... I think the movie is quite good.
+**IM:** Here and there. But mostly it’d be festival to festival, traveling, but no payment at all. There might be a hotel or a flight, sometimes a meal. I’m not going to lie, I naively thought if I made a masterpiece then we’d have a bit more money in our lives, but the money didn’t come. But... I think the movie is quite good.
 
 \[Laughter\]
 
 **SM:** You’re also still in your life, you can get money for this masterpiece later.
 
-**IM:** It took time but I have my own equipment now so I can keep making pictures so it’s all good. But whether it’s an iPhone or a RED or whatever you can always make a picture. In terms of festivals, I just liked seeing the movie on the big screen. I didn’t get paid but I enjoyed seeing it on a big screen. I often can’t afford to rent a theatre. What I get most out of the festival experience is seeing my work on a big screen. Seeing my movie is really nice.
+**IM:** It took time but I have my own equipment now, so I can keep making pictures. So it’s all good. But whether it’s an iPhone or a RED or whatever you can always make a picture. In terms of festivals, I just liked seeing the movie on the big screen. I didn’t get paid but I enjoyed seeing it on a big screen. I often can’t afford to rent a theatre. What I get most out of the festival experience is seeing my work on a big screen. Seeing my movie is really nice.
 
 **SM:** This film, like _Inventing the Future_ is online in full. And some of the shorts are online. Has that gotten you anything specific, where something incredible happens that can only happen because you put it online? Or do you still prefer it in a theatre?
 
