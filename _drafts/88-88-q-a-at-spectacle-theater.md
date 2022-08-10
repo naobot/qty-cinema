@@ -59,7 +59,7 @@ A lot of it was very impromptu. Like if I messed up \[Isiah\] would just keep it
 
 **SM:** This is still a very confrontational mode of montage. So I’m wondering what did this film do for you, what was your festival experience? Did people expect you to turn in something more quote-unquote “mainstream” after this? And it didn’t happen or…
 
-**IM:** _Inventing the Future_ was mainstream right?
+**IM:** _Inventing the Future_ was mainstream, right?
 
 \[Laughter\]
 
