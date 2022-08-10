@@ -67,7 +67,7 @@ I have no idea about anything regarding festivals. I just made movies. I was ver
 
 **SM:** And that didn’t happen.
 
-**IM:** Here and there. But mostly it’d be festival to festival, traveling, but no payment at all. There might be a hotel or a flight, sometimes a meal. I’m not going to lie, I thought if I made a masterpiece then we’d have a bit more money in our lives, but the money didn’t come but I think the movie is quite good.
+**IM:** Here and there. But mostly it’d be festival to festival, traveling, but no payment at all. There might be a hotel or a flight, sometimes a meal. I’m not going to lie, I thought if I made a masterpiece then we’d have a bit more money in our lives, but the money didn’t come. But... I think the movie is quite good.
 
 \[Laughter\]
 
