@@ -6,6 +6,8 @@ author: Frank Ruda, Kurt Walker, Kelley Dong, Sam Bodrojan, Phil Coldiron, and S
   Ling
 
 ---
+_The following essays and excerpts were published to accompany the retrospective_ [_Isiah Medina: Films 2010-2020_](https://www.spectacletheater.com/isiah-medina) _(July 29 to August 21) at Spectacle Theater in Brooklyn, NY._ 
+
 **Frank Ruda  
 A Cut in the Night. Isiah Medina’s _88:88_ (2015)**
 
