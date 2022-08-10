@@ -9,7 +9,7 @@ _The following Q&A took place as part of the retrospective_ [_Isiah Medina: Film
 
 **Isiah Medina:** This film was made 7 years ago, it was my first feature. The title _88:88_ comes from when you can’t pay your bills and your heat, water, and light all get cut. When you’re able to pay again, all the clocks and digital appliances flash 88:88 as both suspension and reset. When I first showed it years ago at its premiere, I was nervous, and then I showed it more and more and I wasn’t. And now years have passed and I’m nervous to see it again. It’s like another reset. I feel nervous because I feel like I am not only sharing it with you for the first time, but I’m even sharing it with myself.
 
-<Screening>
+\[Screening\]
 
 **Steve Macfarlane:** Well, I'm remembering when you were here seven years ago for your Without A Future event, we thought about having a secret bootleg screening of this film here. But it was too hot, and we reconsidered because of the New York Film Festival premiere.
 
