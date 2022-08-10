@@ -5,6 +5,6 @@ title: About
 ---
 # About
 
-Quantity Cinema produces movies and criticism. 
+Quantity Cinema produces movies and criticism.
 
-qtycinema@gmail.com
+For bookings and inquiries, contact qtycinema@gmail.com. 
