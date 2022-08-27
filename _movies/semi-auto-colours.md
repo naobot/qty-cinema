@@ -1,5 +1,5 @@
 ---
-title: Semi-Auto Colours
+title: Semi-auto Colours
 director: Isiah Medina
 link: semi-auto-colours
 synopsis: 'Kids from the West End learn to count to One. '
