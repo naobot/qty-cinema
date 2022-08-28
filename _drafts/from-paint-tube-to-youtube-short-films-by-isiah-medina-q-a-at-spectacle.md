@@ -45,19 +45,13 @@ I'm very simple, I just like showing films on the big screen. I love the big scr
 
 **SM:** Right. And every time I've ever watched your work, I've been stricken by this feeling of like, man, I wish I was making movies or why am I not making movies? I think your work, at least to me and I think to other people I've spoken to, it inspires a feeling of like how within grasp some of these things are. But you're also dealing with stuff like class, access, colonial ways of programming films, or looking at films. When you say the gun, when you talked about the \[gun in the\] film. Is that something you wouldn't do in 2020, \[would\] a gun lopside the narrative in a way that... images of a gun, I should say.
 
-**IM:** It depends on how the gun is presented. It changes from film to film. I \[even\] tried to have no smoking cigarettes in _Inventing the Future_, until you know, Autonomy started smoking and I didn't want to stop them, right. Or no swearing. With that film on YouTube, I wanted children to be able to watch it, since it's a children's film. In terms of guns, it just depends on the picture. No one could stop me from showing what I want to show but it just makes me more cognizant of how it's shown. I regret nothing in what I've made. But I feel more safe and comfortable, for example, playing Semi-auto with my own work rather than with others. 
+**IM:** It depends on how the gun is presented. It changes from film to film. I \[even\] tried to have no smoking cigarettes in _Inventing the Future_, until you know, Autonomy started smoking and I didn't want to stop them. Or no swearing. With that film on YouTube, I wanted children to be able to watch it, since it's a children's film. In terms of guns, it just depends on the picture. No one could stop me from showing what I want to show but it just makes me more cognizant of how it's shown. I regret nothing in what I've made. But I feel more safe and comfortable, for example, playing _Semi-auto Colours_ with my own work rather than with others. 
 
-Steve Macfarlane  13:17  
+**SM**: Right. 
 
-Right. 
+**IM:** For example, _Time is the Sun_ wasn't online because I felt like that's a very personal picture and I didn't think that it always had to be online. I felt like when it was online, the people who saw it and needed it saw it and if they wanted to ask me for it I can give it to them. It's one I had most difficulty with, even when artist friends like Alex would say it's his favourite, as well as some other friends abroad. But Kelley Dong, my partner, they convinced me \[to\] show _Time is the Sun_ here. In this context, I felt _Time is the Sun_ was protected by my other works that surround it to give it context. I don't think programming my films with my contemporaries or other people in the past would give it the context it needs. 
 
-Isiah Medina  13:18  
-
-For example, Time is the Sun wasn't online because I felt like that's a very personal picture I didn't think that it always had to be online. I felt like when it was online, the people who saw it and needed it saw it and if they wanted to ask me for it I can give it to them. But in this context, I felt Time is the Sun was protected by my other work here. And talking to Kelley Dong, my partner, they convinced me \[to\] show Time is the Sun. It's one I had most difficulty with, even when artist friends like Alex would say it's his favourite, as well as some other friends abroad. But now I feel I can show it because it is protected by my other works that surround it to give it context. I don't think programming my films with my contemporaries or other people in the past would give it the context it needs. 
-
-Steve Macfarlane  13:18  
-
-But it's also funny because you're a filmmaker who's clearly aware that when something is out in the world, the image will just get warped or adopted or discarded or whatever, in infinite different ways. 
+**SM:** But it's also funny because you're a filmmaker who's clearly aware that when something is out in the world, the image will just get warped or adopted or discarded or whatever, in infinite different ways. 
 
 Isiah Medina  14:16  
 
