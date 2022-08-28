@@ -73,7 +73,7 @@ I'm very simple, I just like showing films on the big screen. I love the big scr
 
 **SM:** It's cool to think that you would have an idea what the movie felt like before you hadn't seen the completed cut, you know, because you were putting in these rhythms. You have like a plotline that you're then cutting into interwoven dribs and drabs on the Steenbeck. 
 
-**IM:** Even when I shot it, there was no script. Actually, I don't ever really work with a script until relatively recently. But I had a couple ideas and images and sequences I wanted. Like I already had it in my head what I was going to do. I think also because from when I was like 12, I got my first camera. And then I would connect the camera to the VCR for the image and then the PS2 to the VCR for the sound mix to edit my films. 
+**IM:** Even when I shot it, there was no script. Actually, I've never really worked with a script until relatively recently. But I had a couple ideas and images and sequences I wanted. I already had it in my head what I was going to do. I think also because from when I was like 12, I got my first camera. And then I would connect the camera to the VCR for the image and then the PS2 to the VCR for the sound mix to edit my films. 
 
 Steve Macfarlane  18:31  
 
