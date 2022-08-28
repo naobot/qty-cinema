@@ -51,43 +51,21 @@ I'm very simple, I just like showing films on the big screen. I love the big scr
 
 **IM:** For example, _Time is the Sun_ wasn't online because I felt like that's a very personal picture and I didn't think that it always had to be online. I felt like when it was online, the people who saw it and needed it saw it and if they wanted to ask me for it I can give it to them. It's one I had most difficulty with, even when artist friends like Alex would say it's his favourite, as well as some other friends abroad. But Kelley Dong, my partner, they convinced me \[to\] show _Time is the Sun_ here. In this context, I felt _Time is the Sun_ was protected by my other works that surround it to give it context. I don't think programming my films with my contemporaries or other people in the past would give it the context it needs. 
 
-**SM:** But it's also funny because you're a filmmaker who's clearly aware that when something is out in the world, the image will just get warped or adopted or discarded or whatever, in infinite different ways. 
+**SM:** But it's also funny because you're a filmmaker who's clearly aware that when something is out in the world, the image will get warped or adopted or discarded in infinite different ways. 
 
-Isiah Medina  14:16  
+**IM:** Sometimes I do see people take some of my footage and use it in theirs. 
 
-Sometimes I do see people take some of my footage and use it in theirs. 
+**SM:** Really?
 
-Steve Macfarlane  14:20  
+**Isiah Medina:** I've definitely seen that, especially with I_nventing the Future_ because the file was out. But I also I like the fact _October_ (1927) and _Birth of a Nation_ (1915), all this stuff is on YouTube. So by putting work on YouTube, you're already with the canon. You can make a playlist and program—I can't because you know, I'm really busy. But when you're young, you get excited when you're playing somewhere and you're like "oh my film is playing next to so and so." But you know, you put it on Youtube and you're playing with, oh my goodness, some of the greatest artists who really did it.
 
-Really?
+**Q1:** I have a question about some of the constraints you mentioned, like swearing. Are these all just random? Or why...? 
 
-Isiah Medina  14:20  
+**IM:** Oh, no, in regards to swearing it was just because for _Inventing the Future_, I was thinking about making a children's film. So it's not a rule that every film has. It's more just with each picture I think of different self-imposed limitations depending on what the film is. 
 
-I've definitely seen that, especially with Inventing the Future because the file was out. But I also I like the fact October and Birth of a Nation, all this stuff is on YouTube. So by putting work on YouTube, you're already with the canon. You can make a playlist and program, but I can't because you know, I'm really busy. But when you're young you get excited when you're playing somewhere and you're like "oh my film is playing next to so and so." But you know, you put it on Youtube and you're playing with, oh my goodness, some of the greatest artists who really did it.
+**Q2:** Was _Semi-auto Colours_ edited digitally? 
 
-Unknown Speaker  15:07  
-
-I have a question about some of the constraints you mentioned? Like swearing? Or are these all just random? Or why...? 
-
-Isiah Medina  15:16  
-
-Oh, no, in regards to swearing it was just because for Inventing the Future, I was thinking about making a children's film. So it's not like a rule that every film has. It's more just, each picture I think of different self-imposed limitations depending on what the film is. 
-
-Unknown Speaker  15:54  
-
-Was Semi-Auto Colours edited digitally? 
-
-Isiah Medina  15:57  
-
-Oh, no, I cut on the Steenbeck. 
-
-Unknown Speaker  15:59  
-
-Oh, really? 
-
-Isiah Medina  15:59  
-
-It was my first time I cut on the Steenbeck. And then what was really interesting is that I would barely watch it. And later on, I read about \[Gregory\] Markopoulous. So what happened is that you play it a bit, and you watch it. And then you start to figure out oh, that many frames will look like that. And looking frame by frame you have a sense of how it will play. So at one point, when I understood the rhythm of the frames, I would just kind of cut and tape and later cut and tape sequences. There was a point where I kind of stopped watching and just edit immanently following the frame to frame logic. And then much later I would actually watch it and then I double taped it. Which was really fun.
+**IM:** No, I cut on the Steenbeck. It was my first time I cut on the Steenbeck. And then what was really interesting is that I would barely watch it. And later on, I read about \[Gregory\] Markopoulous. So what happened is that you play it a bit, and you watch it. And then you start to figure out oh, that many frames will look like that. And looking frame by frame you have a sense of how it will play. So at one point, when I understood the rhythm of the frames, I would just kind of cut and tape and later cut and tape sequences. There was a point where I kind of stopped watching and just edit immanently following the frame to frame logic. And then much later I would actually watch it and then I double taped it. Which was really fun.
 
 Unknown Speaker  15:59  
 
