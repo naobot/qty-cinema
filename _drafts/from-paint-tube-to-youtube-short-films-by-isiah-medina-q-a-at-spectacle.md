@@ -65,23 +65,15 @@ I'm very simple, I just like showing films on the big screen. I love the big scr
 
 **Q2:** Was _Semi-auto Colours_ edited digitally? 
 
-**IM:** No, I cut on the Steenbeck. It was my first time I cut on the Steenbeck. And then what was really interesting is that I would barely watch it. And later on, I read about \[Gregory\] Markopoulous. So what happened is that you play it a bit, and you watch it. And then you start to figure out oh, that many frames will look like that. And looking frame by frame you have a sense of how it will play. So at one point, when I understood the rhythm of the frames, I would just kind of cut and tape and later cut and tape sequences. There was a point where I kind of stopped watching and just edit immanently following the frame to frame logic. And then much later I would actually watch it and then I double taped it. Which was really fun.
+**IM:** No, I cut on the Steenbeck. It was my first time I cut on the Steenbeck. And then what was really interesting is that I would barely watch it. **And later on, I read about Gregory Markopoulous.** So what happened is that you play it a bit, and you watch it. Then you start to figure out oh, that many frames will look like that. And by looking frame by frame you have a sense of how it will play. At one point, when I understood the rhythm of the frames, I would just kind of cut and tape and later cut and tape sequences. There was a point where I kind of stopped watching and would just edit immanently following the frame to frame logic. Much later I would actually watch it and then I double taped it. Which was really fun.
 
-Unknown Speaker  15:59  
+**Q3:** These devices that pop up a lot more in your films after _Semi-auto Colours_, in terms of superimposition and really pushing the image into abstraction, or flash frames and super fast intercutting, are not so much in that one. And I was wondering if that's just how you were thinking or if your thinking was conditioned by what you were working with? Or was that a result of you trying to make _Semi-auto Colours_ more of a narrative? 
 
-Oh, I just wanted to follow up. After \[Semi-auto Colours\], these devices that pop up a lot more in your films, in terms of like superimposition and really like pushing the image into abstraction, or flash frames and super fast intercutting, are not so much in that one. And I was wondering if that's just how you were thinking or \[if\] your thinking was conditioned by what you were working with? Or was that a result of you trying to make \[Semi-auto Colours\] more of a narrative? 
+**IM:** It was more that if I had too many single frame double taped cuts, I may have issues with the actual projection. So it's more like that type of limitation of, let's say, 8 frames at least, between each piece of double tape. Something like that type of material constraint.
 
-Isiah Medina  17:08  
+**SM:** It's cool to think that you would have an idea what the movie felt like before you hadn't seen the completed cut, you know, because you were putting in these rhythms. You have like a plotline that you're then cutting into interwoven dribs and drabs on the Steenbeck. 
 
-It was more that if I had too many single frame double taped cuts I may have issues with the actual projection. So it's more like that type of limitation of let's say 8 frames at least between each piece of double tape. Something like that type of material constraint.
-
-Steve Macfarlane  17:43  
-
-It's cool to think that you would have an idea what the movie felt like before you hadn't seen the completed cut, you know, because you were putting in these rhythms. You have like a plotline that you're then cutting into interwoven dribs and drabs, like on the Steenbeck. 
-
-Isiah Medina  18:00  
-
-Even when I shot it, there was no script. Actually, I don't ever really work with a script until relatively recently. But I had a couple ideas and images and sequences I wanted. Like I already had it in my head what I was going to do. I think also because from when I was like 12, I got my first camera. And then I would connect the camera to the VCR for the image and then the PS2 to the VCR for the sound mix to edit my films. 
+**IM:** Even when I shot it, there was no script. Actually, I don't ever really work with a script until relatively recently. But I had a couple ideas and images and sequences I wanted. Like I already had it in my head what I was going to do. I think also because from when I was like 12, I got my first camera. And then I would connect the camera to the VCR for the image and then the PS2 to the VCR for the sound mix to edit my films. 
 
 Steve Macfarlane  18:31  
 
