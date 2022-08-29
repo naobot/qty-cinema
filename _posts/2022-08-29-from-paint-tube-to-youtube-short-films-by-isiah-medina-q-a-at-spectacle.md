@@ -1,6 +1,6 @@
 ---
 layout: post
-publish_date: 2022-08-27 17:56:09 +0000
+publish_date: 2022-08-29 17:56:09 +0000
 title: '"From Paint Tube to Youtube: Short Films by Isiah Medina" Q&A at Spectacle
   Theater'
 author: Isiah Medina and Steve Macfarlane
