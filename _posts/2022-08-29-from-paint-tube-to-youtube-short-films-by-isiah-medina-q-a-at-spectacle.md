@@ -31,7 +31,7 @@ Going to the Philippines for the first time since I visited when I was 7 or 8 ma
 
 _Time is the Sun_ has this superimposition because I'm in the thick of it, and learning how to navigate through and out of it. Now when I'm watching the films altogether, I see myself grow. As I gain more clarity, I rely less on the superimposition as a way to bring multiple ideas and things together. Instead I found a maturity by the end of this sequence of films with the cut because I have a more external view, from the outside as it were, whereas the superimposition is more inside.
 
-**SM:** Can you talk a little bit about presenting _Semi-auto Colours_, the 16 millimeter print back in the early 2010s? When you were beginning to show your work publicly and have Q and A's?
+**SM:** Can you talk a little bit about presenting _Semi-auto Colours_, the 16mm print back in the early 2010s? When you were beginning to show your work publicly and have Q&A's?
 
 **IM:** What about it?
 
