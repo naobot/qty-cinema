@@ -57,7 +57,7 @@ I'm very simple, I just like showing films on the big screen. I love the big scr
 
 **SM:** Really?
 
-**Isiah Medina:** I've definitely seen that, especially with _Inventing the Future_ because the file was out. But I also I like the fact _October_ (1927) and _Birth of a Nation_ (1915), all this stuff is on YouTube. So by putting work on YouTube, you're already with the canon. You can make a playlist and program—I can't because you know, I'm really busy. But when you're young, you get excited when you're playing somewhere and you're like "oh my film is playing next to so and so." But you know, you put it on Youtube and you're playing with, oh my goodness, some of the greatest artists who really did it.
+**Isiah Medina:** I've definitely seen that, especially with _Inventing the Future_ because the file was out. But I also I like the fact _October_ (1927) and _Birth of a Nation_ (1915), all this stuff is on YouTube. So by putting work on YouTube, you're already with the canon. You can make a playlist and program—I can't because you know, I'm really busy. But when you're young, you get excited when you're playing somewhere and you're like "oh my film is playing next to so and so." But you know, you put it on YouTube and you're playing with, oh my goodness, some of the greatest artists who really did it.
 
 **Q1:** I have a question about some of the constraints you mentioned, like swearing. Are these all just random? Or why...?
 
