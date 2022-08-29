@@ -2,7 +2,7 @@
 layout: post
 publish_date: 2022-08-27 17:56:09 +0000
 title: '"From Paint Tube to Youtube: Short Films by Isiah Medina" Q&A at Spectacle'
-author: ''
+author: Isiah Medina and Steve Macfarlane
 
 ---
 _The following Q&A took place as part of the retrospective_ [_Isiah Medina: Films 2010-2020_](https://www.spectacletheater.com/isiah-medina) _(July 29 to August 21) at Spectacle Theater in Brooklyn, NY._
