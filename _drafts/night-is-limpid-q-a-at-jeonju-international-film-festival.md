@@ -7,7 +7,7 @@ author: Isiah Medina, Kelley Dong, and Mark Bacolcol
 ---
 _The following Q&A took place after the world premiere of Isiah Medina's_ [_Night is Limpid_](https://quantitycinema.com/night-is-limpid) _at the Jeonju International Film Festival in South Korea._
 
-![](/assets/uploads/movies_im_nightislimpid_jeonjuiff.jpg)
+![](/assets/uploads/movies_im_nightislimpid_jeonjuiff2.jpeg)
 
 **JIFF:** _Night is Limpid_ raises the question “what is cinema,” particularly during the time of Covid-19. From there it continues on to experiment with the ways cinema can be merged with other artistic mediums. Director Isiah Medina, the title of the film points to how it must be viewed with a limpid mind. Why did you name the film _Night is Limpid_?
 
@@ -23,7 +23,7 @@ _The following Q&A took place after the world premiere of Isiah Medina's_ [_Nigh
 
 **IM:** Kelley also writes film criticism, and to me, a critic and a producer are actually really similar roles. It's just that a critic critiques a film after it's made but a producer can critique it before or while it's made. And it was helpful to have that type of critical voice throughout the production.
 
-JIFF: The film also contains questions about the complexities and the boundaries of the film industry. For actor Mark Bacolcol, if you could speak to the feeling one gets when watching the film: is this a documentary or a fiction feature with designated lines, something more like theater or indeed something cinematic? There are many parts that seem to cross these boundaries. When you were working on the film, what aspects of the production process were different from your past experiences, and when you were performing, were there any parts that required a bit more effort or focus than other productions?
+**JIFF:** The film also contains questions about the complexities and the boundaries of the film industry. For actor Mark Bacolcol, if you could speak to the feeling one gets when watching the film: is this a documentary or a fiction feature with designated lines, something more like theater or indeed something cinematic? There are many parts that seem to cross these boundaries. When you were working on the film, what aspects of the production process were different from your past experiences, and when you were performing, were there any parts that required a bit more effort or focus than other productions?
 
 **Mark Bacolcol:** I mentioned this in the previous Q&A the other day, when I received the script, I noticed that the language was very elevated, it's not so conversational. It's very, very different from what I'm used to working with. And that's part of what attracted me to the project. Part of your responsibility as an actor and your duty is to play a part in a narrative or a story and draw out the arc of your character. But in this situation, it was sort of stripped of the narrative and kind of poetic, with long drawn out trains of thought. Stepping into this was sort of a mystery for me and I wanted to take a leap and tackle the unknown.
 
@@ -44,3 +44,5 @@ It was asked in the previous Q&A whether there was any improvisation. But everyt
 **JIFF:** When you watch the film, you notice that much of the events and characters and backdrops are extracted. What you cannot miss is how the pandemic fills and diffuses the film, how it is talked about, and I feel that it is a very important factor of the film. Before you leave, do you have any more comments to make?
 
 **IM:** One thing that was interesting, during the pandemic, is that in this situation with receiving the government benefits, you're always told by the state, “we don’t have the money” and then suddenly, they had the money. That was really interesting. And I wanted to focus on that and also show this experience of having money you’re not used to having, how that can affect your thinking. Because when you’re not working, when you're not having to spend all your energy doing things you don’t want to do, then perhaps your thoughts, your desires, your ambitions can change. Because you have that free time to reflect and think and be with your friends and people you care about. Or people you don’t care about. Or learn how to enjoy being alone. Or learn to be alone with people, meaning you think clearly even when you have to involve yourself with other people’s and their thoughts. Or just being alone with thought. I was interested in that moment where unexpected change happens, and the government helps in a way you don’t expect, even if it’s for a brief time, and how that changes your outlook on what’s possible in your existence.
+
+![](/assets/uploads/movies_im_nightislimpid_jeonjuiff.jpg)
