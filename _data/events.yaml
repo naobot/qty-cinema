@@ -1,4 +1,7 @@
 ---
+- when: 2022-11-11 02:00:00 +0000
+  where: Fox Theatre, Toronto
+  what: Screening of <i>idizwadidiz</i>, <i>log 2</i>, and <i>Night is Limpid</i>
 - when: 2022-09-07 23:00:00 +0000
   where: Isabel Bader Centre Film Screening Room
   what: Screening of <i>Semi-auto colours</i>, <i>idizwadidiz</i>, and <i>Inventing
