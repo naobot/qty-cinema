@@ -1,5 +1,5 @@
 ---
-- when: 2023-01-11 03:00:00 +0000
+- when: 2023-01-10 03:00:00 +0000
   where: Spectacle Theater
   what: "<i>88:88</i> screening"
 - when: 2022-11-10 05:00:00 +0000
