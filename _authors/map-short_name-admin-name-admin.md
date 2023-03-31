@@ -1,4 +1,4 @@
 ---
-short_name: Admin
+short_name: Webmaster
 name: Admin
 ---
