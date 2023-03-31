@@ -5,6 +5,17 @@ publish_mode: editorial_workflow
 media_folder: "assets/uploads" # Media files will be stored in the repo under assets/images/uploads
 public_folder: "assets/uploads" # The src attribute for uploaded media will begin with /images/uploads
 collections:
+  - name: 'pages'
+    label: 'Pages'
+    editor:
+      preview: false
+    files:
+      - label: 'About Page'
+        name: 'about'
+        file: 'about.md'
+        fields:
+          - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'content' }
+          - { label: 'Body', name: 'body', widget: 'markdown' }
   - name: "authors" # Used in routes, e.g., /admin/collections/blog
     label: "Authors" # Used in the UI
     folder: "_authors/" # The path to the folder where the documents are stored
@@ -45,5 +56,5 @@ collections:
       - {label: "Director", name: "director", widget: "string"}
       - {label: "Link", name: "link", widget: "hidden", default: true}
       - {label: "Watch Link", name: "watch", widget: "string", required: false, pattern: ['http:\/\/[\w\d]+\.[\w\d]+\.?[\w\d]*\/?.*', 'Must be a valid URL (begins with http://)']}
-      - {label: "Short description", name: "synopsis", widget: "string"}
+      - {label: "Short description", name: "synopsis", widget: "string", required: false}
       - {label: "Main Image", name: "image", widget: "image", allow_multiple: false}
