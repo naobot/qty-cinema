@@ -35,15 +35,15 @@ collections:
       }
       - { label: 'Body', name: 'body', widget: 'markdown' }
   - name: "movies"
-      label: "Movies"
-      folder: "_movies/"
-      create: true
-      slug: "{{slug}}"
-      fields:
-        - {label: "Layout", name: "layout", widget: "hidden", default: "movie"}
-        - {label: "Title", name: "title", widget: "string"}
-        - {label: "Director", name: "director", widget: "string"}
-        - {label: "Link", name: "link", widget: "hidden", default: true}
-        - {label: "Watch Link", name: "watch", widget: "string", required: false, pattern: ['http:\/\/[\w\d]+\.[\w\d]+\.?[\w\d]*\/?.*', 'Must be a valid URL (begins with http://)']}
-        - {label: "Short description", name: "synopsis", widget: "string"}
-        - {label: "Main Image", name: "image", widget: "image", allow_multiple: false}
+    label: "Movies"
+    folder: "_movies/"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - {label: "Layout", name: "layout", widget: "hidden", default: "movie"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Director", name: "director", widget: "string"}
+      - {label: "Link", name: "link", widget: "hidden", default: true}
+      - {label: "Watch Link", name: "watch", widget: "string", required: false, pattern: ['http:\/\/[\w\d]+\.[\w\d]+\.?[\w\d]*\/?.*', 'Must be a valid URL (begins with http://)']}
+      - {label: "Short description", name: "synopsis", widget: "string"}
+      - {label: "Main Image", name: "image", widget: "image", allow_multiple: false}
