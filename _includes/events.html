@@ -1,6 +1,6 @@
 <script type="text/javascript" src='{{ "/assets/js/events.js" | relative_url }}'></script>
 <div class="events">
-{% assign sorted = (site.data.events | sort: 'when') %}
+{% assign sorted = (site.data.events.items | sort: 'when') %}
 {% for event in sorted %}
   {% capture nowunix %}{{'now' | date: '%s'}}{% endcapture %}
   {% capture posttime %}{{ event.when | date: '%s'}}{% endcapture %}
