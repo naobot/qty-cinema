@@ -4,6 +4,9 @@ backend:
 publish_mode: editorial_workflow
 media_folder: "/assets/uploads" # Media files will be stored in the repo under assets/images/uploads
 public_folder: "/assets/uploads" # The src attribute for uploaded media will begin with /images/uploads
+site_url: https://quantitycinema.com
+display_url: https://quantitycinema.com
+search: false
 collections:
   - name: 'pages'
     label: 'Pages'
