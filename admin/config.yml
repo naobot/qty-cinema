@@ -15,3 +15,22 @@ collections:
     fields: # The fields for each document, usually in front matter
       - {label: "Display Name", name: "short_name", widget: "string"}
       - {label: "Full Name", name: "name", widget: "string"}
+  - name: "posts"
+    label: "Posts"
+    folder: "_posts/"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields:
+      - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'post' }
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Publish Date', name: 'publish_date', widget: 'datetime' }
+      - {
+        label: 'Author',
+        name: 'author',
+        widget: 'relation',
+        collection: 'authors',
+        display_fields: [display_name],
+        search_fields: [display_name],
+        value_field: 'name',
+      }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
