@@ -16,6 +16,18 @@ collections:
         fields:
           - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'content' }
           - { label: 'Body', name: 'body', widget: 'markdown' }
+      - label: 'Events'
+        name: 'events'
+        file: '_data/events.yaml'
+        fields:
+          - label: 'Event Items'
+            name: 'items'
+            widget: 'list'
+            fields:
+              - { label: What, name: what, widget: string }
+              - { label: When, name: when, widget: datetime }
+              - { label: Where, name: where, widget: string }
+              - { label: Link, name: link, widget: string, required: false }
   - name: "authors" # Used in routes, e.g., /admin/collections/blog
     label: "Authors" # Used in the UI
     folder: "_authors/" # The path to the folder where the documents are stored
@@ -58,20 +70,3 @@ collections:
       - {label: "Watch Link", name: "watch", widget: "string", required: false, pattern: ['http:\/\/[\w\d]+\.[\w\d]+\.?[\w\d]*\/?.*', 'Must be a valid URL (begins with http://)']}
       - {label: "Short description", name: "synopsis", widget: "string", required: false}
       - {label: "Main Image", name: "image", widget: "image", allow_multiple: false}
-  - name: 'data'
-    label: 'Data'
-    editor:
-      preview: false
-    files:
-      - label: 'Events'
-        name: 'events'
-        file: '_data/events.yml'
-        fields:
-          - label: 'Event Items'
-            name: 'items'
-            widget: 'list'
-            fields:
-              - { label: What, name: what, widget: string }
-              - { label: When, name: when, widget: datetime }
-              - { label: Where, name: where, widget: string }
-              - { label: Link, name: link, widget: string, required: false }
