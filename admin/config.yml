@@ -29,8 +29,8 @@ collections:
         name: 'author',
         widget: 'relation',
         collection: 'authors',
-        display_fields: [display_name],
-        search_fields: [display_name],
+        display_fields: [short_name],
+        search_fields: [short_name],
         value_field: 'name',
       }
       - { label: 'Body', name: 'body', widget: 'markdown' }
