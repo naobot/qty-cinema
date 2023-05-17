@@ -59,7 +59,7 @@ collections:
         search_fields: [short_name],
         value_field: 'name',
       }
-      - { label: 'Body', name: 'body', widget: 'markdown' }
+      - { label: 'Body Text', name: 'body', widget: 'markdown' }
   - name: "movies"
     label: "Movies"
     folder: "_movies/"
@@ -74,3 +74,4 @@ collections:
       - {label: "Watch Link", name: "watch", widget: "string", required: false, pattern: ['http:\/\/[\w\d]+\.[\w\d]+\.?[\w\d]*\/?.*', 'Must be a valid URL (begins with http://)']}
       - {label: "Short description", name: "synopsis", widget: "string", required: false}
       - {label: "Main Image", name: "image", widget: "image", allow_multiple: false}
+      - {label: "Body Text", name: body, widget: markdown}
