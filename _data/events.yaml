@@ -1,18 +1,24 @@
----
 items:
+  - when: 2023-05-11T22:00:00.000Z
+    what: <i>Night is Limpid</i> screening
+    where: Cinéma Public, Montréal
+  - when: 2023-05-10T23:00:04.369Z
+    what: 'VISIONS: Isiah Medina Carte Blanche, "Towards A Tradition of Quantity"'
+    link: ""
+    where: La lumière collective, Montréal
   - when: 2023-01-19T03:00:00.000+00:00
     where: Spectacle Theater
-    what: '10PM screening of <i>88:88</i> '
+    what: "Screening of <i>88:88</i> "
   - when: 2023-01-10 22:00:00 -0500
     where: Spectacle Theater
-    what: '10PM screening of <i>88:88</i> '
-  - when: 2022-11-10T05:00:00.000+00:00
+    what: "Screening of <i>88:88</i> "
+  - when: 2022-11-11T02:00:00.000Z
     where: Fox Theatre, Toronto
-    what: 9pm Screening of <i>idizwadidiz</i>, <i>log 2</i>, and <i>Night is Limpid</i>
+    what: Screening of <i>idizwadidiz</i>, <i>log 2</i>, and <i>Night is Limpid</i>
   - when: 2022-09-07T23:00:00.000+00:00
     where: Isabel Bader Centre Film Screening Room
-    what: Screening of <i>Semi-auto colours</i>, <i>idizwadidiz</i>, and <i>Inventing
-      the Future</i>
+    what: Screening of <i>Semi-auto colours</i>, <i>idizwadidiz</i>, and
+      <i>Inventing the Future</i>
   - when: 2022-07-30T23:00:00.000+00:00
     where: Spectacle Theater
     what: "<i>Inventing the Future</i> screening + Q&A as part of the ISIAH MEDINA:
@@ -27,10 +33,10 @@ items:
       Retrospective "
   - when: 2022-05-24T22:00:00.000+00:00
     where: Arts Santa Mònica
-    what: "<i>Inventing the Future</i> screening and Q&A"
+    what: <i>Inventing the Future</i> screening and Q&A
   - when: 2022-05-01T15:00:00.000+00:00
     where: Jeonju International Film Festival
-    what: "<i>Night is Limpid</i> World Premiere + Q&A"
+    what: <i>Night is Limpid</i> World Premiere + Q&A
   - when: 2022-03-25T15:00:00.000+00:00
     where: NSCAD University
     what: '"The Object of Cinema is Names", lecture by Isiah Medina '
@@ -40,25 +46,25 @@ items:
       work
   - when: 2021-07-12T00:00:00.000+00:00
     where: Museum of Modern Art of Odessa, Ukraine
-    what: "<i>Inventing the Future </i> screening, via Muzeon Experimental Centre"
+    what: <i>Inventing the Future </i> screening, via Muzeon Experimental Centre
   - when: 2021-07-17T00:00:00.000+00:00
     where: Spectacle Theater
-    what: "<i>Worlds</i> theatrical premiere"
+    what: <i>Worlds</i> theatrical premiere
   - when: 2021-07-22T00:00:00.000+00:00
     where: Typography Centre For Contemporary Art, Russia
-    what: "<i>Inventing the Future</i> screening"
+    what: <i>Inventing the Future</i> screening
   - when: 2021-06-03T17:00:00.000+00:00
     where: Ruskin School of Art, University of Oxford
     what: '"Towards a Theory of Film Production" a lecture by Isiah Medina '
   - when: 2021-02-27T23:45:00.000+00:00
     where: Cineteca Madrid
-    what: "<i>Inventing the Future</i> screening"
+    what: <i>Inventing the Future</i> screening
   - when: 2020-09-06T20:30:00.000+00:00
     where: Garage Museum of Contemporary Art (Moscow)
-    what: "<i>Inventing the Future</i> screening + discussion with film critic Alexey
-      Artamonov, art historian Boris Klyushnikov, and philosopher Nikita Sazonov on
-      the problems of transferring philosophical texts to the screen, the ideas of left-wing
-      accelerationism, and the aesthetics of Isiah Medina."
+    what: <i>Inventing the Future</i> screening + discussion with film critic Alexey
+      Artamonov, art historian Boris Klyushnikov, and philosopher Nikita Sazonov
+      on the problems of transferring philosophical texts to the screen, the
+      ideas of left-wing accelerationism, and the aesthetics of Isiah Medina.
   - when: 2020-04-11T22:30:00.000+00:00
     where: Twitch
     what: Isiah Medina, Masterclass for Berlin Revolution
@@ -66,7 +72,8 @@ items:
     where: NYU
     what: Isiah Medina, "Remembering the Future" - Lecture (Hosted by Kinet)
   - when: 2019-12-21
-    where: Deptford Cinema
-    what: "<i>Nanterre Personne</i> by Angelina Battais, <i>Breaking and Entering /
-      Rained Last Night / Late Embryo / Shooting Star Summer Solstice</i> by Kelley
-      Dong, <i>Eden is a Cave</i> by Alexandre Galmard, <i>88:88</i> by Isiah Medina"
+    where: Deptford Cinema, London
+    what: <i>Nanterre Personne</i> by Angelina Battais, <i>Breaking and Entering /
+      Rained Last Night / Late Embryo / Shooting Star Summer Solstice</i> by
+      Kelley Dong, <i>Eden is a Cave</i> by Alexandre Galmard, <i>88:88</i> by
+      Isiah Medina
