@@ -1,6 +1,7 @@
 items:
   - when: 2023-05-11T22:00:00.000Z
-    what: <i>Night is Limpid</i> screening
+    what: <i>Night is Limpid</i> screening, preceded by <i>Idizwadidiz</i> and
+      <i>log 2</i>
     where: Cinéma Public, Montréal
   - when: 2023-05-10T23:00:04.369Z
     what: 'VISIONS: Isiah Medina Carte Blanche, "Towards A Tradition of Quantity"'
