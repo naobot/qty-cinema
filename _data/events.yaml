@@ -1,6 +1,9 @@
 items:
-  - when: 2023-07-04T00:24:04.369Z
-    what: 'VISION: Isiah Medina Carte Blanche, "Towards A Tradition of Quantity"'
+  - when: 2023-05-11T22:00:00.000Z
+    what: <i>Night is Limpid</i> screening
+    where: Cinéma Public, Montréal
+  - when: 2023-05-10T23:00:04.369Z
+    what: 'VISIONS: Isiah Medina Carte Blanche, "Towards A Tradition of Quantity"'
     link: https://lalumierecollective.org/2023/visions-isiah-medina/
     where: La lumière collective, Montréal
   - when: 2023-01-19T03:00:00.000+00:00
@@ -74,6 +77,3 @@ items:
       Rained Last Night / Late Embryo / Shooting Star Summer Solstice</i> by
       Kelley Dong, <i>Eden is a Cave</i> by Alexandre Galmard, <i>88:88</i> by
       Isiah Medina
-  - when: 2023-05-11T22:00:00.000Z
-    what: <i>Night is Limpid</i> screening
-    where: Cinéma Public, Montréal
