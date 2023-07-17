@@ -1,6 +1,9 @@
 items:
+  - when: 2023-07-17T14:38:16.983Z
+    what: Screening of <i>Night is Limpid</i>
+    where: Fabulous Festival of Fringe Film, Hanover Drive-In Theatre
   - when: 2023-05-11T22:00:00.000Z
-    what: <i>Night is Limpid</i> screening, preceded by <i>Idizwadidiz</i> and
+    what: Screening of <i>Night is Limpid</i>, preceded by <i>Idizwadidiz</i> and
       <i>log 2</i>
     where: Cinéma Public, Montréal
   - when: 2023-05-10T23:00:04.369Z
