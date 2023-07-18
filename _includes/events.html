@@ -4,6 +4,7 @@
 {% for event in sorted %}
   {% capture nowunix %}{{'now' | date: '%s'}}{% endcapture %}
   {% capture posttime %}{{ event.when | date: '%s'}}{% endcapture %}
-  <li {% if posttime < nowunix %}class="past-date"{% endif %}><strong>{% if event.link %}<a href="{{ event.link }}" target="_blank">{% endif %}{{ event.when | date: "(%H:%M) %A %e %b %Y" }} - {{ event.where }}{% if event.link %}</a>{% endif %}</strong>&nbsp;&nbsp;{{ event.what | smartify }}</li>
+  {% capture forced_est_posttime %}{{ posttime | plus: 86400 }}{% endcapture %}
+  <li {% if posttime < nowunix %}class="past-date"{% endif %}><strong>{% if event.link %}<a href="{{ event.link }}" target="_blank">{% endif %}{{ forced_est_posttime | date: "(%H:%M) %A %e %b %Y" }} - {{ event.where }}{% if event.link %}</a>{% endif %}</strong>&nbsp;&nbsp;{{ event.what | smartify }}</li>
 {% endfor %}
 </div>

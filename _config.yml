@@ -16,6 +16,8 @@ exclude:
   - Gemfile.lock
   - README.md
 
+timezone: America/Toronto
+
 defaults:
   - scope:
       path: ""
