@@ -7,7 +7,8 @@ items:
       <i>log 2</i>
     where: Cinéma Public, Montréal
   - when: 2023-05-10T23:00:04.369Z
-    what: 'VISIONS: Isiah Medina Carte Blanche, "Towards A Tradition of Quantity"'
+    what: 'VISIONS: Isiah Medina Carte Blanche, "Towards A Tradition of Quantity"
+      and screening of <i>Inventing the Future</i>'
     link: ""
     where: La lumière collective, Montréal
   - when: 2023-01-19T03:00:00.000+00:00
