@@ -38,7 +38,7 @@ I think we're all in our own way grappling – or we're each excavating our own 
 
 When I had lucid dreams as a child, I would stop the dream midway and change certain components of the dream. As I made more films I realized that is the pleasure that I derive from filmmaking. When I'm using footage from my phone, I actually am stacking footage from many years apart in the same frame. So for instance, the sky is from 2017, the color is a tint that I extracted from a train that I was on in 2019; I put all of those in one frame. The length of the film mirrors the speed at which the memory compresses itself and combines different memories together, and the memory passes by as if it was just 2 seconds. That is my process, personally.
 
-**IG:**
+**Isaac Goes:**
 
 For me, at least for *Worlds* (2021), it's sort of like – I guess Isiah was talking about, you know, cranking out a large quantity of work. Whereas for me, I probably worked four or five years on this. So the quantity is all in this one picture. It's not, you know, separated into like, five pictures or something. I wasn't doing that much other than this work at the time.
 
