@@ -44,7 +44,7 @@ For me, at least for *Worlds* (2021), it's sort of like – I guess Isiah was ta
 
 For the most part, it is creating an archive of footage. I know it's sort of diaristic, but there are hypotheses or ideas I'm trying to use \[this archive] to convey, over time, what ideas I'm having – trying to express that with the footage that I have.
 
-**Audience Question #1:**
+**Q1:**
 
 I was curious, you were talking about \[making] a large quantity, and I was curious…where are you being the most creative? When you're capturing the footage? There seems to be a lot of cutting, is that where you're most creative, when you're editing the films? Or is it in the capturing? Maybe you could talk about the process between those – this capturing aspect, and then the editing. Which takes more time?
 
@@ -130,7 +130,7 @@ But once it's shorthand, then we can talk really fast about what we're doing, an
 
 **IM:** Like what it is?
 
-**Audience Question #5:** Yes.
+**Q5:** Yes.
 
 **IM:**
 
