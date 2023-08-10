@@ -1,17 +1,16 @@
 ---
 layout: post
-publish_date: 2022-05-03 04:00:38 +0000
 title: '"Night is Limpid" Q&A at Jeonju International Film Festival'
+publish_date: 2022-05-03 04:00:38 +0000
 author: Isiah Medina, Kelley Dong, and Mark Bacolcol
-
 ---
-_The following Q&A took place after the world premiere of Isiah Medina's_ [_Night is Limpid_](https://quantitycinema.com/night-is-limpid) _at the Jeonju International Film Festival in South Korea._
+*The following Q&A took place after the world premiere of Isiah Medina's* *[Night is Limpid](https://quantitycinema.com/night-is-limpid)* *at the Jeonju International Film Festival in South Korea on May 1 2023.*
 
 ![](/assets/uploads/movies_im_nightislimpid_jeonjuiff2.jpeg)
 
-**JIFF:** _Night is Limpid_ raises the question “what is cinema,” particularly during the time of Covid-19. From there it continues on to experiment with the ways cinema can be merged with other artistic mediums. Director Isiah Medina, the title of the film points to how it must be viewed with a limpid mind. Why did you name the film _Night is Limpid_?
+**JIFF:** *Night is Limpid* raises the question “what is cinema,” particularly during the time of Covid-19. From there it continues on to experiment with the ways cinema can be merged with other artistic mediums. Director Isiah Medina, the title of the film points to how it must be viewed with a limpid mind. Why did you name the film *Night is Limpid*?
 
-**IM:** When it comes to the title, _Night is Limpid_, I actually liked it purely for its aesthetics. I liked how it sounded and the fact that the only vowel in it is the letter “i.” My previous film was so focused on politics, so I wanted to take aesthetic considerations into account as much as possible. But also because at night, sometimes you have your best thoughts because everyone else is asleep, and you're not interrupted by the world and the concerns of the world. So there's this relationship between thinking and the night and then in the day you have to deal with work, you have to deal with other people and all of those types of things. But there's a clarity to the night in terms of the night itself, but also in your thoughts. When you see the sun and it's reflecting to the water, it looks like the letter “i” because of the reflection. So it does relate to that too.
+**IM:** When it comes to the title, *Night is Limpid*, I actually liked it purely for its aesthetics. I liked how it sounded and the fact that the only vowel in it is the letter “i.” My previous film was so focused on politics, so I wanted to take aesthetic considerations into account as much as possible. But also because at night, sometimes you have your best thoughts because everyone else is asleep, and you're not interrupted by the world and the concerns of the world. So there's this relationship between thinking and the night and then in the day you have to deal with work, you have to deal with other people and all of those types of things. But there's a clarity to the night in terms of the night itself, but also in your thoughts. When you see the sun and it's reflecting to the water, it looks like the letter “i” because of the reflection. So it does relate to that too.
 
 **JIFF:** The fact that the film was completed so quickly, within 4 months, is impressive even when compared with other artistic forms.
 
@@ -19,7 +18,7 @@ _The following Q&A took place after the world premiere of Isiah Medina's_ [_Nigh
 
 **JIFF:** Seated next to you is producer Kelley Dong. Perhaps the producer can speak more about the making of the film, which contains conversations about art that include mentions of things like budgets, film narratives, and so on.
 
-**Kelley Dong:** We—meaning Quantity Cinema, the production company that we’re a part of—really believe that as filmmakers, you should be a total filmmaker. You should be able to produce, you should be able to write criticism, and you should be able to edit, to direct to write. For me, it was a natural obligation to both produce and act in the film. To be fully involved in making art requires a great sense of protectiveness over one’s thoughts and one’s privacy, and it was rewarding to feel such things both on- and off-screen. Regarding the making of _Night is Limpid_, I’d say the production was efficient, never wasteful or rushed. Much like the film itself, I think Isiah’s model of filmmaking dissolves the false binary placed between what we simplify as theory and practice.
+**Kelley Dong:** We—meaning Quantity Cinema, the production company that we’re a part of—really believe that as filmmakers, you should be a total filmmaker. You should be able to produce, you should be able to write criticism, and you should be able to edit, to direct to write. For me, it was a natural obligation to both produce and act in the film. To be fully involved in making art requires a great sense of protectiveness over one’s thoughts and one’s privacy, and it was rewarding to feel such things both on- and off-screen. Regarding the making of *Night is Limpid*, I’d say the production was efficient, never wasteful or rushed. Much like the film itself, I think Isiah’s model of filmmaking dissolves the false binary placed between what we simplify as theory and practice.
 
 **IM:** Kelley also writes film criticism, and to me, a critic and a producer are actually really similar roles. It's just that a critic critiques a film after it's made but a producer can critique it before or while it's made. And it was helpful to have that type of critical voice throughout the production.
 
