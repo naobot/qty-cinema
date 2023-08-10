@@ -5,7 +5,7 @@ publish_date: 2022-07-15 17:30:27 +0000
 author: Frank Ruda, Kurt Walker, Kelley Dong, Sam Bodrojan, Phil Coldiron, and
   Steffanie Ling
 ---
-*The following essays and excerpts were published to accompany the retrospective* *[Isiah Medina: Films 2010-2020](https://www.spectacletheater.com/isiah-medina)* *(July 29 to August 21* 2022*) at Spectacle Theater in Brooklyn, NY.* 
+*The following essays and excerpts were published to accompany the retrospective* *[Isiah Medina: Films 2010-2020](https://www.spectacletheater.com/isiah-medina)* *(July 29 to August 21 2022) at Spectacle Theater in Brooklyn, NY.* 
 
 **Frank Ruda\
 A Cut in the Night. Isiah Medina’s *88:88* (2015)**
