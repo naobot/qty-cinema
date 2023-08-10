@@ -1,15 +1,14 @@
 ---
 layout: post
-publish_date: 2022-08-10 09:58:01 +0000
 title: '"88:88" Q&A at Spectacle Theater'
+publish_date: 2022-08-10 09:58:01 +0000
 author: Isiah Medina, Myles Taylor, and Steve Macfarlane
-
 ---
-_The following Q&A took place as part of the retrospective_ [_Isiah Medina: Films 2010-2020_](https://www.spectacletheater.com/isiah-medina) _(July 29 to August 21) at Spectacle Theater in Brooklyn, NY._
+*The following Q&A took place as part of the retrospective* *[Isiah Medina: Films 2010-2020](https://www.spectacletheater.com/isiah-medina)* *(July 29 to August 21 2022) at Spectacle Theater in Brooklyn, NY.*
 
-**Isiah Medina:** This film was made 7 years ago, it was my first feature. The title _88:88_ comes from when you can’t pay your bills and your heat, water, and light all get cut. When you’re able to pay again, all the clocks and digital appliances flash 88:88 as both suspension and reset. When I first showed it years ago at its premiere, I was nervous, and then I showed it more and more and I wasn’t. And now years have passed and I’m nervous to see it again. It’s like another reset. I feel nervous because I feel like I am not only sharing it with you for the first time, but I’m even sharing it with myself.
+**Isiah Medina:** This film was made 7 years ago, it was my first feature. The title *88:88* comes from when you can’t pay your bills and your heat, water, and light all get cut. When you’re able to pay again, all the clocks and digital appliances flash 88:88 as both suspension and reset. When I first showed it years ago at its premiere, I was nervous, and then I showed it more and more and I wasn’t. And now years have passed and I’m nervous to see it again. It’s like another reset. I feel nervous because I feel like I am not only sharing it with you for the first time, but I’m even sharing it with myself.
 
-\[Screening\]
+\[Screening]
 
 **Steve Macfarlane:** Well, I'm remembering when you were here seven years ago for your Without A Future event, we thought about having a secret bootleg screening of this film here. But it was too hot, and we reconsidered because of the New York Film Festival premiere.
 
@@ -17,9 +16,9 @@ _The following Q&A took place as part of the retrospective_ [_Isiah Medina: Film
 
 **SM:** I know.
 
-\[Laughter\]
+\[Laughter]
 
-**SM:** Print the legend. I still find _88:88_ totally radical and incendiary in its editing strategy. There’s all kinds of things I want to ask you about. But starting from the very end, \[there's\] something I was too scared to ask back then, which is where does this sound effect come from \[makes noise\]?
+**SM:** Print the legend. I still find *88:88* totally radical and incendiary in its editing strategy. There’s all kinds of things I want to ask you about. But starting from the very end, \[there's] something I was too scared to ask back then, which is where does this sound effect come from \[makes noise]?
 
 **IM:** I was collaborating with an artist, the musician Kieran Daly. I’d ask him to send me sounds that have that descending quality. He’d make or show me sounds, or I’d send him sounds and then he’d play with it, and he’d send it back for me to play with.
 
@@ -33,11 +32,11 @@ _The following Q&A took place as part of the retrospective_ [_Isiah Medina: Film
 
 **SM:** Was it audio only?
 
-**IM:** Sometimes it would be shot as video and I’d subtract the sound. Even with a picture that’s playing tomorrow, _Semi-auto colours_ (2010), a lot of the sound was recorded using my video camera while I would shoot with the images with a Bolex. So if the image and sound are fused and synced I would divide them, and learn how to think with them by themselves through this separation.
+**IM:** Sometimes it would be shot as video and I’d subtract the sound. Even with a picture that’s playing tomorrow, *Semi-auto colours* (2010), a lot of the sound was recorded using my video camera while I would shoot with the images with a Bolex. So if the image and sound are fused and synced I would divide them, and learn how to think with them by themselves through this separation.
 
 **SM:** I guess I consider it more sound-centric or sound-focused than a lot of quote-unquote “avant-garde” cinema I’ve seen in the last 5 or 10 years, like you’re letting the sound dictate the editing strategy, or the narrative as it were.
 
-**IM:** There was a point when \[Richard\] Diebenkorn complained that with abstraction at the time “there was nothing hard to come up against," and figuration is something hard for abstraction to come up against. I find that in cinema, with montage, if you don’t have enough sound ideas, you have nothing to hit against. Sound is almost more figural than the image, at least in a film because of the force of language, so I want to construct something in sound that the image can hit against. The sound must have a definite shape. And then I can abstract around and with and through it, because then we are dealing with language, something hard to come up against. I think the big dialectic in cinema is between montage and writing. And writing is another name for a sound that is different than what is written.
+**IM:** There was a point when \[Richard] Diebenkorn complained that with abstraction at the time “there was nothing hard to come up against," and figuration is something hard for abstraction to come up against. I find that in cinema, with montage, if you don’t have enough sound ideas, you have nothing to hit against. Sound is almost more figural than the image, at least in a film because of the force of language, so I want to construct something in sound that the image can hit against. The sound must have a definite shape. And then I can abstract around and with and through it, because then we are dealing with language, something hard to come up against. I think the big dialectic in cinema is between montage and writing. And writing is another name for a sound that is different than what is written.
 
 **SM:** Did you coach people to talk about things that you talked about with them so you can get it on your microphone?
 
@@ -47,11 +46,11 @@ _The following Q&A took place as part of the retrospective_ [_Isiah Medina: Film
 
 **Myles Taylor:** No, no. We’re friends, so we used to really hang out and share life experiences while we were going through them. To be honest, a lot of my friends are musicians, filmmakers, poets, rappers, artists, and it’s just a melting pot of all that. I used to write rhymes and stuff, and a lot of that was very amateur. Isiah picked out things to include from what we were living. Like you said, smash against the image. It was just our lives at the time. A bunch of young gentlemen from the West side of Winnipeg and all our friends. I’d have rhymes and poems on my phone, and another gentlemen, Erik Berg—who's a poet and actor—was also well-versed in putting out things. Isiah would tell me certain things, or point to rhymes I would write or passages from a book, or the experience I was having.
 
-A lot of it was very impromptu. Like if I messed up \[Isiah\] would just keep it. We were very young—to be honest, I’m watching it at 30 years old and I’m like, “Wow, that was brilliant.” It’s very wild and the environment we were in was wild as well. Just putting together the things we would do, but he’d throw it together in such a savant way. Even to this day watching it, there’s certain shots in it, I’m just like “wow." It’s just a marvellous piece of time and art from an area of my city that really didn’t have much to offer. We made something out of nothing and now we’re here at Spectacle, 7 years later. I just think it speaks to young people putting what’s in their mind out to the world and putting what’s happening in their lives to the world. It’s a lot more accessible now with social media but 2009, 2010 was the beginning of that.
+A lot of it was very impromptu. Like if I messed up \[Isiah] would just keep it. We were very young—to be honest, I’m watching it at 30 years old and I’m like, “Wow, that was brilliant.” It’s very wild and the environment we were in was wild as well. Just putting together the things we would do, but he’d throw it together in such a savant way. Even to this day watching it, there’s certain shots in it, I’m just like “wow." It’s just a marvellous piece of time and art from an area of my city that really didn’t have much to offer. We made something out of nothing and now we’re here at Spectacle, 7 years later. I just think it speaks to young people putting what’s in their mind out to the world and putting what’s happening in their lives to the world. It’s a lot more accessible now with social media but 2009, 2010 was the beginning of that.
 
 **SM:** For me, it’s just as incredible as when I first saw it at TIFF 2015. Some parts of it appear so raw, rough, and wild, and then other parts are so heavily constructed. The second thing makes me go back and consider the first thing. I’m always wondering, was half the production walking around and recording everything and editing it?
 
-**IM:** No, I’d know exactly what’s going on. If I’m shooting that day I know exactly what we’re doing. Even if I don’t tell everyone. But I would lead people into situations. Or for example I’d talk with one of the cinematographers, Nic Kriellaars, about brain sciences and German idealism, diagonals in Lumière and then lead him to a location and say okay, now try to find what we talked about. And he would find it. But you position it in a way that these things can be found. Same with sound. It’s always a choice. I’d never record _everything_. It’s always very intentional. Honestly, there’s a simplicity to it. If I knew we were shooting that day—and we didn’t have call sheets like we do now—I just know that if enough of my friends weren’t working or didn’t have a shift that day, I knew if we met up we can make cinema for sure.
+**IM:** No, I’d know exactly what’s going on. If I’m shooting that day I know exactly what we’re doing. Even if I don’t tell everyone. But I would lead people into situations. Or for example I’d talk with one of the cinematographers, Nic Kriellaars, about brain sciences and German idealism, diagonals in Lumière and then lead him to a location and say okay, now try to find what we talked about. And he would find it. But you position it in a way that these things can be found. Same with sound. It’s always a choice. I’d never record *everything*. It’s always very intentional. Honestly, there’s a simplicity to it. If I knew we were shooting that day—and we didn’t have call sheets like we do now—I just know that if enough of my friends weren’t working or didn’t have a shift that day, I knew if we met up we can make cinema for sure.
 
 **SM:** And were you determined to show, in some way, that you could make a full film for $0? Or was that more like an outgrowth of organic processes developed for X number of years?
 
@@ -59,9 +58,9 @@ A lot of it was very impromptu. Like if I messed up \[Isiah\] would just keep it
 
 **SM:** This is still a very confrontational mode of montage. So I’m wondering what did this film do for you, what was your festival experience? Did people expect you to turn in something more quote-unquote “mainstream” after this? And it didn’t happen or…
 
-**IM:** _Inventing the Future_ was mainstream, right?
+**IM:** *Inventing the Future* was mainstream, right?
 
-\[Laughter\]
+\[Laughter]
 
 I have no idea about anything regarding festivals. I just made movies. I was very naive. I had no idea, I just went to these places and I thought there might be some payment.
 
@@ -69,21 +68,21 @@ I have no idea about anything regarding festivals. I just made movies. I was ver
 
 **IM:** Here and there. But mostly it’d be festival to festival, traveling, but no payment at all. There might be a hotel or a flight, sometimes a meal. I’m not going to lie, I naively thought if I made a masterpiece then we’d have a bit more money in our lives, but the money didn’t come. But... I think the movie is quite good.
 
-\[Laughter\]
+\[Laughter]
 
 **SM:** You’re also still in your life, you can get money for this masterpiece later.
 
 **IM:** It took time but I have my own equipment now, so I can keep making pictures. So it’s all good. But whether it’s an iPhone or a RED or whatever you can always make a picture. In terms of festivals, I just liked seeing the movie on the big screen. I didn’t get paid but I enjoyed seeing it on a big screen. I often can’t afford to rent a theatre. What I get most out of the festival experience is seeing my work on a big screen. Seeing my movie is really nice.
 
-**SM:** This film, like _Inventing the Future_ is online in full. And some of the shorts are online. Has that gotten you anything specific, where something incredible happens that can only happen because you put it online? Or do you still prefer it in a theatre?
+**SM:** This film, like *Inventing the Future* is online in full. And some of the shorts are online. Has that gotten you anything specific, where something incredible happens that can only happen because you put it online? Or do you still prefer it in a theatre?
 
 **IM:** Obviously, I’m an old fashioned filmmaker. I like the big screen and everything, it’s the medium I chose. But when I get a message from someone I don’t know who liked the films, I find it nice that someone I don’t know saw it all on YouTube.
 
-**SM:** And that happened with _88:88_?
+**SM:** And that happened with *88:88*?
 
 **IM:** With all of them, but obviously it’d be nice if they could see it on a big screen. And these days I’m more sensitive over fighting for the right to appear on a big screen. But say if someone messaged me liking my previous work, I’d slide them the link of the newer one. I thought it was a generational thing to do so. I’m less sure now. In the end as long as people see it, but I do make films for the big screen in the end. You can watch it on your phone, but please don’t.
 
-\[Laughter\]
+\[Laughter]
 
 I know people have, it’s totally fine, too.
 
@@ -103,33 +102,33 @@ You know the story of Brakhage going to the doctor and getting his eyes checked 
 
 Or even with this picture, me being in the film had more to do with friends having shifts. I just had to step in because we didn’t have enough actors, you had to have this ease of creation. Making films teaches me to listen better, and not just when I’m recording. It’s about how you listen to people, and really hear what they’re trying to tell you so you can think with them, it’s really that simple. Making movies made me into a better thinker.
 
-**Q3:** The movie is so beautiful. I was curious, I haven’t seen _Inventing the Future_ yet, but is there a relationship between this film and the other films you made afterwards?
+**Q3:** The movie is so beautiful. I was curious, I haven’t seen *Inventing the Future* yet, but is there a relationship between this film and the other films you made afterwards?
 
-**IM:** With _Inventing the Future,_ I wanted to take a step forward. I didn’t want to get caught in re-enacting the same struggles with better lighting, because that’s not interesting to me. You can catch lightning in a bottle several times in a row but you should also know when to move on. I thought if the people in the film—as people or as characters—are dealing with their impoverishment then we should think about UBI, changing the work week, a different world, post-capitalism. If you really care about who is on screen then you do want to think of the future, you don’t want to see how sad the situation can possibly get and get a well photographed and well performed picture of that, because I don’t find it dignifying. So you want to think about philosophy, and then later you want to think about politics.
+**IM:** With *Inventing the Future,* I wanted to take a step forward. I didn’t want to get caught in re-enacting the same struggles with better lighting, because that’s not interesting to me. You can catch lightning in a bottle several times in a row but you should also know when to move on. I thought if the people in the film—as people or as characters—are dealing with their impoverishment then we should think about UBI, changing the work week, a different world, post-capitalism. If you really care about who is on screen then you do want to think of the future, you don’t want to see how sad the situation can possibly get and get a well photographed and well performed picture of that, because I don’t find it dignifying. So you want to think about philosophy, and then later you want to think about politics.
 
-You want to think how to zigzag from film to film, to self-consciously contradict oneself, to grow as an artist and thinker. _88:88_ is clearly about the present, how the present presents itself in the suspension of time, and _Inventing the Future_ thinks the future. But also if we dealt with non-sync sound, then later you want to integrate more sync sound and find what new relationships between the sync and non-sync... Since there was some use of the tripod in _88:88_ but it was mostly handheld, in _Inventing the Future_ I wanted to put the camera on tripods the whole time, because the film is also about being a bit "hands-off" so your hands can work on other things. Or we work with a screenplay a bit more another time around, and keep shifting the method, not out of eclecticism, but in the zigzag you will find a stronger unity in these opposites. If one gets too comfortable it can be boring, and you’re no longer growing.
+You want to think how to zigzag from film to film, to self-consciously contradict oneself, to grow as an artist and thinker. *88:88* is clearly about the present, how the present presents itself in the suspension of time, and *Inventing the Future* thinks the future. But also if we dealt with non-sync sound, then later you want to integrate more sync sound and find what new relationships between the sync and non-sync... Since there was some use of the tripod in *88:88* but it was mostly handheld, in *Inventing the Future* I wanted to put the camera on tripods the whole time, because the film is also about being a bit "hands-off" so your hands can work on other things. Or we work with a screenplay a bit more another time around, and keep shifting the method, not out of eclecticism, but in the zigzag you will find a stronger unity in these opposites. If one gets too comfortable it can be boring, and you’re no longer growing.
 
 **Q4:** In the introduction to this film, you talked about the title of the film to a reset space or a transition space. And I was wondering if you can talk a little bit more about how you’re thinking about this transition space throughout the course of the film.
 
-**IM:** I think _88:88_ is less about transition, and perhaps _Inventing the Future_ is the film where I’m trying to think about transition, the transition of one society to the next. With _88:88_ I was thinking more about the abruptness, the stop-and-go of being poor. It’d be nice if being poor had smoother transitions but it’s a bit more like one abrupt thing after another that’s hard to deal with. So it’s more a question of this reset, being stranded at a beginning, the inability to move forward or to get to the luxuries of continuity editing, because one’s life does not something that exists in that space.
+**IM:** I think *88:88* is less about transition, and perhaps *Inventing the Future* is the film where I’m trying to think about transition, the transition of one society to the next. With *88:88* I was thinking more about the abruptness, the stop-and-go of being poor. It’d be nice if being poor had smoother transitions but it’s a bit more like one abrupt thing after another that’s hard to deal with. So it’s more a question of this reset, being stranded at a beginning, the inability to move forward or to get to the luxuries of continuity editing, because one’s life does not something that exists in that space.
 
 It’s this question of how to read that abrupt "88:88," a reset that resets nothing. How to experience it as affirmative and not only a negation, or one type of negation, how to look at the open handcuffs as an omega, how to get back to an infinite way of looking at what you’re going through, how to look at those 8s on the clock sidewise to see all this other stuff. But it’s also like, rather than force a pattern on reality, how do you, to return to your question, being in cinema, look at these 8s that keep appearing in my house in a different way, that’s not just one form of negation, and how to negate that, et cetera.
 
 How do you find patterns in reality, and once you recognize it, pull it out, and use it as a filter to see the rest? In that sense it is about transition, how to pick out this unique thing, and use it as a filter to cognize your reality. And at the same time know it’s not the only filter, but it’s a locally useful one to cognize what you’re going through. It’s a transition of the mind first, during this reset, how can you transition in regards to your mind to face reality differently.
 
-**SM:** I was always incredibly impressed with how beautiful the film was, as you heard in those comments, but also clearly not. With these crazy tracking shots or drone shots, \[and\] even the colour correction added in post is clearly artificial, it’s added to the image. So there’s something about stopping and taking in these poetic, beautiful moments, but also not romanticizing poverty. There’s the pattern-seeking that you’re talking about.
+**SM:** I was always incredibly impressed with how beautiful the film was, as you heard in those comments, but also clearly not. With these crazy tracking shots or drone shots, \[and] even the colour correction added in post is clearly artificial, it’s added to the image. So there’s something about stopping and taking in these poetic, beautiful moments, but also not romanticizing poverty. There’s the pattern-seeking that you’re talking about.
 
 **IM:** Yeah, like you’re saying, we shouldn’t aestheticize poverty, and we shouldn’t aestheticize work, which is the other one.
 
 **SM:** The two genders.
 
-\[Laughter\]
+\[Laughter]
 
 **IM:** There’s many contemporary filmmakers who want to tell you how much hard work goes into making pictures and I just don’t want to romanticize that either. And when it comes to beauty, it’s like with Plato: the most beautiful thing is the idea of beauty itself, its concept. So it’s already desubstantialized, beauty is beautiful. And keeping it conceptual allows you not to fall into these traps of making something that looks like a commercial.
 
 **SM:** Did you ever think you were close to that?
 
-\[Laughter\]
+\[Laughter]
 
 **IM:** If I say there’s a beautiful rose and the rose is beautiful, the second one is more interesting because the rose participates in the idea of beauty. If you attach beauty to the object beforehand, and the thing itself starts shifting and changing, you may be on a wild ride to maintain an old standard, as if the standard belongs to the object, which can be reactionary.
 
@@ -169,11 +168,11 @@ In another sense the movie is perfectly synced, like all the relations of the fr
 
 **MT:** I have an answer to my own question.
 
-\[Laughter\]
+\[Laughter]
 
-\[Isiah\] didn't ever just record whatever we were doing. He has always had a very impromptu fashion, as well as a very mildly meticulous and very wildly meticulous way of doing things. And it shows now when I watch this film again, because he filmed a lot of this at different stages, and then finished the film in Toronto. So some of this stuff was filmed over probably a year and a half. The way he did everything up until the end of the film is just exactly what you said: while he was doing it, inside the camera affecting him and other people, he becomes a better thinker with different things that are coming in, the images and sounds. Even now, after all the time I've known him, and the films he's made since this film, it's very distinct. I feel like if I didn't know him, I would be very in awe. I think it changed Canadian cinema to be honest. It's like one of the most perfect films I've seen. If I wasn't in it... There's certain things about the film that I relate to, certain things that are not me in the film. It goes back to Alain Badiou's love-science-art-politics, and with everything else in life, just throws this curveball. He just, Barry Bonds that shit.
+\[Isiah] didn't ever just record whatever we were doing. He has always had a very impromptu fashion, as well as a very mildly meticulous and very wildly meticulous way of doing things. And it shows now when I watch this film again, because he filmed a lot of this at different stages, and then finished the film in Toronto. So some of this stuff was filmed over probably a year and a half. The way he did everything up until the end of the film is just exactly what you said: while he was doing it, inside the camera affecting him and other people, he becomes a better thinker with different things that are coming in, the images and sounds. Even now, after all the time I've known him, and the films he's made since this film, it's very distinct. I feel like if I didn't know him, I would be very in awe. I think it changed Canadian cinema to be honest. It's like one of the most perfect films I've seen. If I wasn't in it... There's certain things about the film that I relate to, certain things that are not me in the film. It goes back to Alain Badiou's love-science-art-politics, and with everything else in life, just throws this curveball. He just, Barry Bonds that shit.
 
-\[Laughter\]
+\[Laughter]
 
 He hit it way the fuck out of the Giants stadium. Seeing it now, even the second half of the film is performed so well. The images and sound sync perfectly in my view of everything, because imagine when you go to scream, and then your body stops the scream. Like you're trying to do something.
 
@@ -183,12 +182,12 @@ He hit it way the fuck out of the Giants stadium. Seeing it now, even the second
 
 **SM:** How many of y'all had seen it before? Nice.
 
-**Q6:** \[To Myles Taylor\] How did seeing it on the screen, transform your own experience of the things that you experienced in the first instance?
+**Q6:** \[To Myles Taylor] How did seeing it on the screen, transform your own experience of the things that you experienced in the first instance?
 
-**MT:** A lot of things tend to relate to now. We don't necessarily change as people. You may change your being, you may change your lifestyle, change your body, all these different things, which I don't necessarily think we change. I think experience and the notions of experience and the things you go through change you. But I still see myself very much as that... Maybe I've matured, but \[the film\] kind of related me back to the point of what he was saying, the nuance of getting out of poverty and becoming a different person. And just like you said, contradicting what you were already doing. And that's my life now. I'm not the same person, but I am still that person.
+**MT:** A lot of things tend to relate to now. We don't necessarily change as people. You may change your being, you may change your lifestyle, change your body, all these different things, which I don't necessarily think we change. I think experience and the notions of experience and the things you go through change you. But I still see myself very much as that... Maybe I've matured, but \[the film] kind of related me back to the point of what he was saying, the nuance of getting out of poverty and becoming a different person. And just like you said, contradicting what you were already doing. And that's my life now. I'm not the same person, but I am still that person.
 
 It changed the way I look at myself. You see a younger version of yourself and the things you've gone through since then... It's really weird, because some of it is me saying something and like rehearsing something, which is my own, or a poem, or whatever it may be. But most of it is just really our lives. I don't know if I'm diverting from your question a little bit, but it makes me look at life a lot more intuitively. You knew everything was gonna work out, because you knew you're the person that you are.
 
 I don't even know how to answer that question because we're all growing until the day we die. And seeing people and filmmakers make film is like... You know only the best is yet to come with life and with art, with creation, and the negation and addition of other things. It's a long journey. This film shows part of my journey as well as his and others in the films' journey in life. I chilled with a couple of actors in this film last weekend in Toronto, so it's the dopest feeling.
 
-\[Laughter\]
+\[Laughter]
