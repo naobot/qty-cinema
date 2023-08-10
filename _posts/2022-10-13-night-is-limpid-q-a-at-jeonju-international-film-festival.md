@@ -4,7 +4,7 @@ title: '"Night is Limpid" Q&A at Jeonju International Film Festival'
 publish_date: 2022-05-03 04:00:38 +0000
 author: Isiah Medina, Kelley Dong, and Mark Bacolcol
 ---
-*The following Q&A took place after the world premiere of Isiah Medina's* *[Night is Limpid](https://quantitycinema.com/night-is-limpid)* *at the Jeonju International Film Festival in South Korea on May 1 2023.*
+*The following Q&A took place after the world premiere of Isiah Medina's* *[Night is Limpid](https://quantitycinema.com/night-is-limpid)* *at the Jeonju International Film Festival in South Korea on May 1 2022.*
 
 ![](/assets/uploads/movies_im_nightislimpid_jeonjuiff2.jpeg)
 
