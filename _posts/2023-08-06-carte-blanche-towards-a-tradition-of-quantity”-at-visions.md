@@ -146,7 +146,7 @@ But yeah, just sort of the classic thing of trying to build a studio in that way
 
 **IG:** It was great.
 
-**Kelley:** It’s great.
+**KD:** It’s great.
 
 \[Laughter]
 
@@ -214,7 +214,7 @@ My films are available online to download and because I personally like going th
 
 **BT:** Films about dogs?
 
-**Kelley:** Yeah.
+**KD:** Yeah.
 
 \[Laughter]
 
