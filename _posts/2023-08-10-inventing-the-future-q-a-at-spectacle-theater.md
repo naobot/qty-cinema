@@ -4,7 +4,7 @@ title: '"Inventing the Future" Q&A at Spectacle Theater'
 publish_date: 2023-08-10T17:30:38.954Z
 author: Isiah Medina and Phil Coldiron
 ---
-*The following Q&A took place as part of the retrospective* *Isiah Medina: Films 2010-2020* *(July 29 to August 21 2022) at Spectacle Theater in Brooklyn, NY.*
+*The following Q&A took place as part of the retrospective* *[Isiah Medina: Films 2010-2020](https://www.spectacletheater.com/isiah-medina/)* *(July 29 to August 21 2022) at Spectacle Theater in Brooklyn, NY.*
 
 **Phil Coldiron:**\
 Well, I certainly have enough questions. But in some understanding of the spirit of the film, I'd be interested to hear if anyone in the audience has anything that they would like to start with. Finally getting to see this with an audience feels very significant. If you live in the States, you watched this two weeks into realizing something extremely fucked up was happening. So if anyone has anything, I would be curious. But if not, I can do my duty and start.
