@@ -4,7 +4,7 @@ title: '"Carte Blanche: Towards A Tradition of Quantity” Q&A at VISIONS'
 publish_date: 2023-08-06T20:35:00.000Z
 author: Isiah Medina, Kelley Dong, and Isaac Goes
 ---
-*The following Q&A took place as part of the program [Carte Blanche: Towards a Tradition of Quantity](https://lalumierecollective.org/2023/visions-isiah-medina/) (May 10) at VISIONS in Montreal.*
+*The following Q&A took place as part of the program [Carte Blanche: Towards a Tradition of Quantity](https://lalumierecollective.org/2023/visions-isiah-medina/) (May 10 2023) at VISIONS in Montreal.*
 
 **Benjamin Taylor:** Thanks for the program, Isiah.
 
