@@ -1,4 +1,13 @@
 items:
+  - when: 2023-11-02T02:10:07.329Z
+    where: São Paulo International Film Festival, Kinoplex Itaim
+    what: Screening of <i>He Thought He Died</i>
+  - when: 2023-10-30T01:00:49.109Z
+    what: Screening of <i>He Thought He Died</i>
+    where: São Paulo International Film Festival, Cine Satyros Bijou
+  - when: 2023-10-20T22:00:05.090Z
+    what: <i>He Thought He Died</i> International Premiere
+    where: São Paulo International Film Festival, Circuito Spcine Olido
   - when: 2023-09-11T21:30:01.433Z
     what: <i>He Thought He Died</i> World Premiere + Q&A
     where: Toronto International Film Festival
