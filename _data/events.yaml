@@ -1,4 +1,10 @@
 items:
+  - when: 2024-05-17T23:00:00.000Z
+    what: Screening of <i>He Thought He Died</i> and <i>Semi-auto colours</i>
+    where: Dave Barber Cinematheque, Winnipeg
+  - when: 2024-05-11T15:00:43.550Z
+    what: Screening of <i>He Thought He Died</i>
+    where: Prismatic Ground, Anthology Film Archives
   - when: 2024-02-04T00:00:38.600Z
     what: Screening of <i>He Thought He Died</i>, <i>Semi-auto colours</i>, and
       short films by Alexandre Galmard
