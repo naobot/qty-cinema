@@ -1,6 +1,10 @@
 items:
+  - when: 2024-05-29T23:30:03.835Z
+    what: Screening of <i>Semi-auto colours</i> via La Vertiente
+    where: Malabar, La Paz
   - when: 2024-05-17T23:00:00.000Z
-    what: Screening of <i>He Thought He Died</i> and <i>Semi-auto colours</i>
+    what: Screening of <i>He Thought He Died</i>, <i>idizwadidiz</i>, and
+      <i>Semi-auto colours</i>
     where: Dave Barber Cinematheque, Winnipeg
   - when: 2024-05-11T15:00:43.550Z
     what: Screening of <i>He Thought He Died</i>
