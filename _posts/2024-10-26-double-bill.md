@@ -25,54 +25,29 @@ of history’s depths don’t seem like two mirrors bouncing off each other, but
 playing back to back.
 
 You don’t have to write enormous background stories to your characters so they can play
-them more accurately, but as any operator know, you should be able to write yours. As
-much as it is you, you still need to embody your own character, to &quot;caricature and
+them more accurately, but as any operator knows, you should be able to write yours. As
+much as it is you, you still need to embody your own character, to "caricature and
 explicate” yourself better, because you’re always your first role. In this sense (even
 unbeknownst to them), every moviemaker becomes see-through through their own
 moviemaking; as they “learn \[their] desire to learn” and trust themselves to be true when
 making from what they’ve learned and learning from what they’ve made, to think-through
 and be thought-through in return.
 
-It’s not so much that the real show lies behind the scene, that everything happens wrong outside the shot so that everything can happen right inside of it—though that is often the
-case. But when I see Isiah’s sets, everything warps around his ideas, I see the world bend and it’s a wonderful thing to see, because there’s a lot of it which ends up in the films themselves. There is a palpable immanence, a palpable immunity. He doesn’t force things to appear the way he desires, he renders visible what was left unrecognized within each situation, so that the subject matter of his body-of-work is its own ideal becoming, continually deriving to and unfolding itself. This is the meaning of the famous motto that artists steal, which he recalls in his interview: there are repetitions, resurgences and derivations, but true artists steal, they steal back from themselves, or steal themselves back from others. By stealing his own paintings from the museum, the painter creates a gap in history, punctures a hole in the catalog, avoids the encyclopedic registry in order to found his own perspective, his own vantage point, a point-de-fuite, “the closest one can get to the creation of a camera”. When Isiah paints and films, paints his own paintings and films them both, his character is retraced. The protective glass of the paintings separates him from the work while offering his own image back to an already ghastly reflection. The “translucent” thoughts of Night is Limpid has been carried out onto the body, presented as a forced displacement, one that will leave nothing behind but empty frames, bleeding edges. He is like a generic extension of this obscure vault of dead artists, excrescent, and without having ever been there (as every successful heist demands), he remains indiscernible and unclassified, that is, subtracted from the scene and dissociated from whatever classifies it: he is not counted, nor would he have ever been if he had ever remained in this state—or to the State (Badiou, 338), that is, outside a film being made.
+It’s not so much that the real show lies behind the scene, that everything happens wrong outside the shot so that everything can happen right inside of it—though that is often the case. But when I see Isiah’s sets, everything warps around his ideas, I see the world bend and it’s a wonderful thing to see, because there’s a lot of it which ends up in the films themselves. There is a palpable immanence, a palpable immunity. He doesn’t force things to appear the way he desires, he renders visible what was left unrecognized within each situation, so that the subject matter of his body-of-work is its own ideal becoming, continually deriving to and unfolding itself. This is the meaning of the famous motto that artists steal, which he recalls in his interview: there are repetitions, resurgences and derivations, but true artists steal, they steal back from themselves, or steal themselves back from others. 
+
+By stealing his own paintings from the museum, the painter creates a gap in history, punctures a hole in the catalog, avoids the encyclopedic registry in order to found his own perspective, his own vantage point, a point-de-fuite, “the closest one can get to the creation of a camera”. When Isiah paints and films, paints his own paintings and films them both, his character is retraced. The protective glass of the paintings separates him from the work while offering his own image back to an already ghastly reflection. The “translucent” thoughts of *Night is Limpid* has been carried out onto the body, presented as a forced displacement, one that will leave nothing behind but empty frames, bleeding edges. He is like a generic extension of this obscure vault of dead artists, excrescent, and without having ever been *there* (as every successful heist demands), he remains indiscernible and unclassified, that is, subtracted from the scene and dissociated from whatever classifies it: he is not counted, nor would he have ever been if he had ever remained in this state—or to the State (Badiou, 338), that is, outside a film being made.
 
 \[db05, db06, db07]
 
-All genuine thinking is free because every true invention belongs to itself, through the
-idea’s embodiment and our enlightened adaptation in regards to it. This is what free time
-looks like after invention, and the affect most closely resembles enthusiasm, that is,
-enthusiasm to make art, and even, to make art inevitable. I am able to understand genius,
-with their many exceptionalities and underlying logics being too often erased by
-contemporary materialisms, without believing in anything innate or given, because it all still
-remains to be done or seen, as minimal the degrees to instantiate. If it took Picasso four
-years to paint like Raphael, but a lifetime to paint like a child, that is because unlearning is
-another process in itself. I am reminded of Grothendieck’s rant about the primacy of
-innocence over some natural gifts in order to uncover the secrets of the Universe. And I’m
-fond of the idea that mountains may be moved by pure chance, not as essence or
-accident, but rather by taking simple risks of great consequences.
-This should give us the confidence to not limit ourselves to one kind of making over
-another, to desire for new traditions and refuse commercialization and constructivist
-legislation altogether. Cutting diagonally across the existing types recollects them all into a
-traceable procedure, one which must only avoid becoming a type in itself, one which must
-thus most importantly preserve its virtuosity through any and all experiences of the world.
-This seems to be the affirmation at hand today, to think through contradiction and offer the
-possibility of a predication beyond cultural historicity and its many attempts to naturalize
-the marketplace, which Isiah commands us to seize, singularly interrogating a law which
-has no support, no canvas to rely on but a cover frame, or at best, a fragile protection.
-If every good painter paints what he is, then Isiah, rather than “\[obscuring] the causeless
-place of \[his] birth”, consistently enlightens the grounded force which brought him to this
-point, presenting us with the gift of genius itself, the missing link to another possible
-present. As sounds fade into the crushing of waves and chime-like cutting carves a shape
-in and of the mind, one sees politics being transposed to a new key (Clarke, 238), for
-subtraction is a passion, and not an identity. I simply hope to never see any more “Thank
-You Movie God” in my lifetime. Maybe this is Isiah’s imperative after all, with Cézanne:
-make the art, there lies salvation—ceaselessly reminding us that at play is first and
-foremost a mastery of oneself, for a said that’s been done and a done that’s been said,
-through to “the end”, twice.
+All genuine thinking is free because every true invention belongs to itself, through the idea’s embodiment and our enlightened adaptation in regards to it. This is what free time looks like after invention, and the affect most closely resembles enthusiasm, that is, enthusiasm to make art, and even, to make art inevitable. I am able to understand genius, with their many exceptionalities and underlying logics being too often erased by contemporary materialisms, without believing in anything innate or given, because it all still remains to be done or seen, as minimal the degrees to instantiate. If it took Picasso four years to paint like Raphael, but a lifetime to paint like a child, that is because unlearning is another process in itself. I am reminded of Grothendieck’s rant about the primacy of innocence over some natural gifts in order to uncover the secrets of the Universe. And I’m fond of the idea that mountains may be moved by pure chance, not as essence or accident, but rather by taking simple risks of great consequences.
+
+This should give us the confidence to not limit ourselves to one kind of making over another, to desire for new traditions and refuse commercialization and constructivist legislation altogether. Cutting diagonally across the existing types recollects them all into a traceable procedure, one which must only avoid becoming a type in itself, one which must thus most importantly preserve its virtuosity through any and all experiences of the world. This seems to be the affirmation at hand today, to think through contradiction and offer the possibility of a predication beyond cultural historicity and its many attempts to naturalize the marketplace, which Isiah commands us to seize, singularly interrogating a law which has no support, no canvas to rely on but a cover frame, or at best, a fragile protection. 
+
+If every good painter paints what he is, then Isiah, rather than “\[obscuring] the causeless place of \[his] birth”, consistently enlightens the grounded force which brought him to this point, presenting us with the gift of genius itself, the missing link to another possible present. As sounds fade into the crushing of waves and chime-like cutting carves a shape in and of the mind, one sees politics being transposed to a new key (Clarke, 238), for subtraction is a passion, and not an identity. I simply hope to never see any more “Thank You Movie God” in my lifetime. Maybe this is Isiah’s imperative after all, with Cézanne: make the art, there lies salvation—ceaselessly reminding us that at play is first and foremost a mastery of oneself, for a said that’s been done and a done that’s been said, through to “the end”, twice.
 
 \[db08, db09]
 
-— Alain Badiou. Being and Event, 1988.
-— T.J. Clarke. Heaven On Earth: Painting and the Life to Come, 2020.
-— Isaac Goes. Silver Exposure: On ‘Night is Limpid’, 2022.
+— Alain Badiou. *Being and Event*, 1988.\
+— T.J. Clarke. *Heaven On Earth: Painting and the Life to Come*, 2020.\
+— Isaac Goes. Silver Exposure: On ‘Night is Limpid’, 2022.\
 — Isiah Medina. Three Questions with Andrei Pora, 2024.
