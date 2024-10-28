@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Double Bill
-publish_date: 2024-10-26T14:51:11.272Z
+publish_date: 2024-10-28T14:15:40.550Z
 author: Alexandre Galmard
 ---
 Thoughts from watching *[Night is Limpid](https://quantitycinema.com/night-is-limpid)* & *[He Thought He Died](https://quantitycinema.com/he-thought-he-died)* on July 29, 2024.
