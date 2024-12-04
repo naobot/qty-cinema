@@ -1,7 +1,7 @@
 ---
 layout: post
 title: On watching Jean-Luc Godard's Scénarios last night
-publish_date: 2024-12-04T17:04:46.410Z
+publish_date: 2024-12-04T04:00:46.410Z
 author: Isiah Medina
 ---
 *O﻿riginally a text message sent to Kelley Dong on September 9th 2024*\
