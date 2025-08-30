@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Against, and Beyond the Present: Isiah Medina on “Gangsterism”, Part 1"
-publish_date: 2025-08-30T03:24:19.904Z
+publish_date: 2025-08-29T03:24:19.904Z
 author: Phil Coldiron
 ---
 Ten years on from [our *Cinema Scope* interview](https://cinema-scope.com/cinema-scope-magazine/necessary-means-isiah-medina-on-8888/) and with the arrival of *Gangsterism* into the world, Isiah and I decided it would be a good idea if we sit down for a long talk once a decade for as long as we’re both around. Below is the first half of that conversation, which focuses on the conceptual contexts for the new film; the forthcoming second half looks more specifically at various formal concerns and qualities. Writing about *88:88* in the intro to that first interview, I said that I’d call it a masterpiece, but those were things of the past. Well, history has started up again in the intervening time—in horrifying ways, of course, from rising fascism to livestreamed genocide—so all I’ll say about *Gangsterism* is that it, too, is a masterpiece, one made very much for, against, and beyond the present. 
