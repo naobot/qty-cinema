@@ -1,4 +1,4 @@
 ---
-short_name: Victor Soho
-name: Victor Soho
+short_name: Víctor Soho
+name: Víctor Soho
 ---
