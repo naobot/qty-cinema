@@ -14,7 +14,7 @@ In that sense, the constellation-image (the image of constellations, or a bundle
 
 The film beyond language pierces the tragedy of languagisation and weaves solidarity among distinctive non-existent subjects. Therefore, it reaches the final cut of a photoplay which cannot be completed (or must remain incomplete). A sequence of ennui, powerlessly awaiting other incomplete photoplays. The beautiful momentum of solidarity.
 
-•
+![](/assets/uploads/escherdrawinghands.jpg)
 
 '전위' 몽타주, '자기-성찰성' 모순, '성좌-이미지' 태우기 
 
