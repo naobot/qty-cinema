@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '"Gangsterism" Q&A at Paradise Theatre'
+title: '"Gangsterism" World Premiere Q&A at Paradise Theatre'
 publish_date: 2025-09-02T01:04:19.114Z
 author: Isiah Medina and Winnie Wang
 ---
