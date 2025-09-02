@@ -1,0 +1,37 @@
+---
+layout: post
+title: Dislocation Montage, Self-Reflexivity Paradox, Burning Constellation-Image
+publish_date: 2025-09-02T13:57:47.706Z
+author: Xamil Citna
+---
+The random weaving of heterogeneous video clips plays the rhythm of flickering. Heterogeneous  time-space are askewly misaligned, cohering without outline. The montage of Gangsterism continuously dislocates things. In material science, dislocation is defined as a linear defect that  occurs when the crystallized structure of a material slips or twists under horizontal stress. At that  moment, atoms deviate from the structure, causing irreversible deformation of the material.  Likewise, in Gangsterism, the audio-visual image of the subject is either freed or marginalised  from the crystallized structure of a timeline that extends endlessly in a horizontal direction—an  illusion of subjectivity that can never be clearly depicted. As the non-existent subject detaches  from the representational structure of film, the sequence remains irreversibly deformed and  suspended. 
+
+*Gangsterism* embodies two types of aphasia as filmic form: similarity disorder (the metaphor of  meaninglessness, or meaningless metaphor) and contiguity disorder (the contextless metonymy,  or metonymy of contextlessness). For instance, uncertain statements reduced to repeated pitch,  traces of the screen’s frame cooled like sunspots, and beautiful but uncertain video clips without  symbolic signifié—all evoke the film’s similarity disorder. Abrupt repetition of utterances  interrupting dialogue between characters, and the cut as border-axis, where heterogeneous  audio-visual images vibrate along uncertain orbits—all evoke the film’s contiguity disorder. The  anticolonial film revolution regresses omnidirectionally to the action of utterance before language.  Thus, Gangsterism becomes a film beyond language, resonating with non-existent subjects exiled  beyond the textual discourse of ontology. 
+
+Yet, Gangsterism confronts its own paradox, as it represents a counter-structure while reflexively  reflecting on the representational structure of film. This is the self-reflexivity paradox: the return of  Escher’s Drawing Hands to a mere depiction on a two-dimensional plane. The totality of  dispositifs that once defined counter-cinema—which exposes and deconstructs the basic  apparatus and conventions of film production—returns here as an ordinary screening piece of the  film industry. The irony of gangsterism lies in the way the violence of medium discourse extends  to its own meta-cognition: “My vision will get worse, as my filmmaking gets better.” Gangsterism does not avoid this colonial dialectic, but its revolutionary gesture is absolutely frustrated by the  self-reflexivity paradox that seizes the essence of filmic representation. Film language provides  supplementary statements for the aphasic action of utterance. Dislocation montage  unexceptionally modulates the wavelength of spectacle. The non-existent subject’s sense of  disorientation is suffocated by gangsterism cinema. Tragically, catastrophe is inevitable. 
+
+In that sense, the constellation-image (the image of constellations, or a bundle of images as  constellations) sequence evokes the melancholia of resistance. The constellation-image print  metaphorizes a sequence of photographic fragments woven by the grammar of subjectivity. The 
+
+gestures of filmmaking, cross-edited with that, metonymize resistance cinema, manifesting  anticolonialism. Such melancholia of resistance is the affect of resignation that arises when the  constellation-image sequence representing anticolonial revolution is muted and burned by  uncertain manipulation. Thus, the film sublimates into a fictitious photoplay that contemplates  repeated attempts and failures at de-representation—the poignant beauty of retreating fiction  without completing the (anti-)ideological revolution. Within the vortex of catastrophe, the affect of  melancholia ripens beautifully as a catalyst for empathising with annihilated subjects whose very  residue of absence is denied. Incomplete resistances forge a solidarity of melancholia through  mutual empathy. Thus, the film beyond language pierces the tragedy of languagisation and  weaves solidarity among distinctive non-existent subjects. 
+
+Therefore, it reaches the final cut of a photoplay which cannot be completed (or must remain  incomplete). A sequence of ennui, powerlessly awaiting other incomplete photoplays. The  beautiful momentum of solidarity.
+
+
+
+'전위' 몽타주, '자기-성찰성' 모순, '성좌-이미지' 태우기 
+
+이질적인 영상 클립들을 무분별하게 엮으면서 연주하는 명멸의 리듬. 비스듬하게 어긋난 시공간의 윤곽 없는 응 집. 〈갱스터리즘〉의 몽타주는 사물을 쉴 새 없이 전위시킨다. 재료 과학에서 전위는 결정 구조를 이루는 물질이 수 평 방향의 응력에 의해 뒤틀리면서 생기는 선형 결함을 정의한다. 이때 원자가 구조로부터 이탈하면서 물질은 영 구적으로 변형된다. 마찬가지로 〈갱스터리즘〉에서 주체의 표상은 수평 방향으로 무한히 연장되는 타임라인의 결 정 구조에서 해방되거나 소외된다. 무엇으로도 가지런히 묘사되지 않는 주체성의 환영. 비-존재 주체가 영화의 재 현 구조로부터 이탈하면서 시퀀스는 영구적으로 해체된 채 계류된다. 
+
+〈갱스터리즘〉은 실어증의 두 유형, 즉 유사성 장애(무의미의 은유, 혹은 의미 없는 은유)와 인접성 장애(맥락 없는 환유, 혹은 무맥락의 환유)를 영화 형식으로 체현한다. 이를테면 피치만 남은 채 반복되는 모종의 발화 음성과 태 양의 흑점처럼 식어 있는 스크린 프레임 자국, 아무 상징적 의미 없이 아름다운 모종의 영상 클립은 영화의 유사성 장애를 환기한다. 느닷없이 인물 간 대화를 중단한 채 되풀이되는 발화문과 다종다기한 시청각 질료들이 불특정한 궤도로 진동하는 '경계-축'으로서 컷은 영화의 인접성 장애를 환기한다. 언어 이전의 발화 행위로 전방위적으로 퇴 행하는 탈식민주의 영화 혁명. 이로써 〈갱스터리즘〉은 언어 너머의 영화로서 존재론의 텍스트 담론 너머로 밀려난 비-존재 주체와 공명한다. 
+
+그런데 〈갱스터리즘〉은 영화의 재현 구조를 성찰하는 대안-구조를 다시 재현하는 영화라는 점에서 모순에 당면한 다. 에셔의 〈드로잉하는 손〉을 2차원 평면 상의 평이한 묘사로 되돌리는 '자기-성찰성' 모순. 영화 제작의 기본적 장치와 관습 시스템을 고발하고 해체하는 대안-영화를 영화 산업의 평이한 상영물로 되돌리는 디스포지티프의 총 체성. 매체 담론의 폭력성이 매체의 메타-인지까지 담보하는 갱스터리즘의 아이러니. "영화 제작이 나아질수록 시 각은 조악해진다." 〈갱스터리즘〉은 이같은 식민주의 변증법을 외면하지 않고 적시하지만, 혁명의 몸짓은 영화 재 
+
+현의 본질을 장악한 '자기-성찰성' 모순에 의해 모조리 좌절된다. 실어증의 발화 행위를 부연 진술하는 영화 언어.  여지없이 스펙터클의 파장을 추동하는 '전위' 몽타주. 비-존재 주체의 방향 상실 감각마저 질식시키는 '갱스터리 즘 시네마.' 애석하게도 파국은 필연이다. 
+
+그런 의미에서 '성좌-이미지(성좌의 이미지, 혹은 성좌로서 이미지 다발)' 시퀀스는 저항의 멜랑콜리를 자아낸다.  성좌 이미지 인쇄물은 주체성의 문법으로 이어지는 광학 파편들의 시퀀스를 은유한다. 이와 교차 편집되는 영화 제작의 몸짓들은 탈식민주의를 표방하는 저항 영화를 환유한다. 저항의 멜랑콜리는 이처럼 탈식민주의 영화 혁명 을 표상하는 '성좌-이미지' 시퀀스가 모종의 조작에 의해 뮤트되고 전소될 때 밀려오는 체념의 정동이다. 이에 따 라 영화는 거듭되는 탈재현의 시도와 좌절을 관조하는 광학 픽션으로 승화한다. (탈)이데올로기 혁명을 완수하지 않고 후퇴하는 픽션의 애달픈 아름다움. 파국의 소용돌이 속에서 멜랑콜리의 정동은 부재의 자취마저 부정당하고 절멸해가는 주체를 연민하는 촉매로 아름답게 무르익는다. 미완의 저항들이 서로를 연민하며 움트는 멜랑콜리의 연대. 이로써 언어 너머의 영화는 언어화의 비극을 관통하여 서로 다른 비-존재 주체들과 연대한다. 
+
+그리하여 완성될 수 없는 (혹은 미완성으로 남겨둬야 하는) 광학 연주도 최종 '컷'에 이른다. 또다른 미완의 광학 연주를 무기력하게 기다리는 권태의 시퀀스. 연대의 아름다운 모멘텀.
+
+
+
+<!--EndFragment-->
