@@ -2,7 +2,7 @@
 layout: post
 title: '"Gangsterism" Q&A at Paradise Theatre'
 publish_date: 2025-09-02T00:16:30.743Z
-author: Isiah Medina
+author: Isiah Medina and Winnie Wang
 ---
 *The following Q&A took place following the world premiere of Isiah Medina's Gangsterism at the Paradise Theatre, presented with CONTOURS / Saffron Maeve.* 
 
