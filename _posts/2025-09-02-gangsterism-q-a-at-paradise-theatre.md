@@ -6,6 +6,8 @@ author: Isiah Medina and Winnie Wang
 ---
 *The following Q&A took place following the world premiere of Isiah Medina's Gangsterism at the Paradise Theatre, presented with CONTOURS / Saffron Maeve.* 
 
+![](/assets/uploads/gangsterism_premiere.jpg)
+
 **Winnie Wang:** Yes, I am dressed like Clem on purpose. I asked Isiah to lend me the tie. Isiah, what are you wearing?
 
 **Isiah Medina:** Oh, seriously?
