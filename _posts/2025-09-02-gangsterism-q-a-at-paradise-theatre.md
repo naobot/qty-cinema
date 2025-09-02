@@ -14,9 +14,9 @@ In my own curation of this series, I’ve often felt both spacious and confined 
 
 Around this screening, I’ve been thinking about another film I’ve programmed in the past: Vincente Minnelli’s *Lust for Life*, about Van Gogh. Particularly one scene, where two now-prolific artists are arguing over craft. “With all your talk of emotion, all I see when I look at your work is just that you paint too fast,” exclaims Paul Gauguin in this scene. A fraction of a second later, Van Gogh responds, angrily, “You look too fast!” *Gangsterism* is a film that moves fast but invites us to look slowly, sculpting and arranging time in the way that Isiah has done for the better part of a decade. 
 
-After the screening, there will be a Q&A with the director moderated by writer and critic Winnie Wang—that’s a real treat, so please stay put afterwards. Now, please join me in welcoming Isiah Medina. 
+After the screening, there will be a Q&A with the director moderated by writer and critic Winnie Wang—that’s a real treat, so please stay put afterwards. Now, please join me in welcoming Isiah Medina. \[Applause]
 
-**I﻿siah Medina:** If you were part of the movie, as an actor or a crew member, please stand up or put up your hand. \[Applause] Thank you for making this picture with me. Now let's watch it.
+**I﻿siah Medina:** If you were part of the movie, as an actor or a crew member, please stand up or put up your hand. Thank you for making this picture with me. Now let's watch it.
 
 ![](/assets/uploads/gangsterism_premiere.jpg)
 
