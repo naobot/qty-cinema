@@ -16,6 +16,8 @@ Around this screening, I’ve been thinking about another film I’ve programmed
 
 After the screening, there will be a Q&A with the director moderated by writer and critic Winnie Wang—that’s a real treat, so please stay put afterwards. Now, please join me in welcoming Isiah Medina. 
 
+**I﻿siah Medina:** If you were part of the movie, as an actor or a crew member, please stand up or put up your hand. \[Applause] Thank you for making this picture with me. Now let's watch it.
+
 ![](/assets/uploads/gangsterism_premiere.jpg)
 
 **Winnie Wang:** Yes, I am dressed like Clem on purpose. I asked Isiah to lend me the tie. Isiah, what are you wearing?
