@@ -1,10 +1,22 @@
 ---
 layout: post
-title: '"Gangsterism" World Premiere Q&A at Paradise Theatre'
+title: '"Gangsterism" World Premiere Intro + Q&A at Paradise Theatre'
 publish_date: 2025-09-02T01:04:19.114Z
 author: Isiah Medina and Winnie Wang
 ---
 *The following Q&A took place following the world premiere of Isiah Medina's Gangsterism at the Paradise Theatre (August 29 2025) in Toronto, presented with CONTOURS / Saffron Maeve.* 
+
+**Saffron Maeve:** I’m so pleased to welcome everyone to the World Premiere of Isiah Medina’s *Gangsterism*. Firstly, thank you so much to Isiah and Kelley Dong for bringing this film to the series. I first met Isiah because he was frequenting Contours last year, so it’s a lovely full circle moment to be presenting this film. At the end of every season, I like to present the next season’s titles live, so I’ll quickly announce my fall lineup at Contours for you all. On September 21st, I’m showing the Czech anthology film *Pearls of the Deep*; on October 5th, Herschell Gordon Lewis’s *Color Me Blood Red*; on November 2nd, Bergman’s *Hour of the Wolf*; and, finally, on December 7th, Kenji Mizoguchi’s *Utamaro and His Five Women*. 
+
+Now, a bit of background on tonight’s director: Isiah Medina was born in Winnipeg and currently lives in Toronto, where he directs and produces films with his company Quantity Cinema. His features include *88:88*, *Inventing the Future*, *Night is Limpid*, *He Thought He Died*, and *Gangsterism*. His films have played at the Locarno Film Festival, New York Film Festival, TIFF, Mar del Plata International Film Festival, Jeonju International Film Festival, Berlin Critics' Week, QCinema, International Film Festival of India, São Paulo, Cineteca Madrid, Erarta Museum of Contemporary Art, Centre Georges Pompidou, and on YouTube. \[Cheering]
+
+In my own curation of this series, I’ve often felt both spacious and confined by the thematic core of “visual art”: painting, sculpture, illustration, but rarely industry, commerce, crime—the social periphery of art I’m most interested in. *Gangsterism* innovates not only formally, with cuts that feel like sleight of hand and compositions that resemble stately paintings, but offers new dimensions to the work I wish to do, and I’m grateful for that. This film—which follows a director-gangster (because the one is so often the other) collecting overdue funds—is revealing in what it communicates about disillusionment, exhibition, propriety, and fascism in Toronto’s filmmaking landscape. It is truly impressive how the film manages to both absorb and organize our anxieties—not simply acknowledging how racism or genocide infects us as social beings, but how blatantly it limits our capacity to engage with art and culture, and this is by design. 
+
+Around this screening, I’ve been thinking about another film I’ve programmed in the past: Vincente Minnelli’s *Lust for Life*, about Van Gogh. Particularly one scene, where two now-prolific artists are arguing over craft. “With all your talk of emotion, all I see when I look at your work is just that you paint too fast,” exclaims Paul Gauguin in this scene. A fraction of a second later, Van Gogh responds, angrily, “You look too fast!” *Gangsterism* is a film that moves fast but invites us to look slowly, sculpting and arranging time in the way that Isiah has done for the better part of a decade. 
+
+After the screening, there will be a Q&A with the director moderated by writer and critic Winnie Wang—that’s a real treat, so please stay put afterwards. Now, please join me in welcoming Isiah Medina. \[Applause]
+
+**I﻿siah Medina:** If you were part of the movie, as an actor or a crew member, please stand up or put up your hand. Thank you for making this picture with me. Now let's watch it.
 
 ![](/assets/uploads/gangsterism_premiere.jpg)
 
