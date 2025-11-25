@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '"88:88" Intro + Q&A with Alberto Toscano at The Cinematheque'
-publish_date: 2025-11-25T17:18:42.999Z
+publish_date: 2025-09-29T16:18:42.999Z
 author: Isiah Medina, Alberto Toscano, and Steffanie Ling
 ---
 *The following Q&A took place following the 10-year-anniversary screening of Isiah Medina’s 88:88 at the Cinematheque in Vancouver (September 29, 2025), presented by DIM Cinema.*
