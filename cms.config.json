@@ -64,8 +64,8 @@
           "fields": [
             { "name": "name", "label": "Name", "type": "text", "required": true },
             { "name": "link", "label": "Link", "type": "text", "required": true },
-            { "name": "dropdown", "label": "Dropdown", "type": "text", "required": false },
-            { "name": "disabled", "label": "Disabled", "type": "text", "required": false }
+            { "name": "dropdown", "label": "Dropdown", "type": "boolean", "required": false },
+            { "name": "disabled", "label": "Disabled", "type": "boolean", "required": false }
           ]
         }
       ]
