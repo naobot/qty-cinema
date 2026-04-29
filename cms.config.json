@@ -1,0 +1,82 @@
+{
+  "assets_path": "assets/uploads",
+  "collections": [
+    {
+      "name": "posts",
+      "label": "Posts",
+      "folder": "_posts",
+      "fields": [
+        { "name": "title", "label": "Title", "type": "text", "required": true },
+        { "name": "publish_date", "label": "Publish Date", "type": "datetime", "required": true },
+        { "name": "author", "label": "Author", "type": "text", "required": false }
+      ]
+    },
+    {
+      "name": "movies",
+      "label": "Movies",
+      "folder": "_movies",
+      "fields": [
+        { "name": "title", "label": "Title", "type": "text", "required": true },
+        { "name": "director", "label": "Director", "type": "text", "required": true },
+        { "name": "release", "label": "Release Date", "type": "datetime", "required": true },
+        { "name": "watch", "label": "Watch Link", "type": "text", "required": false },
+        { "name": "synopsis", "label": "Short Description", "type": "textarea", "required": false },
+        { "name": "image", "label": "Main Image", "type": "image", "required": false }
+      ]
+    },
+    {
+      "name": "authors",
+      "label": "Authors",
+      "folder": "_authors",
+      "fields": [
+        { "name": "short_name", "label": "Display Name", "type": "text", "required": true },
+        { "name": "name", "label": "Full Name", "type": "text", "required": true }
+      ]
+    }
+  ],
+  "singletons": [
+    {
+      "name": "about",
+      "label": "About",
+      "path": "about.md",
+      "layout": "content",
+      "fields": []
+    }
+  ],
+  "data_files": [
+    {
+      "path": "_data/events.yaml",
+      "label": "Events",
+      "fields": [
+        {
+          "name": "items",
+          "label": "Events",
+          "type": "list-of-objects",
+          "fields": [
+            { "name": "what", "label": "What", "type": "text", "required": true },
+            { "name": "when", "label": "When", "type": "datetime", "required": true },
+            { "name": "where", "label": "Where", "type": "text", "required": true },
+            { "name": "link", "label": "Link", "type": "text", "required": false }
+          ]
+        }
+      ]
+    },
+    {
+      "path": "_data/navigation.yml",
+      "label": "Navigation",
+      "fields": [
+        {
+          "name": "items",
+          "label": "Navigation Items",
+          "type": "list-of-objects",
+          "fields": [
+            { "name": "name", "label": "Name", "type": "text", "required": true },
+            { "name": "link", "label": "Link", "type": "text", "required": true },
+            { "name": "dropdown", "label": "Dropdown", "type": "text", "required": false },
+            { "name": "disabled", "label": "Disabled", "type": "text", "required": false }
+          ]
+        }
+      ]
+    }
+  ]
+}
