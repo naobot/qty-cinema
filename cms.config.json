@@ -23,15 +23,6 @@
         { "name": "synopsis", "label": "Short Description", "type": "textarea", "required": false },
         { "name": "image", "label": "Main Image", "type": "image", "required": false }
       ]
-    },
-    {
-      "name": "authors",
-      "label": "Authors",
-      "folder": "_authors",
-      "fields": [
-        { "name": "short_name", "label": "Display Name", "type": "text", "required": true },
-        { "name": "name", "label": "Full Name", "type": "text", "required": true }
-      ]
     }
   ],
   "singletons": [
@@ -66,9 +57,10 @@
       "label": "Navigation",
       "fields": [
         {
-          "name": "items",
+          "name": "__root__",
           "label": "Navigation Items",
           "type": "list-of-objects",
+          "root": true,
           "fields": [
             { "name": "name", "label": "Name", "type": "text", "required": true },
             { "name": "link", "label": "Link", "type": "text", "required": true },
