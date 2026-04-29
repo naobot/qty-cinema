@@ -4,7 +4,7 @@
     {
       "name": "posts",
       "label": "Posts",
-      "folder": "_posts",
+      "path": "_posts",
       "fields": [
         { "name": "title", "label": "Title", "type": "text", "required": true },
         { "name": "publish_date", "label": "Publish Date", "type": "datetime", "required": true },
@@ -14,7 +14,7 @@
     {
       "name": "movies",
       "label": "Movies",
-      "folder": "_movies",
+      "path": "_movies",
       "fields": [
         { "name": "title", "label": "Title", "type": "text", "required": true },
         { "name": "director", "label": "Director", "type": "text", "required": true },
