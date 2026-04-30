@@ -3,9 +3,10 @@
   "collections": [
     {
       "name": "posts",
-      "label": "Posts",
+      "label": "Criticism",
       "path": "_posts",
       "publishable": true,
+      "slugify_with_date": true,
       "fields": [
         { "name": "title", "label": "Title", "type": "text", "required": true },
         { "name": "publish_date", "label": "Publish Date", "type": "datetime", "required": true },
