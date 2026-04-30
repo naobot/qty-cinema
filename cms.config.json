@@ -68,7 +68,7 @@
           "type": "list-of-objects",
           "fields": [
             { "name": "what", "label": "What", "type": "text", "required": true },
-            { "name": "when", "label": "When", "type": "datetime", "required": true },
+            { "name": "when", "label": "When", "type": "datetime", "required": true, "timezone": true },
             { "name": "where", "label": "Where", "type": "text", "required": true },
             { "name": "link", "label": "Link", "type": "text", "required": false }
           ]
