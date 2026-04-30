@@ -1,9 +1,12 @@
 ---
 layout: content
 ---
-{% assign author = site.authors | where:"short_name", page.author | first %}
+
 <h1>{{ page.title }}</h1>
-<h4>by <a href="{{ author.url | relative_url }}">{{ author.name }}</a> ({{ page.publish_date | date_to_string }})</h4>
+
+{% if page.author and page.author != '' %}
+<h4>by {{ page.author }} ({{ page.publish_date | date_to_string }})</h4>
+{% endif %}
 
 {{ content }}
 
