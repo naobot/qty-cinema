@@ -6,7 +6,7 @@ permalink: /:categories/:year/:month/:day/:title/
 collections:
   movies:
     output: true
-    permalink: /:name
+    permalink: /:name/
 
 exclude:
   - Gemfile
