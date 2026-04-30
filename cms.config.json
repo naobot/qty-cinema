@@ -5,6 +5,7 @@
       "name": "posts",
       "label": "Posts",
       "path": "_posts",
+      "publishable": true,
       "fields": [
         { "name": "title", "label": "Title", "type": "text", "required": true },
         { "name": "publish_date", "label": "Publish Date", "type": "datetime", "required": true },
@@ -15,6 +16,8 @@
       "name": "movies",
       "label": "Movies",
       "path": "_movies",
+      "publishable": true,
+      "orderable": true,
       "fields": [
         { "name": "title", "label": "Title", "type": "text", "required": true },
         { "name": "director", "label": "Director", "type": "text", "required": true },
@@ -36,23 +39,6 @@
   ],
   "data_files": [
     {
-      "path": "_data/events.yaml",
-      "label": "Events",
-      "fields": [
-        {
-          "name": "items",
-          "label": "Events",
-          "type": "list-of-objects",
-          "fields": [
-            { "name": "what", "label": "What", "type": "text", "required": true },
-            { "name": "when", "label": "When", "type": "datetime", "required": true },
-            { "name": "where", "label": "Where", "type": "text", "required": true },
-            { "name": "link", "label": "Link", "type": "text", "required": false }
-          ]
-        }
-      ]
-    },
-    {
       "path": "_data/navigation.yml",
       "label": "Navigation",
       "fields": [
@@ -66,6 +52,23 @@
             { "name": "link", "label": "Link", "type": "text", "required": true },
             { "name": "dropdown", "label": "Dropdown", "type": "boolean", "required": false },
             { "name": "disabled", "label": "Disabled", "type": "boolean", "required": false }
+          ]
+        }
+      ]
+    },
+    {
+      "path": "_data/events.yaml",
+      "label": "Events",
+      "fields": [
+        {
+          "name": "items",
+          "label": "Events",
+          "type": "list-of-objects",
+          "fields": [
+            { "name": "what", "label": "What", "type": "text", "required": true },
+            { "name": "when", "label": "When", "type": "datetime", "required": true },
+            { "name": "where", "label": "Where", "type": "text", "required": true },
+            { "name": "link", "label": "Link", "type": "text", "required": false }
           ]
         }
       ]
