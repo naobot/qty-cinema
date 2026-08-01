@@ -1,6 +1,6 @@
 ---
 published: true
-publish_date: '2026-08-03T10:15:00.000Z'
+publish_date: '2026-08-01T08:15:00.000Z'
 title: 'When Movies Became A Thing You Make '
 author: >-
   Douglas Dixon-Barker, Kelley Dong, Alexandre Galmard, Isaac Goes, Dylan
