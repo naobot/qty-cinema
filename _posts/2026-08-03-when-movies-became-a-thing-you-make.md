@@ -12,7 +12,7 @@ And in the beginning we filmed what was in front of us: models of planetary move
 
 \- I.M. 
 
-1.  **What was the origin of your relation to the cinema? When or how did you know you were going to be a picturemaker, was there an event, a film, an idea, something that happened where you knew you wanted to be part of this?** 
+1.  **What was the origin of your relation to the cinema? When or how did you know you were going to be a picturemaker, was there an event, a film, an idea, something that happened where you knew you wanted to be part of this?**
     
 
 **Douglas Dixon-Barker**: It started with _Episode 1_. I'd been to the movies earlier, and watched videos at home, but that was the first time there was an anticipation for cinema. It was also when the production was exposed, magazine articles with behind the scenes photos of blue screens and discussions of Lucas returning after all this time. That was when movies became a thing you make. 
@@ -29,8 +29,8 @@ Around that time, I was exposed to these DVDs from this group called Directors L
 
 **Douglas Dixon-Barker**: Those 3 DVDs were big for me too, the way they pulled things together (cinema, music, skating) really got me thinking about cinema in a way that I would continue to find inspiring in later Godard’s montage of images, text and music.
 
-**Dylan Tachick**: I’ve always had wild curiosities and fascinations with horror, which were influenced by my family’s infatuations with the genre. Sneaking out of bed to join my older sister watching _Nightmare on Elm Street_, only to hysterically scream and cry seeing Johnny Depp get mutilated while pinned against the ceiling of his own bedroom. Going to my friend’s house and walking in on his older brother and his friends watching the climax of _Blair Witch Project_, thinking it was real. My family sitting me down to watch _It_ at age 7. They also loved Michael Myers, and each of my aunts had their very own Michael Myers mask to ensure I went home crying. Those memories and fascinations have never left me, and in turn I have always found excitement in scaring others. I’ve always thought I’d make a decent horror film.  
-  
+**Dylan Tachick**: I’ve always had wild curiosities and fascinations with horror, which were influenced by my family’s infatuations with the genre. Sneaking out of bed to join my older sister watching _Nightmare on Elm Street_, only to hysterically scream and cry seeing Johnny Depp get mutilated while pinned against the ceiling of his own bedroom. Going to my friend’s house and walking in on his older brother and his friends watching the climax of _Blair Witch Project_, thinking it was real. My family sitting me down to watch _It_ at age 7. They also loved Michael Myers, and each of my aunts had their very own Michael Myers mask to ensure I went home crying. Those memories and fascinations have never left me, and in turn I have always found excitement in scaring others. I’ve always thought I’d make a decent horror film.
+
 Growing up skateboarding trained me to see or approach the world in a different way, particularly when looking for perfect spots that were hiding in plain sight or required hopping fences and walking through hills. Skate videos are incredibly formative for my interest in cinema, especially experimental film. I filmed my friends skate but could never get the video made. Skating certainly inspired me to pick up the camera before anything else ever did and was also most likely the root of my understanding of montage.
 
 **Alexandre Galmard**: As far as I can remember I always wanted to be a moviemaker. Every time I heard a new bedtime story, I wanted to become what the protagonists were. I quickly realized that what I truly wanted was to make up and tell the stories themselves. But I grew up a horrendously slow reader, so I thought I’ll never be a writer, because the idea of inflicting this on another person felt unbearable.
@@ -73,7 +73,7 @@ There’s also a practical lineage of filmmaking to consider. You can’t run fr
 
 It was then, at the ripe age of 18 and in dire need of camaraderie, that a mutual friend introduced me to Isiah, and I found the only lineage I felt was the strongest and most potent for pursuing the future of our common practice. Today, I am still studying and discovering new ways in which our current present resonates in the works and theories of both Sergei Eisenstein and Jean-Luc Godard. The infinity of their contributions remains unscathed. Inversely, many living filmmakers whom I admire and whose next move I await are featured in this very program.
 
-1.  **And what of your moviegoing habits? Do you frequent the cinema? Do you watch at home? What device? Or no cinema?** 
+1.  **And what of your moviegoing habits? Do you frequent the cinema? Do you watch at home? What device? Or no cinema?**
     
 
 **KD**: These days I rarely go to the cinema (except for the $5 screenings at the Carlton). It has taken me a long time to accept that no movie is too rare or important for me to reject the flow of life. But I do love the sticky floors of the cinema, and my one consistent habit is that when I travel I ask locals for their favourite cinema. I try to go if I can, but I mostly just like the stories. 
@@ -106,8 +106,7 @@ In the end, you realize how deeply felt something has to be for it to even make 
 
 1.  **The question of making work of course is difficult, I don't mean in the actual making, I mean in its possibility, in the reality of the world, and so there are times we can make pictures, and times we must pause and retreat, and a true pause can be as good as an actual film, so my question is something else, which is, how do you continue? Most of us live in different countries, and we sometimes communicate, but cinema is in front of us, it's shooting in the sun with other people, so how do you continue today? Does community exist? For example I feel closer to Doug than I do to many filmmakers in the city I live in and I've only been face to face with Doug twice. So maybe it's a question of cinema again; I've only seen his face a number of times but I've seen his films quite a bit more. So how do you continue, or why do you continue?**
     
-2.    
-    **KD**: Community does exist in this age of virtual connection. But it lives in a non-linear temporality. I’m inspired by the thought of present-day Isaac but also re-encountering past Isaac’s Tumblr posts, and receiving texts from Isaac about future Isaac’s next film. Sometimes that can be lonely because of the innate fragmentation of long-distance, other times the vast spread across nations is very empowering. To be straightforward about myself, ever since I started socially and medically transitioning I’ve been more assured of my right to the avant-garde as an untrustworthy subject whose purview is already framed as an unreasonable complaint. To buttress this one faces the temptation to lean either into realism, social theory, anthropology, autobiography or confession. But my selfish desire to make less sense to anyone else, from the meaning of the textures, the secrets in the cuts, and the form itself, is what impels me to continue to make myself, in this private way, happy. 
+2.  **KD**: Community does exist in this age of virtual connection. But it lives in a non-linear temporality. I’m inspired by the thought of present-day Isaac but also re-encountering past Isaac’s Tumblr posts, and receiving texts from Isaac about future Isaac’s next film. Sometimes that can be lonely because of the innate fragmentation of long-distance, other times the vast spread across nations is very empowering. To be straightforward about myself, ever since I started socially and medically transitioning I’ve been more assured of my right to the avant-garde as an untrustworthy subject whose purview is already framed as an unreasonable complaint. To buttress this one faces the temptation to lean either into realism, social theory, anthropology, autobiography or confession. But my selfish desire to make less sense to anyone else, from the meaning of the textures, the secrets in the cuts, and the form itself, is what impels me to continue to make myself, in this private way, happy.
     
 
 **DT**:  I continue to work on movies because it’s one of the few things that I really love and care about aside from friends and family. I’ve been going through my own personal hiatus  over the last few years, but currently I have a few things active in the pipeline. When I was younger I dreamed of being a career filmmaker but I’ve stopped thinking that is any possibility - if it were to ever happen somehow, it will be entirely on my own terms. I’m very thankful to be walking distance from my closest collaborators and colleagues and will always continue to work and help them with any of their projects.
@@ -126,7 +125,6 @@ That being said, there are also people like Dylan, James Emrick, Marc Matchak, a
 
 On the question of continuing to make work, it never occurred to me not to. I had a rough year and, for the first time in my life, briefly began to think about finding a “career,” only to find that I was at a total loss. I immediately realized I had never once previously given it any thought.
 
-  
 **This is a longer technical question, perhaps to add to the directory of production models…I like to use the example of exporting my cuts to cut together other cuts for new rhythms, or that I don’t use proxies because I need to see what the picture actually looks like at all times, the colour correction is before the edit, I use the same C200 + iMac for almost 8 or 9 years now, I will keep using Final Cut until something external stops me, and I understand some of you have built computers to cut  or make virtual cameras. Are there specific tools or moves you find yourself fond of? And to not divide questions since I imagine they are linked, though not, what of workflows? For example lately I’ve been thinking I’m trying to shoot first, then edit a little, and then scrapbook, and then write some voice over, and then edit that in, and then shoot some dialogue, and then edit again…What does your workflow look like to you today? Or even tomorrow? And what does crew size look like, yesterday, today, tomorrow, what is a crew, or even what is a cast to you?**
 
 **KD**: My main tool is the iPhone 12. My workday is structured around my 9 to 5. I work in an office. Within these constraints I make the movie. Throughout my workday I draw, read, and write. I make a list of textures that I need to shoot (trees, skin, snow, grass, brick) and folders of what I already have. I also write a poem. My previous films took 1-2 days to edit. But shooting takes months. _Pears_ took a year. _Letter to Sirius_ was edited over the course of a month. Storyboards were done on the glass door of the shower, the planner I use at work, my diary, and the iPhone notes app. Shooting includes taking photographs. _Letter to Sirius_ was filmed from December 2025 to April 2026 across Toronto, Halifax, London, Zurich, two parks near my home, my bedroom, my porch, and my backyard. I spent less than an hour with the actors. 
@@ -151,7 +149,6 @@ I guess elaborating on what I had mentioned earlier - what I value most about su
 
 Building a studio also means developing your own pipeline and workflow, as much as it is about inventing a cognitive map, for yourself and others, depending on what and who you’re working with. I have lost all my masters to hardware crashes over the years. If I hadn’t archived everything on YouTube, only my friends could have helped me get my films back. So it is of the utmost importance that you care for your equipment, and your people, as much as you would care for your ideas, because they are ultimately the same.
 
-  
 **I know in _Sang Titre_, Godard says, “we don’t need hope in order to try,” and Markopolous says, “art is not a knowledge,” but I just wanted to ask something a bit direct…Is there something you hope for or want to know, through cinema or without it?** 
 
 **DDB**: It’s always questions, not knowledge. The question changes, but that’s where art always starts for me. Sometimes the question gets answered during the process, and that’s where it ends, it’s closed off and I start something new. So no, there’s nothing I want to know through cinema, but I want to keep learning.
@@ -168,18 +165,21 @@ Building a studio also means developing your own pipeline and workflow, as much 
     
 2.  **DT**:
     
-3.  ![](/assets/uploads/dtgif.gif)
+    ![](/assets/uploads/dtgif.gif)
 
+  
 **DDB**: Research into granular synthesis of the image. 
 
 ![](/assets/uploads/ddb.png)
 
+  
 **AG**: A first look into my forthcoming project titled _Open Sky._
 
 ![](/assets/uploads/ag1.jpg)
 
 ![](/assets/uploads/ag2.jpg)
 
+  
 **IG**: _The Poser_ (forthcoming)
 
 ![](/assets/uploads/ig.png)
