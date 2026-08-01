@@ -1,7 +1,7 @@
 ---
 link: true
-synopsis: From Winnipeg to Paris, from Montreal to the Philippines, the dash between
-  "Filipino-Canadian" becomes a minus.
+synopsis: 'From Winnipeg to Paris, from Montreal to the Philippines, the dash between
+  "Filipino-Canadian" becomes a minus.'
 release: 2020-03-11
 layout: movie
 title: log 2
