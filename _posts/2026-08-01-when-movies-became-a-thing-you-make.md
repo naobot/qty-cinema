@@ -161,7 +161,9 @@ Building a studio also means developing your own pipeline and workflow, as much 
 
 **DT:**
 
-![](/assets/uploads/dtgif.gif)
+![](/assets/uploads/screenshot-2026-07-23-at-100755-pm.png)
+
+![](/assets/uploads/dt2.png)
 
 **DDB**: Research into granular synthesis of the image. 
 
