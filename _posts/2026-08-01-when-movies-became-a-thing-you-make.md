@@ -168,7 +168,7 @@ Building a studio also means developing your own pipeline and workflow, as much 
 
 ![](/assets/uploads/ddb.png)
 
-**AG**: _Open Sky_ (forthcoming_._
+**AG**: _Open Sky_ (forthcoming)
 
 ![](/assets/uploads/ag1.jpg)
 
