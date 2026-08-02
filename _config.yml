@@ -15,6 +15,12 @@ exclude:
 
 timezone: America/Toronto
 
+# The CMS derives a post's filename date from publish_date at creation and does
+# not re-slug on edit, so a date set in the future freezes into the slug. With
+# Jekyll's default (future: false) such a post is silently skipped on every
+# build while the deploy still succeeds. Publish them instead.
+future: true
+
 defaults:
   - scope:
       path: ""
