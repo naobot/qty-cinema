@@ -8,11 +8,6 @@ collections:
     output: true
     permalink: /:name/
 
-exclude:
-  - Gemfile
-  - Gemfile.lock
-  - README.md
-
 timezone: America/Toronto
 
 # The CMS derives a post's filename date from publish_date at creation and does
@@ -38,12 +33,15 @@ plugins:
 sass:
     sass_dir: _sass
 
+# Single exclude list. YAML keeps only the last key of a duplicate pair, so
+# splitting this across two blocks silently drops the earlier one.
 exclude:
   - .sass-cache/
   - .jekyll-cache/
   - gemfiles/
   - Gemfile
   - Gemfile.lock
+  - README.md
   - node_modules/
   - vendor/bundle/
   - vendor/cache/
